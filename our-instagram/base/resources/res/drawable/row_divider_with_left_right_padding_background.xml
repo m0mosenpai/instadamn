@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:right="@dimen/ab_test_media_thumbnail_preview_item_internal_padding">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_separator"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,64 @@
+package X;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* renamed from: X.XcO, reason: case insensitive filesystem */
+/* loaded from: classes12.dex */
+public final class EnumC72388XcO {
+    public static final /* synthetic */ EnumC72388XcO[] A01;
+    public static final EnumC72388XcO A02;
+    public static final EnumC72388XcO A03;
+    public final String A00;
+
+    static {
+        EnumC72388XcO enumC72388XcO = new EnumC72388XcO("UNSET_OR_UNRECOGNIZED_ENUM_VALUE", 0, "UNSET_OR_UNRECOGNIZED_ENUM_VALUE");
+        A03 = enumC72388XcO;
+        EnumC72388XcO enumC72388XcO2 = new EnumC72388XcO("ANIMATE_FOR_AUTHENTIC_IMAGES_NOT_SUPPORTED", 1, "ANIMATE_FOR_AUTHENTIC_IMAGES_NOT_SUPPORTED");
+        EnumC72388XcO enumC72388XcO3 = new EnumC72388XcO("ANIMATE_GATED", 2, "ANIMATE_GATED");
+        EnumC72388XcO enumC72388XcO4 = new EnumC72388XcO("ANIMATE_NOT_SUPPORTED_ON_VOICE", 3, "ANIMATE_NOT_SUPPORTED_ON_VOICE");
+        EnumC72388XcO enumC72388XcO5 = new EnumC72388XcO("EMPTY_PROMPT", 4, "EMPTY_PROMPT");
+        EnumC72388XcO enumC72388XcO6 = new EnumC72388XcO("EMPTY_RESULTS", 5, "EMPTY_RESULTS");
+        EnumC72388XcO enumC72388XcO7 = new EnumC72388XcO("ENGLISH_FILTER_BLOCKED", 6, "ENGLISH_FILTER_BLOCKED");
+        EnumC72388XcO enumC72388XcO8 = new EnumC72388XcO("FEATURE_GATED", 7, "FEATURE_GATED");
+        EnumC72388XcO enumC72388XcO9 = new EnumC72388XcO("INFO", 8, "INFO");
+        EnumC72388XcO enumC72388XcO10 = new EnumC72388XcO("INPUT_INTEGRITY_REFUSAL", 9, "INPUT_INTEGRITY_REFUSAL");
+        EnumC72388XcO enumC72388XcO11 = new EnumC72388XcO("INVALID_INTENT", 10, "INVALID_INTENT");
+        EnumC72388XcO enumC72388XcO12 = new EnumC72388XcO("MEMU_ANIMATE_DISABLE", 11, "MEMU_ANIMATE_DISABLE");
+        EnumC72388XcO enumC72388XcO13 = new EnumC72388XcO("MEMU_EDIT_DISABLE", 12, "MEMU_EDIT_DISABLE");
+        EnumC72388XcO enumC72388XcO14 = new EnumC72388XcO("MEMU_EMPTY_PROFILE_IMAGE_HANDLE", 13, "MEMU_EMPTY_PROFILE_IMAGE_HANDLE");
+        EnumC72388XcO enumC72388XcO15 = new EnumC72388XcO("MEMU_NO_MULTIPLAYER_PROFILE", 14, "MEMU_NO_MULTIPLAYER_PROFILE");
+        EnumC72388XcO enumC72388XcO16 = new EnumC72388XcO("MEMU_NO_PROFILE", 15, "MEMU_NO_PROFILE");
+        EnumC72388XcO enumC72388XcO17 = new EnumC72388XcO("MEMU_PROFILE_FAIL", 16, "MEMU_PROFILE_FAIL");
+        EnumC72388XcO enumC72388XcO18 = new EnumC72388XcO("MEMU_REIMAGINE_DISABLED", 17, "MEMU_REIMAGINE_DISABLED");
+        EnumC72388XcO enumC72388XcO19 = new EnumC72388XcO("NOT_FLASH_TYPEAHEAD_CASE", 18, "NOT_FLASH_TYPEAHEAD_CASE");
+        A02 = enumC72388XcO19;
+        EnumC72388XcO enumC72388XcO20 = new EnumC72388XcO("NO_IMAGE_HANDLE", 19, "NO_IMAGE_HANDLE");
+        EnumC72388XcO enumC72388XcO21 = new EnumC72388XcO("NO_WATERMARKED_MEDIA", 20, "NO_WATERMARKED_MEDIA");
+        EnumC72388XcO enumC72388XcO22 = new EnumC72388XcO("OUTPUT_INTEGRITY_REFUSAL", 21, "OUTPUT_INTEGRITY_REFUSAL");
+        EnumC72388XcO enumC72388XcO23 = new EnumC72388XcO("PIG_GATED", 22, "PIG_GATED");
+        EnumC72388XcO enumC72388XcO24 = new EnumC72388XcO("REELS_INTERMEDIATE_IMAGES_REFUSAL", 23, "REELS_INTERMEDIATE_IMAGES_REFUSAL");
+        EnumC72388XcO enumC72388XcO25 = new EnumC72388XcO("SOURCE_IMAGE_NOT_OWNED_BY_VIEWER", 24, "SOURCE_IMAGE_NOT_OWNED_BY_VIEWER");
+        EnumC72388XcO enumC72388XcO26 = new EnumC72388XcO("TOO_MANY_RESULTS", 25, "TOO_MANY_RESULTS");
+        EnumC72388XcO enumC72388XcO27 = new EnumC72388XcO("UNKNOWN", 26, "UNKNOWN");
+        EnumC72388XcO[] enumC72388XcOArr = new EnumC72388XcO[30];
+        System.arraycopy(new EnumC72388XcO[]{new EnumC72388XcO("USER_UPLOAD_EDIT_DISABLED_FNF", 27, "USER_UPLOAD_EDIT_DISABLED_FNF"), new EnumC72388XcO("USER_UPLOAD_EDIT_DISABLED_NON_FNF", 28, "USER_UPLOAD_EDIT_DISABLED_NON_FNF"), new EnumC72388XcO("USER_UPLOAD_EDIT_DISALLOW_NON_VIEWER_OWNED_IMAGE", 29, "USER_UPLOAD_EDIT_DISALLOW_NON_VIEWER_OWNED_IMAGE")}, AbstractC31175DnJ.A1b(new EnumC72388XcO[]{enumC72388XcO, enumC72388XcO2, enumC72388XcO3, enumC72388XcO4, enumC72388XcO5, enumC72388XcO6, enumC72388XcO7, enumC72388XcO8, enumC72388XcO9, enumC72388XcO10, enumC72388XcO11, enumC72388XcO12, enumC72388XcO13, enumC72388XcO14, enumC72388XcO15, enumC72388XcO16, enumC72388XcO17, enumC72388XcO18, enumC72388XcO19, enumC72388XcO20, enumC72388XcO21, enumC72388XcO22, enumC72388XcO23, enumC72388XcO24, enumC72388XcO25, enumC72388XcO26, enumC72388XcO27}, enumC72388XcOArr) ? 1 : 0, enumC72388XcOArr, 27, 3);
+        A01 = enumC72388XcOArr;
+    }
+
+    public static EnumC72388XcO valueOf(String str) {
+        return (EnumC72388XcO) Enum.valueOf(EnumC72388XcO.class, str);
+    }
+
+    public static EnumC72388XcO[] values() {
+        return (EnumC72388XcO[]) A01.clone();
+    }
+
+    public EnumC72388XcO(String str, int i, String str2) {
+        this.A00 = str2;
+    }
+
+    @Override // java.lang.Enum
+    public final String toString() {
+        return this.A00;
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:color="?attr/igds_color_text_on_color"
+        app:state_blue="true"/>
+    <item
+        android:color="?attr/igds_color_primary_text"
+        app:state_grey="true"/>
+    <item
+        android:color="?attr/igds_color_primary_button"
+        app:state_transparent="true"/>
+    <item
+        android:color="?attr/igds_color_text_on_color"
+        app:state_black="true"/>
+</selector>

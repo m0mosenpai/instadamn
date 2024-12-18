@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/countdown_sticker_title_text_color"/>
+    <corners
+        android:topLeftRadius="@dimen/audio_dubbing_gen_ai_gif_size"
+        android:topRightRadius="@dimen/audio_dubbing_gen_ai_gif_size"
+        android:bottomLeftRadius="@dimen/audio_dubbing_gen_ai_gif_size"
+        android:bottomRightRadius="@dimen/audio_dubbing_gen_ai_gif_size"/>
+</shape>

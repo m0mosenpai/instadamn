@@ -1,0 +1,140 @@
+{
+    "fx chain": [
+      {
+        "name": "Double Pitch Shifter"
+      },
+      {
+        "name": "MB Compressor"
+      },
+      {
+        "name": "Bit Reducer"
+      },
+      {
+        "name": "Saturator"
+      }
+    ],
+    "initial parameters": [
+      {
+        "outputGainDecibels ": "0",
+        "dryGainDecibels": "-59.9",
+        "pitchShifted1GainDecibels": "0",
+        "pitchShifted2GainDecibels": "-59.9",
+        "pitchShifted1PitchSemitones": "-3",
+        "pitchShifted2PitchSemitones": "0",
+        "pitchShifted1DelayTimeMs": "0",
+        "pitchShifted2DelayTimeMs": "0"
+      },
+      {
+        "crossover LF": "500",
+        "crossover HF": "4000",
+        "attack time 0": "20",
+        "attack time 1": "10",
+        "attack time 2": "20",
+        "release time 0": "100",
+        "release time 1": "100",
+        "release time 2": "100",
+        "ratio 0": "2",
+        "ratio 1": "4",
+        "ratio 2": "2",
+        "threshold 0": "-10",
+        "threshold 1": "0",
+        "threshold 2": "-10",
+        "knee width 0": "0",
+        "knee width 1": "0",
+        "knee width 2": "0",
+        "output gain 0": "-15",
+        "output gain 1": "0",
+        "output gain 2": "-15",
+        "auto makeup gain 0 ": "1",
+        "auto makeup gain 1": "1",
+        "auto makeup gain 2": "1"
+      },
+      {
+        "numBits": "16",
+        "downsamplingRate": "3.9",
+        "inputGainDecibels": "0",
+        "outputGainDecibels": "0",
+        "frequencyCutoff": "10666.7",
+        "wetDry": "1"
+      },
+      {
+        "wet gain": "1",
+        "oversampling factor": "2",
+        "function": "SigmoidAbs",
+        "drive": "17",
+        "output gain": "-3"
+      }
+    ],
+    "user parameters": [
+      [
+        {
+          "name": "pitchShifted1PitchSemitones",
+          "min": "0",
+          "max": "-5",
+          "skew": "1"
+        }
+      ],
+      [
+        {
+          "name": "output gain 0",
+          "min": "0",
+          "max": "-15",
+          "skew": "1"
+        },
+        {
+          "name": "output gain 2",
+          "min": "0",
+          "max": "-15",
+          "skew": "1"
+        },
+        {
+            "name": "crossover LF",
+            "min": "500",
+            "max": "700",
+            "skew": "1"
+        }
+      ],
+      [
+        {
+          "name": "numBits",
+          "min": "16",
+          "max": "8.99",
+          "skew": "1"
+        },
+        {
+          "name": "downsamplingRate",
+          "min": "0",
+          "max": "5",
+          "skew": "1"
+        },
+        {
+          "name": "frequencyCutoff",
+          "min": "20000",
+          "max": "4529.29",
+          "skew": "1"
+        },
+        {
+          "name": "wetDry",
+          "min": "0",
+          "max": "1",
+          "skew": "1"
+
+        }
+      ],
+      [
+        {
+          "name": "drive",
+          "min": "0",
+          "max": "32",
+          "skew": "2"
+        },
+        {
+          "name": "output gain",
+          "min": "0",
+          "max": "-1",
+          "skew": "1"
+        }
+
+      ]
+    ]
+  }

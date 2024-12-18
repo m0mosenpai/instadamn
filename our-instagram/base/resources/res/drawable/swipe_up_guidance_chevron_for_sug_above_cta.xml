@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="144dp"
+    android:width="144dp"
+    android:viewportWidth="144"
+    android:viewportHeight="144">
+    <group android:name="chevron">
+        <path
+            android:name="chevron_blur_3"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#02000000"
+            android:strokeWidth="66"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+        <path
+            android:name="chevron_blur_2"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#06000000"
+            android:strokeWidth="46"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+        <path
+            android:name="chevron_blur_1"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#0a000000"
+            android:strokeWidth="26"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+        <path
+            android:name="chevron_blur_0"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#0d000000"
+            android:strokeWidth="16"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+        <path
+            android:name="chevron"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="6.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+    </group>
+</vector>

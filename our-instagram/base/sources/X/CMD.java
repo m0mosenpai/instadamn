@@ -1,0 +1,8 @@
+package X;
+
+import java.util.Map;
+
+/* loaded from: classes5.dex */
+public abstract class CMD {
+    public static final Map A00 = AbstractC06930Yk.A06(AbstractC166987dD.A1L("ig_boost_similar_advertiser_budget_recommendation.is_pv_and_wv_enabled", DMC.A00), AbstractC166987dD.A1L("ig_boost_similar_advertiser_budget_recommendation.is_messaging_goal_enabled", DMD.A00), AbstractC166987dD.A1L("ig_boost_default_continuous_ads_for_messaging.is_enabled", DME.A00), AbstractC166987dD.A1L("ig_boost_default_continuous_ads_for_profile_visits.is_enabled", DMF.A00), AbstractC166987dD.A1L("ig_boost_default_continuous_ads_for_website_visits.is_enabled", DMG.A00), AbstractC166987dD.A1L("ig_boost_objective_recommendation.v1_enabled", DMH.A00), AbstractC166987dD.A1L("ig_boost_advantage_plus_audience.is_enabled_bloks", C71808X5m.A00), AbstractC166987dD.A1L("ig_boost_similar_advertiser_budget_recommendation.should_use_no_conversion_content", DMI.A00), AbstractC166987dD.A1L("ig_boost_low_outcome_expansion_to_pv_wv.is_enabled", DMJ.A00), AbstractC166987dD.A1L("ig_boost_ad_duration_warning.is_enabled", DM4.A00), AbstractC166987dD.A1L("ig_boost_taiwan_user_verification.is_enabled", DM5.A00), AbstractC166987dD.A1L("ig_bm_promote_wv_igd_messaging_extension_launcher.is_enabled", DM6.A00), AbstractC166987dD.A1L("igbm_add_steppers_budget_duration_launcher.is_enabled_expose", DM7.A00), AbstractC166987dD.A1L("igbm_add_steppers_budget_duration_launcher.is_enabled_peek", DM8.A00), AbstractC166987dD.A1L("ig_boost_budget_warning_on_review_screen.is_enabled", DM9.A00), AbstractC166987dD.A1L("igbm_expected_response.hide_expected_reach", DMA.A00), AbstractC166987dD.A1L("igbm_expected_response.show_expected_messages", DMB.A00));
+}

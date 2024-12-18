@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="22dp"
+    android:width="22dp"
+    android:viewportWidth="22"
+    android:viewportHeight="22">
+    <path
+        android:name="background"
+        android:fillColor="@color/igds_prism_black"
+        android:pathData="M11,1L11,1A10,10 0,0 1,21 11L21,11A10,10 0,0 1,11 21L11,21A10,10 0,0 1,1 11L1,11A10,10 0,0 1,11 1z"/>
+    <path
+        android:name="plus"
+        android:fillColor="?attr/igds_color_primary_background"
+        android:pathData="M11,7C10.586,7 10.25,7.336 10.25,7.75V10.25H7.75C7.336,10.25 7,10.586 7,11C7,11.414 7.336,11.75 7.75,11.75H10.25V14.25C10.25,14.664 10.586,15 11,15C11.414,15 11.75,14.664 11.75,14.25V11.75H14.25C14.664,11.75 15,11.414 15,11C15,10.586 14.664,10.25 14.25,10.25H11.75V7.75C11.75,7.336 11.414,7 11,7Z"
+        android:fillType="evenOdd"/>
+    <path
+        android:name="border"
+        android:fillColor="#00000000"
+        android:pathData="M11,1L11,1A10,10 0,0 1,21 11L21,11A10,10 0,0 1,11 21L11,21A10,10 0,0 1,1 11L1,11A10,10 0,0 1,11 1z"
+        android:strokeColor="?attr/igds_color_primary_background"
+        android:strokeWidth="2"/>
+</vector>

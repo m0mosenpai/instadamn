@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke/>
+    <corners android:radius="@dimen/audience_lists_text_in_badge_horizontal_margin_right"/>
+</shape>

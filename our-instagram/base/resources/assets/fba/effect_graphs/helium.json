@@ -1,0 +1,66 @@
+{
+    "graph": {
+        "sample_rate": 44100,
+        "frame_size": 256
+    },
+    "nodes": [
+        {
+            "name": "Mono To Stereo",
+            "label": "Input",
+            "uuid": "fc61039bc3ef4cbeb4dc462b93909d76",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 2,
+            "params":
+            [],
+            "ports":
+            [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state":{"channels":2}
+        },
+        {
+            "name": "Core Processor Node",
+            "label": "Output",
+            "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 0,
+            "params": [],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state": {
+                "memory": 0
+            }
+        },
+        {
+            "name": "PitchShifter (AudioFilterCore)",
+            "label": "Pitch Shifter",
+            "uuid": "67e290d6668940f1b33e174e95557fb4",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                5
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        }
+    ],
+    "edges": [
+        [
+            2
+        ],
+        [],
+        [
+            1
+        ]
+    ]
+}

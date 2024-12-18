@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <stroke
+        android:width="@dimen/abc_control_corner_material"
+        android:color="@android:color/white"/>
+    <size
+        android:height="@dimen/asset_picker_section_title_horizontal_padding"
+        android:width="@dimen/asset_picker_section_title_horizontal_padding"/>
+</shape>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_creation_button"/>
+            <size
+                android:height="@dimen/add_to_story_dual_destination_share_sheet_avatar_icon_size"
+                android:width="@dimen/add_to_story_dual_destination_share_sheet_avatar_icon_size"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/story_emoji_quick_reactions_more_button__app_bitmap_0"/>
+</layer-list>

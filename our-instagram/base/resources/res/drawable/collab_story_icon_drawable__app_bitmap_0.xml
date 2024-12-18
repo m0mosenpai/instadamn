@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-bitmap xmlns:fbui="http://schemas.android.com/apk/res-auto"
+    fbui:fbui_src="@drawable/instagram_group_story_pano_filled_24"
+    fbui:fbui_tint="@color/audio_bar_action_color_enabled"/>

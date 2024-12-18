@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/new_group_story_icon_background"
+        android:drawable="@drawable/reel_viewer_grey_background"/>
+    <item
+        android:id="@+id/new_group_story_icon"
+        android:height="@dimen/activation_card_icon_container_width"
+        android:width="@dimen/activation_card_icon_container_width"
+        android:drawable="@drawable/reel_item_new_group_story_icon__app_bitmap_0"/>
+</layer-list>

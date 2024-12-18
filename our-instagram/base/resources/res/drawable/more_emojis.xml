@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#1a1a1a"/>
+            <size
+                android:height="@dimen/account_group_management_clickable_width"
+                android:width="@dimen/account_group_management_clickable_width"/>
+        </shape>
+    </item>
+    <item android:drawable="@drawable/more_emojis__app_bitmap_0"/>
+</layer-list>

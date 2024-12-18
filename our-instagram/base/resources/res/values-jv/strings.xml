@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">Negara bageyan</string>
+    <string name="res_0x7f130003_name_removed">Kutha</string>
+    <string name="res_0x7f130004_name_removed">Alamat</string>
+    <string name="res_0x7f130005_name_removed">Apartemen/suite (opsional)</string>
+    <string name="res_0x7f13000b_name_removed">Tutup browser</string>
+    <string name="res_0x7f13000d_name_removed">%1$s pengin nggunakake panggonan perangkat sampeyan.</string>
+    <string name="res_0x7f13000e_name_removed">Idini kabeh media nggunakake pamilih file</string>
+    <string name="res_0x7f13000f_name_removed">Menehi idi</string>
+    <string name="res_0x7f130010_name_removed">Blokir</string>
+    <string name="res_0x7f130011_name_removed">Cilikake browser</string>
+    <string name="res_0x7f130012_name_removed">Ana masalah karo sertifikat keamanan kanggo situs iki</string>
+    <string name="res_0x7f130013_name_removed">Mbalik</string>
+    <string name="res_0x7f130014_name_removed">Kesalahan keamanan</string>
+    <string name="res_0x7f130021_name_removed">Kode keamanan</string>
+    <string name="res_0x7f130022_name_removed">Nomer Kertu</string>
+    <string name="res_0x7f13003b_name_removed">Minangka pamriksa keamanan tambahan, lebokake nomer kertu sajangkepe kanggo kertu kanthi akhiran %1$s.</string>
+    <string name="res_0x7f13003e_name_removed">Kode keamanan</string>
+    <string name="res_0x7f13003f_name_removed">Nomer Kertu</string>
+    <string name="res_0x7f130042_name_removed">Minangka pamriksa keamanan tambahan, lebokake nomer kertu sajangkepe kanggo kertu kanthi akhiran %1$s.</string>
+    <string name="res_0x7f130045_name_removed">Konfirmasi</string>
+    <string name="res_0x7f130046_name_removed">Konfirmasi Kode Keamanan kanggo %1$s • %2$s</string>
+    <string name="res_0x7f130047_name_removed">Konfirmasi</string>
+    <string name="res_0x7f130048_name_removed">Konfirmasi Kode Keamanan kanggo %1$s • %2$s</string>
+    <string name="res_0x7f130059_name_removed">Situs web sing sampeyan deleng lagi nyoba mbukak aplikasi eksternal. Pengin nglanjutake?</string>
+    <string name="res_0x7f13005a_name_removed">Bali</string>
+    <string name="res_0x7f13005b_name_removed">Terusake</string>
+    <string name="res_0x7f13005c_name_removed">Sampeyan metu saka aplikasi kita</string>
+    <string name="res_0x7f13005d_name_removed">Iki mungkin amarga kesalahan teknis sing diupayakake didandani Facebook. Coba amot ulang kaca iki.</string>
+    <string name="res_0x7f13005e_name_removed">Amot ulang</string>
+    <string name="res_0x7f13005f_name_removed">Kaca lagi ora kasedhiya</string>
+    <string name="res_0x7f130060_name_removed">Jeneng Mburi</string>
+    <string name="res_0x7f130061_name_removed">Kaca ora bisa diamot</string>
+    <string name="res_0x7f130062_name_removed">Bukak karo ...</string>
+    <string name="res_0x7f130063_name_removed">Bukak ing %1$s</string>
+    <string name="res_0x7f130064_name_removed">Opsi liyane</string>
+    <string name="res_0x7f130065_name_removed">Jeneng Ngarep</string>
+    <string name="res_0x7f13006a_name_removed">Sampeyan saiki ndeleng layar kebak. Usap ngiwa utawa tutul tombol balik kanggo metu.</string>
+    <string name="res_0x7f130084_name_removed">Jeneng</string>
+    <string name="res_0x7f13008a_name_removed">Sepurane, ana masalah.</string>
+    <string name="res_0x7f13008c_name_removed">Kedaluwarsa</string>
+    <string name="res_0x7f1300a0_name_removed">Kode pos</string>
+    <string name="res_0x7f13012a_name_removed">Telepon</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-remoteable xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fbui="http://schemas.android.com/apk/res-auto"
+    fbui:qe_name="p"
+    fbui:variant_local="@drawable/optimized_lossy__empty_state_tag"
+    fbui:variant_remote="@drawable/empty_state_tag__remote"/>

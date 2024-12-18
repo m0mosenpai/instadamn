@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/account_discovery_bottom_gap"
+        android:width="@dimen/account_discovery_bottom_gap"
+        android:drawable="@drawable/instagram_carousel_pano_filled_24"/>
+</layer-list>

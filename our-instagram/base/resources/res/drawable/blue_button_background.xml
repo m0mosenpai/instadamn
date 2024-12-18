@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:enterFadeDuration="@integer/abc_config_activityShortDur"
+    android:exitFadeDuration="@integer/abc_config_activityShortDur">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_primary_button"/>
+            <corners android:radius="?attr/buttonCornerRadius"/>
+        </shape>
+    </item>
+</selector>

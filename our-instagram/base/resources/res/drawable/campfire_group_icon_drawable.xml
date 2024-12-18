@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/campfire_group_icon_background"
+        android:drawable="@drawable/filled_circle_secondary_background"/>
+    <item
+        android:id="@+id/campfire_group_icon"
+        android:drawable="@drawable/campfire_group_icon_drawable__app_bitmap_0"
+        android:left="@dimen/abc_button_inset_vertical_material"
+        android:top="@dimen/abc_button_inset_vertical_material"
+        android:right="@dimen/abc_button_inset_vertical_material"
+        android:bottom="@dimen/abc_button_inset_vertical_material"/>
+</layer-list>

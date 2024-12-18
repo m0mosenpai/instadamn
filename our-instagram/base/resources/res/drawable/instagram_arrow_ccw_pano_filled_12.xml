@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:drawable="@drawable/instagram_arrow_ccw_pano_filled_24"/>
+</layer-list>

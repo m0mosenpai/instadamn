@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RuF, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61821RuF {
+    public static String A00(int i) {
+        return i != 3246 ? i != 3264 ? i != 9611 ? i != 9966 ? i != 10916 ? i != 11498 ? i != 12533 ? i != 14453 ? i != 16046 ? "UNDEFINED_QPL_EVENT" : "AI_STUDIO_CONSUMPTION_AI_HOME_FUNNEL" : "AI_STUDIO_CONSUMPTION_SEARCH_RESULT" : "AI_STUDIO_CONSUMPTION_CHAT_FUNNEL" : "AI_STUDIO_CONSUMPTION_JTBD_PAGE_LAUNCH" : "AI_STUDIO_CONSUMPTION_CREATE_AI_CHAT" : "AI_STUDIO_CONSUMPTION_OPEN_AI_CHAT" : "AI_STUDIO_CONSUMPTION_YOUR_AIS_PAGE_LAUNCH" : "AI_STUDIO_CONSUMPTION_AI_HOME_SCROLLING" : "AI_STUDIO_CONSUMPTION_AI_HOME_LAUNCH";
+    }
+}

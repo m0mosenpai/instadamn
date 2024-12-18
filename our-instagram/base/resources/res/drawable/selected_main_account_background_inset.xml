@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/selected_main_account_background"
+    android:insetLeft="@dimen/account_discovery_bottom_gap"
+    android:insetRight="@dimen/account_discovery_bottom_gap"
+    android:insetTop="@dimen/abc_control_corner_material"
+    android:insetBottom="@dimen/abc_control_corner_material"/>

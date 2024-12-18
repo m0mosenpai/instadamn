@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="instagram_supporter_badge_tier2_animation"
+    kf:kf_height="900"
+    kf:kf_width="750"
+    kf:set="userpay"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQAA4dzni3Kr"/>

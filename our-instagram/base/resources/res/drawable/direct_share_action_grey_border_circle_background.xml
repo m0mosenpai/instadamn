@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="@dimen/alert_dialog_button_cell_height"
+                android:width="@dimen/alert_dialog_button_cell_height"/>
+            <solid android:color="?attr/igds_color_elevated_highlight_background"/>
+            <stroke
+                android:width="1px"
+                android:color="?attr/igds_color_elevated_highlight_background"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,7 @@
+package X;
+
+/* renamed from: X.8Ux, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes4.dex */
+public final class C188068Ux {
+    public boolean A00 = false;
+}

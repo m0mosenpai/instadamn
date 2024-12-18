@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="airbender_nux_assets_autogen_intro_animation_new_style"
+    kf:kf_height="500"
+    kf:kf_width="500"
+    kf:set="airbender_nux_assets"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQADir-yqTEt"/>

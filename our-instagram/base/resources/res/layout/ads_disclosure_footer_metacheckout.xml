@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:id="@+id/metacheckout_disclosure_footer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:id="@+id/metacheckout_disclosure_footer_divider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ads_disclosure_footer_top_divider_height"/>
+    <com.facebookpay.widget.accessibility.AccessibleTextView
+        android:textSize="@dimen/add_payment_bottom_sheet_row_subtitle_size"
+        android:layout_gravity="center"
+        android:id="@+id/metacheckout_disclosure_footer_body_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/abc_edit_text_inset_top_material"
+        android:layout_marginBottom="@dimen/abc_edit_text_inset_top_material"
+        android:textFontWeight="400"/>
+</LinearLayout>

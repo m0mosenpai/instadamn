@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="canvas_gifs_tile_height">100dp</dimen>
+    <dimen name="promo_video_margin">16dp</dimen>
+    <dimen name="promo_video_margin_top">40dp</dimen>
+    <dimen name="promo_video_thumbnail_height">204dp</dimen>
+    <dimen name="promo_video_thumbnail_width">119dp</dimen>
+</resources>

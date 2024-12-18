@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="@color/design_dark_default_color_on_background"/>
+    <size
+        android:height="@dimen/account_group_management_clickable_width"
+        android:width="@dimen/account_group_management_clickable_width"/>
+</shape>

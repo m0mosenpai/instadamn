@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="auto_dropdown_background_down">r/zl.9.png</drawable>
+    <drawable name="auto_dropdown_background_up">r/zm.9.png</drawable>
+    <drawable name="channel_scrim">r/zn.webp</drawable>
+    <drawable name="fuse_1">r/zo.png</drawable>
+    <drawable name="fuse_2">r/zp.png</drawable>
+    <drawable name="fuse_3">r/zq.png</drawable>
+    <drawable name="fuse_4">r/zr.png</drawable>
+    <drawable name="fuse_5">r/zs.png</drawable>
+    <drawable name="fuse_6">r/zt.webp</drawable>
+    <drawable name="fuse_7">r/zu.png</drawable>
+    <drawable name="fuse_8">r/zv.png</drawable>
+    <drawable name="fuse_9">r/zw.png</drawable>
+    <drawable name="new_feed_pill_shadow">r/zx.9.png</drawable>
+    <drawable name="smoke">r/zy.png</drawable>
+    <drawable name="sticker_blue_glasses">r/zz.png</drawable>
+    <drawable name="sticker_hearts">r/z0.png</drawable>
+    <drawable name="sticker_mustache">r/z1.png</drawable>
+    <drawable name="sticker_sunglasses">r/z2.png</drawable>
+    <drawable name="sticker_unicorn">r/z3.png</drawable>
+    <drawable name="trim_frame_bg">r/z4.9.png</drawable>
+</resources>

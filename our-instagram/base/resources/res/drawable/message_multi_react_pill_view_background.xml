@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/message_reactions_pill_background"
+    android:shape="rectangle">
+    <corners android:radius="@dimen/action_bar_item_spacing_right"/>
+    <stroke
+        android:id="@+id/message_reactions_pill_outline_stroke"
+        android:width="@dimen/account_recs_header_image_margin"/>
+</shape>

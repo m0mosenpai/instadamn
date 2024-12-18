@@ -1,0 +1,245 @@
+package X;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* renamed from: X.82G, reason: invalid class name */
+/* loaded from: classes4.dex */
+public final class C82G implements InterfaceC02530Ab {
+    public static final /* synthetic */ C82G[] A01;
+    public static final C82G A02;
+    public static final C82G A03;
+    public static final C82G A04;
+    public static final C82G A05;
+    public static final C82G A06;
+    public static final C82G A07;
+    public static final C82G A08;
+    public static final C82G A09;
+    public static final C82G A0A;
+    public static final C82G A0B;
+    public static final C82G A0C;
+    public static final C82G A0D;
+    public static final C82G A0E;
+    public static final C82G A0F;
+    public static final C82G A0G;
+    public static final C82G A0H;
+    public static final C82G A0I;
+    public static final C82G A0J;
+    public static final C82G A0K;
+    public static final C82G A0L;
+    public static final C82G A0M;
+    public static final C82G A0N;
+    public static final C82G A0O;
+    public static final C82G A0P;
+    public static final C82G A0Q;
+    public static final C82G A0R;
+    public static final C82G A0S;
+    public static final C82G A0T;
+    public static final C82G A0U;
+    public static final C82G A0V;
+    public static final C82G A0W;
+    public static final C82G A0X;
+    public static final C82G A0Y;
+    public static final C82G A0Z;
+    public static final C82G A0a;
+    public static final C82G A0b;
+    public static final C82G A0c;
+    public static final C82G A0d;
+    public static final C82G A0e;
+    public static final C82G A0f;
+    public static final C82G A0g;
+    public static final C82G A0h;
+    public static final C82G A0i;
+    public static final C82G A0j;
+    public static final C82G A0k;
+    public static final C82G A0l;
+    public static final C82G A0m;
+    public static final C82G A0n;
+    public static final C82G A0o;
+    public static final C82G A0p;
+    public static final C82G A0q;
+    public static final C82G A0r;
+    public static final C82G A0s;
+    public static final C82G A0t;
+    public static final C82G A0u;
+    public static final C82G A0v;
+    public static final C82G A0w;
+    public static final C82G A0x;
+    public static final C82G A0y;
+    public final String A00;
+
+    static {
+        C82G c82g = new C82G("BLOKS_PLAYGROUND", 0, "bloks_playground");
+        C82G c82g2 = new C82G("FB_MIDCARD", 1, "FB_MIDCARD");
+        C82G c82g3 = new C82G("FB_NOTIF", 2, "fb_notif");
+        C82G c82g4 = new C82G("FB_NOTIF_VPG", 3, "fb_notif_vpg");
+        C82G c82g5 = new C82G("FB_PRODUCTION_POG", 4, "FB_PRODUCTION_POG");
+        C82G c82g6 = new C82G("FB_PROFILE_PROMPT", 5, "FB_PROFILE_PROMPT");
+        C82G c82g7 = new C82G("FB_QP_FEED_COMPOSER", 6, "fb_qp_feed_composer");
+        C82G c82g8 = new C82G("FB_QP_FULL_WIDTH_ARTWORK_FEED_UNIT", 7, "fb_qp_full_width_artwork_feed_unit");
+        C82G c82g9 = new C82G("FB_QP_REELS_COMPOSER", 8, "fb_qp_reels_composer");
+        C82G c82g10 = new C82G("FB_QP_STANDARD_FEED_UNIT", 9, "fb_qp_standard_feed_unit");
+        C82G c82g11 = new C82G("FB_QP_STORIES_COMPOSER", 10, "fb_qp_stories_composer");
+        C82G c82g12 = new C82G("IG_AFTER_FEED_SHARE", 11, "ig_after_feed_share");
+        A02 = c82g12;
+        C82G c82g13 = new C82G("IG_AFTER_REEL_SHARE", 12, "ig_after_reel_share");
+        C82G c82g14 = new C82G("IG_AFTER_STORY_SHARE", 13, "ig_after_story_share");
+        A03 = c82g14;
+        C82G c82g15 = new C82G("IG_AFTER_STORY_SHARE_POST_ACCOUNT_LINK", 14, "IG_AFTER_STORY_SHARE_POST_ACCOUNT_LINK");
+        C82G c82g16 = new C82G("IG_CHANNELS_XPOSTING_MESSAGE_FOOTER", 15, "ig_channels_xposting_message_footer");
+        A04 = c82g16;
+        C82G c82g17 = new C82G("IG_CHANNELS_XPOSTING_TOOLTIP", 16, "ig_channels_xposting_tooltip");
+        A05 = c82g17;
+        C82G c82g18 = new C82G("IG_FEED_COMPOSER", 17, "ig_feed_composer");
+        A06 = c82g18;
+        C82G c82g19 = new C82G("IG_FEED_COMPOSER_ADVANCED_SETTINGS", 18, "ig_feed_composer_advanced_settings");
+        C82G c82g20 = new C82G("IG_FEED_COMPOSER_ADVANCED_SETTINGS_SHARE_TO_THREADS_TOGGLE_ENABLE", 19, "IG_FEED_COMPOSER_ADVANCED_SETTINGS_SHARE_TO_THREADS_TOGGLE_ENABLE");
+        A07 = c82g20;
+        C82G c82g21 = new C82G("IG_FEED_COMPOSER_ADVANCED_SETTINGS_TOGGLE_ENABLE", 20, "IG_FEED_COMPOSER_ADVANCED_SETTINGS_TOGGLE_ENABLE");
+        A08 = c82g21;
+        C82G c82g22 = new C82G("IG_FEED_COMPOSER_ADVANCED_SETTINGS_TOGGLE_ENABLE_POST_ACCOUNT_LINK", 21, "IG_FEED_COMPOSER_ADVANCED_SETTINGS_TOGGLE_ENABLE_POST_ACCOUNT_LINK");
+        A09 = c82g22;
+        C82G c82g23 = new C82G("IG_FEED_COMPOSER_SHARE_BUTTON", 22, "ig_feed_composer_share_button");
+        A0A = c82g23;
+        C82G c82g24 = new C82G("IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_ENABLE", 23, "IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_ENABLE");
+        A0B = c82g24;
+        C82G c82g25 = new C82G("IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_ENABLE_POST_ACCOUNT_LINK", 24, "IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_ENABLE_POST_ACCOUNT_LINK");
+        A0C = c82g25;
+        C82G c82g26 = new C82G("IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_POST_ACCOUNT_LINK", 25, "IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_POST_ACCOUNT_LINK");
+        C82G c82g27 = new C82G("IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_TOOLTIP", 26, "IG_FEED_COMPOSER_SHARE_TO_FACEBOOK_TOGGLE_TOOLTIP");
+        A0D = c82g27;
+        C82G c82g28 = new C82G("IG_FEED_COMPOSER_SHARE_TO_THREADS_TOGGLE_ENABLE", 27, "IG_FEED_COMPOSER_SHARE_TO_THREADS_TOGGLE_ENABLE");
+        A0E = c82g28;
+        C82G c82g29 = new C82G("IG_FEED_OVERFLOW_MENU", 28, "IG_FEED_OVERFLOW_MENU");
+        A0F = c82g29;
+        C82G c82g30 = new C82G("IG_FEED_OVERFLOW_MENU_POST_ACCOUNT_LINK", 29, "IG_FEED_OVERFLOW_MENU_POST_ACCOUNT_LINK");
+        A0G = c82g30;
+        C82G c82g31 = new C82G("IG_FEED_SHARE_LATER", 30, "ig_feed_share_later");
+        A0H = c82g31;
+        C82G c82g32 = new C82G("IG_FEED_SHARE_LATER_POST_ACCOUNT_LINK", 31, "IG_FEED_SHARE_LATER_POST_ACCOUNT_LINK");
+        A0I = c82g32;
+        C82G c82g33 = new C82G("IG_INTERNAL_SETTINGS", 32, "IG_INTERNAL_SETTINGS");
+        A0J = c82g33;
+        C82G c82g34 = new C82G("IG_LINKED_ACCOUNTS_SETTINGS", 33, "ig_linked_accounts_settings");
+        C82G c82g35 = new C82G("IG_NOTIF", 34, "ig_notif");
+        A0K = c82g35;
+        C82G c82g36 = new C82G("IG_NUX", 35, "ig_nux");
+        A0L = c82g36;
+        C82G c82g37 = new C82G("IG_PROFILE_QP", 36, "ig_profile_qp");
+        A0M = c82g37;
+        C82G c82g38 = new C82G("IG_QP_AFTER_STORY_CREATION", 37, "ig_qp_after_story_creation");
+        C82G c82g39 = new C82G("IG_REEL_IN_FEED_OVERFLOW_MENU", 38, "IG_REEL_IN_FEED_OVERFLOW_MENU");
+        A0U = c82g39;
+        C82G c82g40 = new C82G("IG_REEL_IN_FEED_OVERFLOW_MENU_POST_ACCOUNT_LINK", 39, "IG_REEL_IN_FEED_OVERFLOW_MENU_POST_ACCOUNT_LINK");
+        A0V = c82g40;
+        C82G c82g41 = new C82G("IG_REELS_COMPOSER", 40, "ig_reels_composer");
+        A0N = c82g41;
+        C82G c82g42 = new C82G("IG_REELS_COMPOSER_POST_ACCOUNT_LINK", 41, "IG_REELS_COMPOSER_POST_ACCOUNT_LINK");
+        C82G c82g43 = new C82G("IG_REELS_COMPOSER_SHARE_BUTTON", 42, "IG_REELS_COMPOSER_SHARE_BUTTON");
+        A0O = c82g43;
+        C82G c82g44 = new C82G("IG_REELS_COMPOSER_SHARE_TO_FACEBOOK_ROW", 43, "IG_REELS_COMPOSER_SHARE_TO_FACEBOOK_ROW");
+        A0P = c82g44;
+        C82G c82g45 = new C82G("IG_REELS_COMPOSER_SHARE_TO_FACEBOOK_TOOLTIP", 44, "IG_REELS_COMPOSER_SHARE_TO_FACEBOOK_TOOLTIP");
+        C82G c82g46 = new C82G("IG_REELS_OVERFLOW_MENU", 45, "IG_REELS_OVERFLOW_MENU");
+        A0Q = c82g46;
+        C82G c82g47 = new C82G("IG_REELS_OVERFLOW_MENU_POST_ACCOUNT_LINK", 46, "IG_REELS_OVERFLOW_MENU_POST_ACCOUNT_LINK");
+        A0R = c82g47;
+        C82G c82g48 = new C82G("IG_REELS_PANAVISION_COMPOSER", 47, "ig_reels_panavision_composer");
+        A0S = c82g48;
+        C82G c82g49 = new C82G("IG_REELS_PANAVISION_COMPOSER_SHARE_BUTTON", 48, "IG_REELS_PANAVISION_COMPOSER_SHARE_BUTTON");
+        A0T = c82g49;
+        C82G c82g50 = new C82G("IG_REELS_PANAVISION_COMPOSER_SHARE_TO_FACEBOOK_TOOLTIP", 49, "IG_REELS_PANAVISION_COMPOSER_SHARE_TO_FACEBOOK_TOOLTIP");
+        C82G c82g51 = new C82G("IG_ROWSHARE_SINGLE_CCP_REEL_ACCEPT", 50, "IG_ROWSHARE_SINGLE_CCP_REEL_ACCEPT");
+        C82G c82g52 = new C82G("IG_ROWSHARE_SINGLE_FEED_ACCEPT", 51, "IG_ROWSHARE_SINGLE_FEED_ACCEPT");
+        A0W = c82g52;
+        C82G c82g53 = new C82G("IG_ROWSHARE_SINGLE_STORY_ACCEPT", 52, "IG_ROWSHARE_SINGLE_STORY_ACCEPT");
+        A0X = c82g53;
+        C82G c82g54 = new C82G("IG_ROWSHARE_SINGLE_XAR_REEL_ACCEPT", 53, "IG_ROWSHARE_SINGLE_XAR_REEL_ACCEPT");
+        C82G c82g55 = new C82G("IG_SELF_FEED_LIKES_SHEET", 54, "ig_self_feed_likes_sheet");
+        A0Y = c82g55;
+        C82G c82g56 = new C82G("IG_SELF_FEED_LIKES_SHEET_POST_ACCOUNT_LINK", 55, "IG_SELF_FEED_LIKES_SHEET_POST_ACCOUNT_LINK");
+        A0Z = c82g56;
+        C82G c82g57 = new C82G("IG_SELF_REEL_FEED_VIEW", 56, "ig_self_reel_feed_view");
+        A0a = c82g57;
+        C82G c82g58 = new C82G("IG_SELF_REEL_FEED_VIEW_TOOLTIP", 57, "IG_SELF_REEL_FEED_VIEW_TOOLTIP");
+        C82G c82g59 = new C82G("IG_SELF_REEL_LIKES_SHEET", 58, "ig_self_reel_likes_sheet");
+        A0b = c82g59;
+        C82G c82g60 = new C82G("IG_SELF_REEL_LIKES_SHEET_POST_ACCOUNT_LINK", 59, "IG_SELF_REEL_LIKES_SHEET_POST_ACCOUNT_LINK");
+        A0c = c82g60;
+        C82G c82g61 = new C82G("IG_SELF_REEL_SHARE_SHEET", 60, "ig_self_reel_share_sheet");
+        A0d = c82g61;
+        C82G c82g62 = new C82G("IG_SELF_REEL_VIEW", 61, "ig_self_reel_view");
+        A0e = c82g62;
+        C82G c82g63 = new C82G("IG_SELF_STORY_VIEW", 62, "ig_self_story_view");
+        C82G c82g64 = new C82G("IG_SELF_STORY_VIEW_FB_BUTTON", 63, "IG_SELF_STORY_VIEW_FB_BUTTON");
+        A0f = c82g64;
+        C82G c82g65 = new C82G("IG_SELF_STORY_VIEW_FB_BUTTON_POST_ACCOUNT_LINK", 64, "IG_SELF_STORY_VIEW_FB_BUTTON_POST_ACCOUNT_LINK");
+        A0g = c82g65;
+        C82G c82g66 = new C82G("IG_SELF_STORY_VIEW_FB_BUTTON_TOOLTIP", 65, "IG_SELF_STORY_VIEW_FB_BUTTON_TOOLTIP");
+        A0h = c82g66;
+        C82G c82g67 = new C82G("IG_SELF_STORY_VIEW_OVERFLOW_MENU", 66, "IG_SELF_STORY_VIEW_OVERFLOW_MENU");
+        A0i = c82g67;
+        C82G c82g68 = new C82G("IG_SELF_STORY_VIEW_OVERFLOW_MENU_POST_ACCOUNT_LINK", 67, "IG_SELF_STORY_VIEW_OVERFLOW_MENU_POST_ACCOUNT_LINK");
+        C82G c82g69 = new C82G("IG_SETTINGS_ACCOUNT_CENTER", 68, "ig_settings_account_center");
+        C82G c82g70 = new C82G("IG_SETTINGS_SHARING_ACROSS_PROFILES", 69, "ig_settings_sharing_across_profiles");
+        C82G c82g71 = new C82G("IG_STORY_AFTER_SHARE_SHEET", 70, "ig_story_after_share_sheet");
+        A0j = c82g71;
+        C82G c82g72 = new C82G("IG_STORY_AFTER_SHARE_SHEET_POST_ACCOUNT_LINK", 71, "IG_STORY_AFTER_SHARE_SHEET_POST_ACCOUNT_LINK");
+        A0k = c82g72;
+        C82G c82g73 = new C82G("IG_STORY_COMPOSER", 72, "ig_story_composer");
+        A0l = c82g73;
+        C82G c82g74 = new C82G("IG_STORY_COMPOSER_CLOSE_FRIENDS_STORY_BUTTON", 73, "IG_STORY_COMPOSER_CLOSE_FRIENDS_STORY_BUTTON");
+        A0m = c82g74;
+        C82G c82g75 = new C82G("IG_STORY_COMPOSER_YOUR_STORY_BUTTON", 74, "IG_STORY_COMPOSER_YOUR_STORY_BUTTON");
+        A0n = c82g75;
+        C82G c82g76 = new C82G("IG_STORY_COMPOSER_YOUR_STORY_BUTTON_TOOLTIP", 75, "IG_STORY_COMPOSER_YOUR_STORY_BUTTON_TOOLTIP");
+        A0o = c82g76;
+        C82G c82g77 = new C82G("IG_STORY_DUAL_DESTPICKER", 76, "ig_story_dual_destpicker");
+        A0p = c82g77;
+        C82G c82g78 = new C82G("IG_STORY_DUAL_DESTPICKER_SHARE_BUTTON", 77, "IG_STORY_DUAL_DESTPICKER_SHARE_BUTTON");
+        C82G c82g79 = new C82G("IG_STORY_SETTINGS", 78, "ig_story_settings");
+        C82G c82g80 = new C82G("IG_STORY_SETTINGS_MAIN_CAMERA_SETTINGS_BUTTON", 79, "IG_STORY_SETTINGS_MAIN_CAMERA_SETTINGS_BUTTON");
+        A0q = c82g80;
+        C82G c82g81 = new C82G("IG_STORY_SETTINGS_MAIN_CAMERA_SETTINGS_BUTTON_POST_ACCOUNT_LINK", 80, "IG_STORY_SETTINGS_MAIN_CAMERA_SETTINGS_BUTTON_POST_ACCOUNT_LINK");
+        A0r = c82g81;
+        C82G c82g82 = new C82G("IG_STORY_SETTINGS_SELF_STORY_MORE_BUTTON", 81, "IG_STORY_SETTINGS_SELF_STORY_MORE_BUTTON");
+        C82G c82g83 = new C82G("IG_STORY_SETTINGS_SELF_STORY_MORE_BUTTON_POST_ACCOUNT_LINK", 82, "IG_STORY_SETTINGS_SELF_STORY_MORE_BUTTON_POST_ACCOUNT_LINK");
+        C82G c82g84 = new C82G("IG_STORY_SHARE_SHEET", 83, "ig_story_share_sheet");
+        A0s = c82g84;
+        C82G c82g85 = new C82G("IG_STORY_SHARE_SHEET_FB_ROW_SHARE_OPTIONS", 84, "IG_STORY_SHARE_SHEET_FB_ROW_SHARE_OPTIONS");
+        C82G c82g86 = new C82G("IG_STORY_SHARE_SHEET_SHARE_BUTTON", 85, "IG_STORY_SHARE_SHEET_SHARE_BUTTON");
+        A0t = c82g86;
+        C82G c82g87 = new C82G("IG_STORY_SHARE_SHEET_SHARING_OPTIONS", 86, "IG_STORY_SHARE_SHEET_SHARING_OPTIONS");
+        A0u = c82g87;
+        C82G c82g88 = new C82G("IG_STORY_SHARE_SHEET_SHARING_OPTIONS_POST_ACCOUNT_LINK", 87, "IG_STORY_SHARE_SHEET_SHARING_OPTIONS_POST_ACCOUNT_LINK");
+        A0v = c82g88;
+        C82G c82g89 = new C82G("IG_STORY_VIEWERS_DASHBOARD", 88, "ig_story_viewers_dashboard");
+        A0w = c82g89;
+        C82G c82g90 = new C82G("IG_STORY_VIEWERS_DASHBOARD_POST_ACCOUNT_LINK", 89, "IG_STORY_VIEWERS_DASHBOARD_POST_ACCOUNT_LINK");
+        A0x = c82g90;
+        C82G c82g91 = new C82G("IG_THREADS_USER_ACTIVATION_JOINED_THREADS", 90, "IG_NEW_THREADS_USER_ACTIVATION_JOINED_THREADS");
+        A0y = c82g91;
+        C82G[] c82gArr = new C82G[91];
+        System.arraycopy(new C82G[]{c82g, c82g2, c82g3, c82g4, c82g5, c82g6, c82g7, c82g8, c82g9, c82g10, c82g11, c82g12, c82g13, c82g14, c82g15, c82g16, c82g17, c82g18, c82g19, c82g20, c82g21, c82g22, c82g23, c82g24, c82g25, c82g26, c82g27}, 0, c82gArr, 0, 27);
+        System.arraycopy(new C82G[]{c82g28, c82g29, c82g30, c82g31, c82g32, c82g33, c82g34, c82g35, c82g36, c82g37, c82g38, c82g39, c82g40, c82g41, c82g42, c82g43, c82g44, c82g45, c82g46, c82g47, c82g48, c82g49, c82g50, c82g51, c82g52, c82g53, c82g54}, 0, c82gArr, 27, 27);
+        System.arraycopy(new C82G[]{c82g55, c82g56, c82g57, c82g58, c82g59, c82g60, c82g61, c82g62, c82g63, c82g64, c82g65, c82g66, c82g67, c82g68, c82g69, c82g70, c82g71, c82g72, c82g73, c82g74, c82g75, c82g76, c82g77, c82g78, c82g79, c82g80, c82g81}, 0, c82gArr, 54, 27);
+        System.arraycopy(new C82G[]{c82g82, c82g83, c82g84, c82g85, c82g86, c82g87, c82g88, c82g89, c82g90, c82g91}, 0, c82gArr, 81, 10);
+        A01 = c82gArr;
+    }
+
+    public static C82G valueOf(String str) {
+        return (C82G) Enum.valueOf(C82G.class, str);
+    }
+
+    public static C82G[] values() {
+        return (C82G[]) A01.clone();
+    }
+
+    @Override // X.InterfaceC02530Ab
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return this.A00;
+    }
+
+    public C82G(String str, int i, String str2) {
+        this.A00 = str2;
+    }
+}

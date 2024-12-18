@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape
+            android:shape="ring"
+            android:useLevel="false"
+            android:innerRadius="@dimen/ad4ad_button_bottom_margin"
+            android:thickness="@dimen/abc_control_corner_material">
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <rotate
+            android:fromDegrees="0"
+            android:toDegrees="1080"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape
+                android:shape="ring"
+                android:useLevel="true"
+                android:innerRadius="@dimen/ad4ad_button_bottom_margin"
+                android:thickness="@dimen/abc_control_corner_material">
+                <solid android:color="?attr/fds_usage_progress_ring_neutral_foreground"/>
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

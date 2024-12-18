@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="fingerprint_dialog_error">r/i4.xml</drawable>
+    <drawable name="fingerprint_dialog_fp_icon">r/i3.xml</drawable>
+    <drawable name="ic_call_answer">r/ix.xml</drawable>
+    <drawable name="ic_call_answer_video">r/iy.xml</drawable>
+    <drawable name="ic_call_decline">r/iz.xml</drawable>
+    <drawable name="ic_other_sign_in">r/i0.xml</drawable>
+    <drawable name="ic_passkey">r/i1.xml</drawable>
+    <drawable name="ic_password">r/i2.xml</drawable>
+    <drawable name="ig_launcher_monochrome">r/i5.xml</drawable>
+</resources>

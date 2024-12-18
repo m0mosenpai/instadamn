@@ -1,0 +1,27 @@
+package X;
+
+/* renamed from: X.It0, reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public final class C42582It0 implements InterfaceC60442pS {
+    public static final String __redex_internal_original_name = "MediaOptionsHandlerUtil$mediaShareTo$insightsHost$1";
+    public final /* synthetic */ InterfaceC11380iw A00;
+
+    @Override // X.InterfaceC60442pS
+    public final boolean isOrganicEligible() {
+        return false;
+    }
+
+    @Override // X.InterfaceC60442pS
+    public final boolean isSponsoredEligible() {
+        return false;
+    }
+
+    public C42582It0(InterfaceC11380iw interfaceC11380iw) {
+        this.A00 = interfaceC11380iw;
+    }
+
+    @Override // X.InterfaceC11380iw
+    public final String getModuleName() {
+        return this.A00.getModuleName();
+    }
+}

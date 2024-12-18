@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_selected="false"
+        android:drawable="@drawable/cutout_video_trim_screen_audio_button_state_list_selector__app_bitmap_0"
+        android:state_activated="false"/>
+    <item
+        android:state_selected="true"
+        android:drawable="@drawable/cutout_video_trim_screen_audio_button_state_list_selector__app_bitmap_0"
+        android:state_activated="false"/>
+    <item
+        android:state_selected="false"
+        android:drawable="@drawable/cutout_video_trim_screen_audio_button_state_list_selector__app_bitmap_2"
+        android:state_activated="true"/>
+    <item
+        android:state_selected="true"
+        android:drawable="@drawable/cutout_video_trim_screen_audio_button_state_list_selector__app_bitmap_3"
+        android:state_activated="true"/>
+</selector>

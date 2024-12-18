@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:useLevel="false"
+    android:innerRadius="30dp"
+    android:thickness="0dp">
+    <stroke
+        android:width="@dimen/afi_indicator_arrow_margin_top"
+        android:color="?attr/igds_color_primary_icon"/>
+</shape>

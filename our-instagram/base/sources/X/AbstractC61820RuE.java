@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RuE, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61820RuE {
+    public static String A00(int i) {
+        return i != 3650 ? i != 5082 ? i != 5303 ? i != 6630 ? i != 9326 ? i != 12682 ? i != 13176 ? "UNDEFINED_QPL_EVENT" : "AI_EXPANDER_AI_EXPANDER_ELIGIBILITY_UPLOAD" : "AI_EXPANDER_AI_EXPANDER_COMPRESS_AND_DOWNSIZE" : "AI_EXPANDER_AI_EXPANDER_QUERY_TTI" : "AI_EXPANDER_AI_EXPANDER_ELIGIBILITY_QUERY" : "AI_EXPANDER_AI_EXPANDER_ELIGIBILITY_UPLOAD_MASK_IMAGE" : "AI_EXPANDER_AI_EXPANDER_ELIGIBILITY_UPLOAD_DOWNSAMPLED_IMAGE" : "AI_EXPANDER_AI_EXPANDER_IMAGE_MASK_CREATION";
+    }
+}

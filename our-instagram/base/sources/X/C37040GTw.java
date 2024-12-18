@@ -1,0 +1,16 @@
+package X;
+
+/* renamed from: X.GTw, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public final class C37040GTw extends C0YY implements InterfaceC16820sZ {
+    public static final C37040GTw A00 = new C37040GTw();
+
+    public C37040GTw() {
+        super(0);
+    }
+
+    @Override // X.InterfaceC16820sZ
+    public final /* bridge */ /* synthetic */ Object invoke() {
+        return C0eB.A00;
+    }
+}

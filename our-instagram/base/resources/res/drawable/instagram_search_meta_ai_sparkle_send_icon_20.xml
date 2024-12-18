@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/abc_select_dialog_padding_start_material"
+        android:width="@dimen/abc_select_dialog_padding_start_material"
+        android:drawable="@drawable/instagram_search_meta_ai_sparkle_send_icon_20__app_bitmap_0"/>
+</layer-list>

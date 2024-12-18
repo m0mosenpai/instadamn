@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/clips_viewer_multi_media_card_cta_button"/>
+    <corners android:radius="8dp"/>
+</shape>

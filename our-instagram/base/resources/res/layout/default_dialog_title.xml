@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.instagram.common.ui.text.TitleTextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:gravity="center"
+    android:layout_gravity="center"
+    android:id="@+id/default_dialog_title"
+    android:visibility="gone"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="@dimen/account_discovery_bottom_gap"
+    android:includeFontPadding="false"
+    android:layout_marginStart="@dimen/abc_select_dialog_padding_start_material"
+    android:layout_marginEnd="@dimen/abc_select_dialog_padding_start_material"
+    app:capitalize="none"
+    style="@style/igds_emphasized_title"/>

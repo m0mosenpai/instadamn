@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <stroke
+        android:width="@dimen/abc_control_corner_material"
+        android:color="?attr/igds_color_gradient_blue"/>
+    <size
+        android:height="@dimen/album_preview_add_item_margin"
+        android:width="@dimen/album_preview_add_item_margin"/>
+</shape>

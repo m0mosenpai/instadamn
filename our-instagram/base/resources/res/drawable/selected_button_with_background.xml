@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:height="24dp"
+        android:width="24dp">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_primary_background"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="20dp"
+        android:width="20dp">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_primary_icon"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="12dp"
+        android:width="12dp"
+        android:drawable="@drawable/selected_button_with_background__app_bitmap_0"/>
+</layer-list>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130003_name_removed">ከተማ</string>
+    <string name="res_0x7f130004_name_removed">አድራሻ</string>
+    <string name="res_0x7f13000b_name_removed">ማሰሺያ ይዝጉ</string>
+    <string name="res_0x7f13000e_name_removed">እባክዎ ሁሉም ሚዲያ ፋይል መራጭን እንዲጠቀሙ ይፍቀዱ</string>
+    <string name="res_0x7f13000f_name_removed">ይፍቀዱ</string>
+    <string name="res_0x7f130010_name_removed">አግድ</string>
+    <string name="res_0x7f130021_name_removed">የደህንነት ኮድ</string>
+    <string name="res_0x7f130022_name_removed">የካርድ ቁጥር</string>
+    <string name="res_0x7f13003e_name_removed">የደህንነት ኮድ</string>
+    <string name="res_0x7f13003f_name_removed">የካርድ ቁጥር</string>
+    <string name="res_0x7f130045_name_removed">ያረጋግጡ</string>
+    <string name="res_0x7f130047_name_removed">ያረጋግጡ</string>
+    <string name="res_0x7f130058_name_removed">ኢሜይል</string>
+    <string name="res_0x7f13005d_name_removed">ይህ ለማስተካከል እየሰራንበት ባለነው ቴክኒካዊ እክል ምክንያት ሊሆን ይችላል። ይህንን ገጽ እንደገና ለመጫን ይሞክሩ</string>
+    <string name="res_0x7f13005e_name_removed">ያድሱ</string>
+    <string name="res_0x7f130060_name_removed">የአያት ስም</string>
+    <string name="res_0x7f130061_name_removed">ገጹ ሊጫን አልቻለም</string>
+    <string name="res_0x7f130062_name_removed">በ … ይክፈቱ</string>
+    <string name="res_0x7f130064_name_removed">ተጨማሪ አማራጮች</string>
+    <string name="res_0x7f13006a_name_removed">አሁን ሙሉ ስክሪን እየተመለከቱ ነው። ለመውጣት ወደ ግራ በጣትዎ ያዘልሉ ወይም የተመለስ አዝራርን መታ ያድርጉ።</string>
+    <string name="res_0x7f130084_name_removed">ስም</string>
+    <string name="res_0x7f13008a_name_removed">ይቅርታ፣ የሆነ ችግር ተከስቷል</string>
+    <string name="res_0x7f1300a0_name_removed">ዚፕኮድ</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">ሰዓት ያዘጋጁ</string>
+</resources>

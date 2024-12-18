@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <com.instagram.common.ui.base.IgSimpleImageView
+        android:id="@+id/bottom_sheet_drag_handle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:contentDescription="@null"
+        style="?attr/w3c_bottom_sheet_drag_handle_style"/>
+    <com.instagram.common.ui.base.IgSimpleImageView
+        android:id="@+id/app_logo"
+        android:background="@drawable/ig_illustrations_illo_lock_refresh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="38dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

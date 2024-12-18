@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_creation_tools_grey_07"/>
+            <corners android:radius="30dp"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="start|bottom"
+        android:height="17dp"
+        android:width="17dp"
+        android:drawable="@drawable/bubble_tail"/>
+</layer-list>

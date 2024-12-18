@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/layer_item_circle">
+        <shape
+            android:visible="true"
+            android:shape="oval">
+            <stroke android:width="@dimen/abc_control_corner_material"/>
+            <size
+                android:height="@dimen/account_group_management_clickable_width"
+                android:width="@dimen/account_group_management_clickable_width"/>
+        </shape>
+    </item>
+    <item android:id="@+id/layer_item_spinner">
+        <rotate android:toDegrees="1260">
+            <shape
+                android:shape="ring"
+                android:innerRadius="@dimen/abc_dialog_padding_top_material"
+                android:thickness="@dimen/abc_control_corner_material">
+                <size
+                    android:height="@dimen/account_group_management_clickable_width"
+                    android:width="@dimen/account_group_management_clickable_width"/>
+                <solid android:color="#ff2d87ff"/>
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:gravity="center"
+        android:id="@+id/layer_item_icon"
+        android:drawable="@android:color/transparent"/>
+</layer-list>

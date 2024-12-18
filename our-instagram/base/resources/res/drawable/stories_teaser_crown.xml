@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/clips_gradient_redesign_color_4"/>
+            <stroke
+                android:width="4dp"
+                android:color="@color/audio_bar_action_color_enabled"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/stories_teaser_crown__app_bitmap_0"
+        android:left="24dp"
+        android:top="24dp"
+        android:right="24dp"
+        android:bottom="24dp"/>
+</layer-list>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="@color/audio_bar_action_color_enabled"/>
+    <size
+        android:height="20dp"
+        android:width="20dp"/>
+    <stroke
+        android:width="7dp"
+        android:color="?attr/igds_color_list_badge"/>
+</shape>

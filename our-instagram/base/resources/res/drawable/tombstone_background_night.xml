@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/grey_9"/>
+        </shape>
+    </item>
+    <item
+        android:top="@dimen/action_sheet_divider_margin_top"
+        android:bottom="@dimen/action_sheet_divider_margin_top">
+        <shape>
+            <solid android:color="@color/grey_10"/>
+            <padding
+                android:top="@dimen/action_sheet_divider_margin_top"
+                android:bottom="@dimen/action_sheet_divider_margin_top"/>
+        </shape>
+    </item>
+</layer-list>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/ig_search_meta_ai_searchbar_background_color"/>
+    <corners android:radius="@dimen/account_group_management_clickable_width"/>
+</shape>

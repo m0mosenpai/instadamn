@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RvF, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61883RvF {
+    public static String A00(int i) {
+        return i != 1 ? i != 3345 ? i != 11667 ? i != 11750 ? i != 14115 ? i != 3 ? i != 4 ? "UNDEFINED_QPL_EVENT" : "DIGITAL_CONTENT_PAYMENTS_WALLET_SPEND_MUTATION_FLOW" : "DIGITAL_CONTENT_PAYMENTS_WALLET_BALANCE_QUERY_FLOW" : "DIGITAL_CONTENT_PAYMENTS_IAP_USER_PURCHASE" : "DIGITAL_CONTENT_PAYMENTS_IAP_QUOTE_CREATION" : "DIGITAL_CONTENT_PAYMENTS_IAP_PURCHASE_VERIFICATION" : "DIGITAL_CONTENT_PAYMENTS_IAP_FETCH_PRODUCTS" : "DIGITAL_CONTENT_PAYMENTS_PURCHASE_FLOW";
+    }
+}

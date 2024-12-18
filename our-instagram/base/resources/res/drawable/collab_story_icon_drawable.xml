@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="24dp"
+                android:width="24dp"/>
+            <solid android:color="@color/badge_color"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/collab_story_icon_drawable__app_bitmap_0"
+        android:left="6dp"
+        android:top="6dp"
+        android:right="6dp"
+        android:bottom="6dp"/>
+</layer-list>

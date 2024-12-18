@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130003_name_removed">ເມືອງ</string>
+    <string name="res_0x7f13000b_name_removed">ປິດໂປຣແກຣມທ່ອງເວັບ</string>
+    <string name="res_0x7f13000c_name_removed">%1$s ຕ້ອງການໃຊ້ກ້ອງຖ່າຍຮູບຂອງອຸປະກອນ.</string>
+    <string name="res_0x7f13000d_name_removed">%1$s ຕ້ອງການໃຊ້ສະຖານທີ່ຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="res_0x7f13000f_name_removed">ອະນຸຍາດ</string>
+    <string name="res_0x7f130010_name_removed">ບລັອກ</string>
+    <string name="res_0x7f130021_name_removed">ລະຫັດຄວາມປອດໄພ</string>
+    <string name="res_0x7f130039_name_removed">ປ້ອນລະຫັດຄວາມປອດໄພ 3- ຫຼື 4 ຕົວເລກໃນ %1$s ຂອງທ່ານ • %2$s ເພື່ອຕື່ມແບບຟອມນີ້ໂດຍອັດຕະໂນມັດ.</string>
+    <string name="res_0x7f13003e_name_removed">ລະຫັດຄວາມປອດໄພ</string>
+    <string name="res_0x7f130040_name_removed">ປ້ອນລະຫັດຄວາມປອດໄພ 3- ຫຼື 4 ຕົວເລກໃນ %1$s ຂອງທ່ານ • %2$s ເພື່ອຕື່ມແບບຟອມນີ້ໂດຍອັດຕະໂນມັດ.</string>
+    <string name="res_0x7f130045_name_removed">ຢືນຢັນ</string>
+    <string name="res_0x7f130047_name_removed">ຢືນຢັນ</string>
+    <string name="res_0x7f130049_name_removed">ຕົກລົງ</string>
+    <string name="res_0x7f13004a_name_removed">ຕົກລົງ</string>
+    <string name="res_0x7f130058_name_removed">ອີເມວ</string>
+    <string name="res_0x7f130059_name_removed">ເວັບໄຊທ໌ທີ່ທ່ານກໍາລັງເບິ່ງແມ່ນພະຍາຍາມເປີດແອັບພາຍນອກ. ທ່ານຕ້ອງການດໍາເນີນຕໍ່ບໍ?</string>
+    <string name="res_0x7f13005a_name_removed">ກັບຄືນ</string>
+    <string name="res_0x7f13005b_name_removed">ດຳເນີນການຕໍ່</string>
+    <string name="res_0x7f13005c_name_removed">ທ່ານກຳລັງອອກຈາກແອັບຂອງພວກເຮົາ</string>
+    <string name="res_0x7f13005d_name_removed">ສິ່ງນີ້ອາດຈະເປັນຍ້ອນຄວາມຜິດພາດທາງເຕັກນິກທີ່ພວກເຮົາກໍາລັງເຮັດວຽກເພື່ອແກ້ໄຂ. ລອງໂຫຼດເພຈນີ້ຄືນໃໝ່.</string>
+    <string name="res_0x7f13005e_name_removed">ໂຫຼດໃໝ່</string>
+    <string name="res_0x7f13005f_name_removed">ເພຈບໍ່ສາມາດໃຊ້ໄດ້ໃນຕອນນີ້</string>
+    <string name="res_0x7f130060_name_removed">ນາມສະກຸນ</string>
+    <string name="res_0x7f130061_name_removed">ບໍ່ສາມາດໂຫຼດເພຈໄດ້</string>
+    <string name="res_0x7f130062_name_removed">ເປີດດ້ວຍ...</string>
+    <string name="res_0x7f130063_name_removed">ເປີດໃນ %1$s</string>
+    <string name="res_0x7f130064_name_removed">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="res_0x7f130065_name_removed">ຊື່</string>
+    <string name="res_0x7f13006a_name_removed">ຕອນນີ້ທ່ານກຳລັງເບິ່ງແບບເຕັມຈໍ. ປັດໄປທາງຊ້າຍ ຫຼືແຕະປຸ່ມຢ້ອນກັບເພື່ອອອກ.</string>
+    <string name="res_0x7f130084_name_removed">ຊື່</string>
+    <string name="res_0x7f13008a_name_removed">ຂໍອະໄພ, ເກີດບາງຢ່າງຜິດພາດຂຶ້ນ</string>
+    <string name="res_0x7f13008c_name_removed">ໝົດອາຍຸ</string>
+    <string name="res_0x7f1300a0_name_removed">ລະຫັດໄປສະນີ</string>
+    <string name="res_0x7f1300f4_name_removed">ເຊື່ອມຕໍ່ແວ່ນຕາຂອງທ່ານແລ້ວ</string>
+    <string name="res_0x7f13012a_name_removed">ໂທລະສັບ</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">ຕັ້ງເວລາ</string>
+</resources>

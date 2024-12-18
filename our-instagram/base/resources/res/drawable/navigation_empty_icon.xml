@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@android:color/transparent"/>
+    <size
+        android:height="@dimen/abc_dialog_padding_material"
+        android:width="@dimen/abc_dialog_padding_material"/>
+</shape>

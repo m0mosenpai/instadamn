@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/default_cta_dominant_color"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/daily_prompt_sticker_drawable__app_bitmap_0"
+        android:left="@dimen/abc_button_padding_horizontal_material"
+        android:top="@dimen/abc_button_padding_horizontal_material"
+        android:right="@dimen/abc_button_padding_horizontal_material"
+        android:bottom="@dimen/abc_button_padding_horizontal_material"/>
+</layer-list>

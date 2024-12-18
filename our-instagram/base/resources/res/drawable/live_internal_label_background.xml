@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetTop="@dimen/abc_button_padding_horizontal_material"
+    android:insetBottom="@dimen/abc_button_padding_horizontal_material">
+    <shape>
+        <solid android:color="@color/igds_facebook_blue"/>
+        <corners android:radius="@dimen/abc_action_bar_elevation_material"/>
+    </shape>
+</inset>

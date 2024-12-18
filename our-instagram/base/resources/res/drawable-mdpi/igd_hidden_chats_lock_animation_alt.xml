@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="igd_hidden_chats_lock_animation_alt"
+    kf:kf_height="26"
+    kf:kf_width="26"
+    kf:set="igd_hidden_chats"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQADfeLqRssU"/>

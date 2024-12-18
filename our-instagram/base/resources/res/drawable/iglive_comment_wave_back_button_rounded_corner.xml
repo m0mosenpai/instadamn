@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding
+        android:left="@dimen/bottom_button_divider_margin_small"
+        android:top="@dimen/bottom_button_divider_margin_small"
+        android:right="@dimen/bottom_button_divider_margin_small"
+        android:bottom="@dimen/bottom_button_divider_margin_small"/>
+    <corners android:radius="@dimen/abc_select_dialog_padding_start_material"/>
+    <solid android:color="@color/audio_bar_action_color_enabled"/>
+</shape>

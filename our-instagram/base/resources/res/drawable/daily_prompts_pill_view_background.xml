@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/message_reactions_pill_shadow_layer">
+        <shape android:shape="rectangle">
+            <padding
+                android:left="@dimen/abc_control_corner_material"
+                android:top="@dimen/abc_control_corner_material"
+                android:right="@dimen/abc_control_corner_material"
+                android:bottom="@dimen/abc_control_corner_material"/>
+            <corners android:radius="@dimen/abc_dialog_padding_top_material"/>
+        </shape>
+    </item>
+    <item android:id="@+id/message_reactions_pill_background_layer">
+        <shape android:shape="rectangle">
+            <padding
+                android:top="@dimen/abc_control_corner_material"
+                android:bottom="@dimen/abc_control_corner_material"/>
+            <corners android:radius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+        </shape>
+    </item>
+</layer-list>

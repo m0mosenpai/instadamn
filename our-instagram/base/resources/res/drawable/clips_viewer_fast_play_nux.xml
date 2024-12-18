@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="581dp"
+    android:width="65dp"
+    android:viewportWidth="65"
+    android:viewportHeight="581">
+    <path
+        android:fillColor="@drawable/res_0x7f080007_clips_viewer_fast_play_nux__0"
+        android:pathData="M0,290.5a117,290.5 0,1 0,234 0a117,290.5 0,1 0,-234 0z"/>
+</vector>

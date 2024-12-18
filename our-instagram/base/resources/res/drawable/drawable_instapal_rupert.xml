@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/instapal_instapal_rupert"
+        android:maxLevel="0"/>
+    <item
+        android:drawable="@drawable/instapal_instapal_rupert_running1"
+        android:maxLevel="1"/>
+    <item
+        android:drawable="@drawable/instapal_instapal_rupert_running2"
+        android:maxLevel="2"/>
+</level-list>

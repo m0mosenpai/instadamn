@@ -1,0 +1,22 @@
+package X;
+
+/* loaded from: classes5.dex */
+public enum C8Y implements InterfaceC02530Ab {
+    ICEBREAKER("icebreaker"),
+    /* JADX INFO: Fake field, exist only in values array */
+    NUX("nux"),
+    RESULT("result"),
+    /* JADX INFO: Fake field, exist only in values array */
+    TOPICAL_RESULT("topical_result");
+
+    public final String A00;
+
+    C8Y(String str) {
+        this.A00 = str;
+    }
+
+    @Override // X.InterfaceC02530Ab
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return this.A00;
+    }
+}

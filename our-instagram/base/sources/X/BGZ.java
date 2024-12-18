@@ -1,0 +1,20 @@
+package X;
+
+import com.instagram.common.typedurl.ImageUrl;
+
+/* loaded from: classes5.dex */
+public final class BGZ extends AbstractC27441C9j {
+    public final ImageUrl A00;
+
+    public final boolean equals(Object obj) {
+        return this == obj || ((obj instanceof BGZ) && C14360o3.A0K(this.A00, ((BGZ) obj).A00));
+    }
+
+    public final int hashCode() {
+        return this.A00.hashCode();
+    }
+
+    public BGZ(ImageUrl imageUrl) {
+        this.A00 = imageUrl;
+    }
+}

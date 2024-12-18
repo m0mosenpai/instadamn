@@ -1,0 +1,165 @@
+{
+    "graph": {
+        "sample_rate": 44100,
+        "frame_size": 256
+    },
+    "nodes": [
+        {
+            "name": "Mono To Stereo",
+            "label": "Input",
+            "uuid": "fc61039bc3ef4cbeb4dc462b93909d76",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 2,
+            "params":
+            [],
+            "ports":
+            [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state":{"channels":2}
+        },
+        {
+            "name": "Core Processor Node",
+            "label": "Output",
+            "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 0,
+            "params": [],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state": {
+                "memory": 0
+            }
+        },
+        {
+            "name": "Reverb (AudioFilterCore)",
+            "label": "Reverb",
+            "uuid": "0b8b499eb3d242b59e68e89a07c08d5d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                18,
+                100,
+                90,
+                30,
+                90,
+                15,
+                100,
+                16
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Delay (AudioFilterCore)",
+            "label": "Delay 1",
+            "uuid": "086d3f4144ae48bb9ffb86bdafa1428b",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                1,
+                150,
+                0,
+                250,
+                1,
+                400,
+                0,
+                300,
+                30,
+                3,
+                100
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Delay (AudioFilterCore)",
+            "label": "Delay 2",
+            "uuid": "086d3f4144ae48bb9ffb86bdafa1428b",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                1,
+                500,
+                0,
+                300,
+                0,
+                300,
+                0,
+                300,
+                8,
+                7,
+                100
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Parametric Equalizer (AudioFilterCore)",
+            "label": "EQ",
+            "uuid": "58d9e11dc5d3449d93ed8db2acbbaf8d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                0,
+                -10,
+                0.5,
+                800,
+                3,
+                0,
+                0.5,
+                1000,
+                1,
+                0,
+                0.5,
+                150,
+                2
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        }
+    ],
+    "edges": [
+        [
+            3
+        ],
+        [],
+        [
+            4
+        ],
+        [
+            2
+        ],
+        [
+            5
+        ],
+        [
+            1
+        ]
+    ]
+}

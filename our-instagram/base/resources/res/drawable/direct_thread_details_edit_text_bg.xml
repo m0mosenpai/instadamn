@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:top="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:right="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:bottom="@dimen/abc_dialog_padding_material">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_elevated_highlight_background"/>
+            <corners android:radius="@dimen/account_discovery_bottom_gap"/>
+        </shape>
+    </item>
+</layer-list>

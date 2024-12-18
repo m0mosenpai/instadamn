@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_checked="true"
+        android:drawable="@drawable/e2ee_action_bar_toggle_on_thumb"/>
+    <item android:drawable="@drawable/e2ee_action_bar_toggle_off_thumb"/>
+</selector>

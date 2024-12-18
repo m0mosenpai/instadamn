@@ -1,0 +1,623 @@
+{
+  "built_in": [],
+  "downloadable": [
+    {
+      "disabled": false,
+      "hash": "94f347efbf679a44106b7cc59ae734dd70d3334905929dd99f429cf121ac1da4",
+      "name": "arclassBenchmarks",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "74887766ad50e8f1f926ffb820d6082514aca4cc3844dd176a411c2cb6038caa",
+      "name": "arservicesforbodytracking",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "82bb192658a4f8168f0399f4fd357b88447786a7d9828a435f2289b97759e328",
+      "name": "arservicesforexpressionfitting",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "89575459d951df906dc7f2158b7c8da1862187cc2577fb1f93fdffe553eb602a",
+      "name": "arservicesforfacewave",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "f8d09e274a872dd439c98444534418e78907a8a095aeab7ca30759d94facc941",
+      "name": "arservicesforgenericml",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "320509c3509e826522335f69628817217afef5847054fa96ab1dd0d3493c8b32",
+      "name": "arservicesforhairsegmentation",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "80f31019ebd2870c081f1c8a556ffa97064d668352d99e490fc607056b96f6b5",
+      "name": "arservicesforhandtracking",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "b6b5cc4ebe04c30413fc0fc9d8d697ab27d0dabe3744a92aa1c7f2ca70724c24",
+      "name": "arservicesforpersonsegmentation",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "c3488870d22d3696085b8971ba55de9b3e21944cbc528ef9b16fec0075f6fe01",
+      "name": "arservicesforruntimerigmapping",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "f748d94798927361fe961ccf7dac8ddbd2806364c7455a1d7093ff23576f7b06",
+      "name": "arservicesforunifiedtargettracking",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "b77222bc44fcd9e0730bf6b66f3bf84820167f4e3e50fca325a585de6a74365a",
+      "name": "arservicesforwolf",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "74fabd6dd0b1d9d5596c67185740183d5447f83d348731d7e2e8cec80ed4e080",
+      "name": "audio_stream_processor",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "7b7a9ff018e017f3d28e37100eafeb1fdba8ef003afd68a4d8cf6e30cf0a8884",
+      "name": "audio_stream_processor_shim_impl",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "11dff2322087472bec1c31daaa315841391ffa28a165dee6c8891b2bf556e32c",
+      "name": "baseline_profiles_12_plus",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "66b3eb29fd85d3d97a994452f63d57382cec526ad39c7580e6524a4f3c859a66",
+      "name": "baseline_profiles_12_plus_cold_start_flags_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "7a0318b62b817d1b3fc3fd182e87fe79def028ed5ab21fd941750f9121d3eb32",
+      "name": "baseline_profiles_12_plus_direct_inbox_20pct",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "6a08b7d50bd82d7cfd6cbf39f4858654498bfdeb7986c559bec88d4a7265d885",
+      "name": "baseline_profiles_12_plus_direct_thread_20pct",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "590fb6f66884195bcc29b58c1ffab0eb0f129509de49a3e1eaa535bbc8bde06d",
+      "name": "baseline_profiles_12_plus_manual_baseline_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "8420c1f99a47523e18f0ab25a7170a7257777a5c1ed35c5207d50bc667afb553",
+      "name": "baseline_profiles_12_plus_newsfeed_threshold_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "601784af778fab74b721cf043ee1d222cae790f6dfa791926a20d6946981c614",
+      "name": "baseline_profiles_12_plus_vdex_in_dm",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a0267dc0e2637166580a5be0f851c17f3fc1845a4f5a80b82fb66a44d8f0a95a",
+      "name": "baseline_profiles_12_plus_vrl_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "5d47418e3808b0c85be55ae771eecd12d534bef12389eeae98c8831f307988d5",
+      "name": "baseline_profiles_9_11",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "8c6bee17f89d9e45caab7f1cc0ad11d61a2622bf0a820ebb8c846647197a3fb0",
+      "name": "baseline_profiles_9_11_cold_start_flags_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "1e515a141adeaeb599d139c4c1ac3ab6721f61cf61f0b299b724da49de4c8799",
+      "name": "baseline_profiles_9_11_direct_inbox_20pct",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "5b75ea36b379fb7461396c7f2d06499bd20c6ada7fe1258bdffa0549796500ee",
+      "name": "baseline_profiles_9_11_direct_thread_20pct",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "998d53e3cc12fecd9ae06c82439ca75925e1aa881b16f301a51aba4d088a0f84",
+      "name": "baseline_profiles_9_11_manual_baseline_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "67b0a655c40697654c4c3a946c5cc7a148f086dec76a05c056a6aeab50e9d8fa",
+      "name": "baseline_profiles_9_11_newsfeed_threshold_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "b3dce9b538f8e8f03e231a578182eb5cefc2242dd0bae123483fd60ddafd2c43",
+      "name": "baseline_profiles_9_11_vdex_in_dm",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "379ee7f995c8164f02d201089220b747cb2e68912a1caf44aa6ca433c47a6fc4",
+      "name": "baseline_profiles_9_11_vrl_test",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "806aec35c0976954cea3a679b349af9d4b9488d2e6113ff39fc0f430989140bd",
+      "name": "configurable_audio",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "9172d1ba520acf8fee2bb536b794c230372a82f535f8f6cd03dadd21c02bd27f",
+      "name": "creditcardscanner",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d495daeb47cfec31410a68555f7f9618e08d7c4cd9d069e76a2e047912db7da4",
+      "name": "dancification",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "05126af04aa30fde0e9e1de5a63ceb58e5182dbd1e7a588ee6321e7c69bf1040",
+      "name": "devoptions",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a73e4d19c1937432d9d18c682002bf837dff57615cde643490664c493e980747",
+      "name": "dogfoodingassistant",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "6e1710c15928023fe01654b550b759a149fe6465193ea932e605b37ea3468424",
+      "name": "executorch",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "d96ceb9c28d4b9738766740651ede8e669a9070d62cd22e210c3a0db94a636ff",
+      "name": "hdrphotocapture",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "6d7596748f5cffc424f33fa7b30f05930aaceae511972817c3e8429cd748cd04",
+      "name": "heliumiab",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "987eb24abc3044b7369f2f5b5d6d8a2c8732980f58f0710f47f3a92d07db8f5a",
+      "name": "i18n_af_ZA",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c5f1f83638623a26c5cf6151aaaac3ccd7369cd7a723baf9e53aee7d26e449a0",
+      "name": "i18n_ar_AR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "66ac2c7ce2829804c914177bf273624287815be81c135a7093fe33f193792e66",
+      "name": "i18n_bg_BG",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "4c2b912a72a86ca5b3caf416e909200cacd26e9bde9ce3e1585f8717663a6093",
+      "name": "i18n_cs_CZ",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "937314ddcb76e47cb2f776cc05d4eb1df04a0e9d609398089df54ee1e9bb2e2d",
+      "name": "i18n_da_DK",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "0f170bc4ed94be76935ef0a48602cad1204c7b5389657362a6596dac0a4ae8ee",
+      "name": "i18n_de_DE",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "f3b68eaf446f81ab86c244ff2f8525b55581941c61a153553f46988eccf229b5",
+      "name": "i18n_el_GR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "b6024dcd503e67681f0874274f62b6f8d0c9043e78dc867632bd48b23ea1c2bf",
+      "name": "i18n_en_GB",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c81b18ae97cd5a97e608cbbcad0962dd2b2b5b36098288d9e5802f44e10d341b",
+      "name": "i18n_es_ES",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "465d7485ccb5589cd80ee37a0f9220b06e09f77bd6d9d20684aa00055e9e38e2",
+      "name": "i18n_es_LA",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "25c1db2ca17d7e85c99c65a8a4564b461bcf95562881643cb2723bd447c7f92d",
+      "name": "i18n_fa_IR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "44bc5e7855313d0350a42076f31bd13dbc12c2a4b098c5b983182c2d18557af5",
+      "name": "i18n_fb_HA",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "18bc5b365504aa296b0d8c986330c929b20e297d943b43e413743929f19b2bed",
+      "name": "i18n_fi_FI",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a8f6a9a3586866d5f1f64f498375d2fc2cd3734b1413adcb0448d14fa742f03a",
+      "name": "i18n_fr_CA",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "fe0d5a6b547e8fbe727f26603936fe8c91b033e5310f03caf70e638e3bba3568",
+      "name": "i18n_fr_FR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "6e610ae7c64411081b081487ece5c88ed9ded0ea2b40839d6331d8599a38eb18",
+      "name": "i18n_he_IL",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "7dc3ccaa8c0010884ae467e29c26ae46043d3a621ee4729b207dfee972fe4748",
+      "name": "i18n_hi_IN",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "82013d79d361b367368e421be07c013bf197b4e65e5de973efce1e053e39a473",
+      "name": "i18n_hr_HR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "2237b2bd4442469b85eb602f45042b6b23d0228340f5be0c361c7e3766951db4",
+      "name": "i18n_hu_HU",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "47c94df40781c599042b15af8a0424a701a332d68e9a3da5c8f613d4ffeb9767",
+      "name": "i18n_id_ID",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "6da7e58ada7e6396b8fcc41f3d126f1ea6fb5a85a5a6b4bd6f589019ecde97c1",
+      "name": "i18n_it_IT",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "b4a11f785f5048a5b364b3fd1028038f1b8be2f4ca29ce281a783655b9c3e005",
+      "name": "i18n_ja_JP",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "d6b4a03934d20777b711266206f024bbc9a0a81cd3e14b925149ef73e3b4ecd8",
+      "name": "i18n_ko_KR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "36f5f1b73e7a37e039fa070fb9f7cd3155734f43eee56ad371d8555bcdb1a697",
+      "name": "i18n_ms_MY",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "766a03bc88f73e538052401ce4f256913d95e9a50351cd1e90c340645702afe7",
+      "name": "i18n_nb_NO",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "237a63d87ccbc38474244c95cfbed6e827fc13681b0f02d54dc84142dc9bc33f",
+      "name": "i18n_nl_NL",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "4a8502e8392c38613346dc8cb0053adbd92e478bf47da114e050d226f11f1ce0",
+      "name": "i18n_pl_PL",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a37ef060b9c4d8afe4be73c70aa552fdc01814e0d778bebdd715d6a39ea2c08b",
+      "name": "i18n_pt_BR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "21bb8c22f6919e0d7d43f4bc0d954f5190bff40cb7c45667a6919959dff2b635",
+      "name": "i18n_pt_PT",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "f769e7182801c505e07829c6805328cf661cc4ba45676d48d639f3e5a48b2a54",
+      "name": "i18n_ro_RO",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "789d180835593a5759e22130b10f7e6f7b72f7fe4cca44a2b62514b3f8c74acc",
+      "name": "i18n_ru_RU",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "1e9343deaf049554581d87c0185dedee6da06f84530808cdd42f7d7d693f2d27",
+      "name": "i18n_sk_SK",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "9bad7e419f1fe63282733e380e94f853d57ea5bf1ebc9238766f331a123dff90",
+      "name": "i18n_sr_RS",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "701266f180550d6340e963b22989440907a58a0cbae7cc59d6050c4e6c4f0b7d",
+      "name": "i18n_sv_SE",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "2c90327765e04baf9b4fdcd8487162a37ec497a309fa4909e215fdd31948aabb",
+      "name": "i18n_th_TH",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "2a30bc6fb9221bca818835314d8bb79933223ce2b381b472c8e2c8e00b291d76",
+      "name": "i18n_tl_PH",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c9f33bef9d3e83bda2a2a8fd203639506326d5f52407d01dbebcb2515fce2cb4",
+      "name": "i18n_tr_TR",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c5b6ac1c234a13d3343c729bc954811d265085128d9bd053aa9e3fb2befd0bf4",
+      "name": "i18n_uk_UA",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "e811af49516c8760730e2c7c8709f5333b8cf2a475025a1ee18453075fa8d2ff",
+      "name": "i18n_vi_VN",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "39ccfc08845b65999fb386243d871146abbcb4612bb29d7dd50aca87d8e38339",
+      "name": "i18n_zh_CN",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "31aed3f80fd67e4b2787b4c327992cd930c2be2b45d5f607f237eacd8023b7c7",
+      "name": "i18n_zh_HK",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "bf9ad02de449f9361e6d9f23d0ef6662c2a1418fcb96af7600bfcf35b55e316c",
+      "name": "i18n_zh_TW",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "5c2af32e062ad1f4950dbeef0fe1a2454ed300eb89e6c7a49185ac732c2d8228",
+      "name": "jumpcut",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "0a6786edad32d23b624f4481f7d41cf06de276b3f8124510a5dc7f961a01a182",
+      "name": "mapbox",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "ad11b195623bfcc136fe9e1ab3646edf1118576bb4f9a7d849550cbb0ab920d1",
+      "name": "notworkingdeprulefixmoduledummy",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "8d5bbf93879ac2a5ea0d2d7d46d4144335fd694eecf66faa8cf59825438df883",
+      "name": "proxyservice",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "dd69affeb0162b1e5a993c73fe5f8e9297cc09b52a544623195f2f3338770826",
+      "name": "pytorch",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "bbd8c10b10eaeea862432aa34114f9c7c318ae22678c1004e426388942f92242",
+      "name": "s_1324189732",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "a8fc526b89260fea5f8707f9e9b9397c3d1ecc3ce67c0430abb81f59ade56395",
+      "name": "s_2041275993",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "66d71bd7cbd9b0c7402e27bf067091790d73fb5996b6fdcaa18b9f26700d9538",
+      "name": "s_396201961",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "bda0a663f1e3940dbcbaf6b2992668e91df471c2dc2e4a6fc1461a664dccdab5",
+      "name": "s_710768825",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "0815e3b37e10f9a7cb69f71b4eec0ff6c9068aed63a4868f819e4a6621523122",
+      "name": "s_arservicesforwolf_hdrphotocapture_slam",
+      "requires_native": false
+    },
+    {
+      "disabled": true,
+      "hash": "a3701974adc25e36ebecbbc259aa3124661207ba4d43dce6e7346bff001e40e2",
+      "name": "s_arservicesforwolf_mapbox",
+      "requires_native": false
+    },
+    {
+      "disabled": true,
+      "hash": "8598bf31bc42f09656551399aa5b4aa1094c2267755fb73880beecdad8de3f6f",
+      "name": "s_arservicesforwolf_slam",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "c0ba551a9c95581f2cbcf55aaf6042ae9ec491d56648b4f30a92e03214002e88",
+      "name": "s_audio_stream_processor_configurable_audio",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "247861d708c21716ee8b8cfbc1df4bc4749559b1a4ea95cfbbefcf6791956107",
+      "name": "s_audio_stream_processor_executorch",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "ab6348fd6f71577d4b673829110e397cda6ff77c1383ddfdb4587406e4ead8ac",
+      "name": "s_configurable_audio_hdrphotocapture",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "0761534361668af20cb6bb5d61f4f5ffc8c3e1a6d2fa27a4d14a51368678605e",
+      "name": "s_configurable_audio_hdrphotocapture_mapbox",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "221ccd2fa170c388b7d61bf803cda9d2293d5eef0ad27bb2a650211f1d721155",
+      "name": "s_creditcardscanner_hdrphotocapture",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "bffd915151e002270a669c27eaf26b5cd63ad8d7cb2a971d85209d6dccf080e7",
+      "name": "s_dancification_hdrphotocapture",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "bf309ade110fa564e0539319e93253d7cebf768c26bc53db1caaa4b4dcedc8c7",
+      "name": "s_executorch_pytorch",
+      "requires_native": true
+    },
+    {
+      "disabled": true,
+      "hash": "1e638507bec87472d6ef0031c1710e3cb629aa77241c42f24e4c59e91f881349",
+      "name": "s_executorch_pytorch_slam",
+      "requires_native": false
+    },
+    {
+      "disabled": true,
+      "hash": "1258a663d238a135fb1bdbc9cfb55c31d736e409eec8f1e8f1c1e59e71738c6b",
+      "name": "s_hdrphotocapture_slam",
+      "requires_native": false
+    },
+    {
+      "disabled": false,
+      "hash": "cb68392d6088539b4a2f7400a236aad9dde3e2549272ac53393338388b0c9ab2",
+      "name": "slam",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "0a63fb82b1df03f8ed8c003057962db8cb781c651eb4fb1cf250829bdbb66ab0",
+      "name": "spm",
+      "requires_native": true
+    },
+    {
+      "disabled": false,
+      "hash": "136adbd1a42325765d1f81a09cedf3b8ecf30914a41a70c8723a6195ddd10c29",
+      "name": "supmediastreamcontroller",
+      "requires_native": false
+    }
+  ]
+}

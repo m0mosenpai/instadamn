@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/chat_sticker_button_divider_color"/>
+            <corners android:radius="@dimen/ai_agent_share_profile_sticker_padding"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/clips_overlay_ads_end_background_color"/>
+            <corners android:radius="@dimen/ai_agent_share_profile_sticker_padding"/>
+        </shape>
+    </item>
+</selector>

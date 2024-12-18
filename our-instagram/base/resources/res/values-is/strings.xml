@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">Fylki</string>
+    <string name="res_0x7f130003_name_removed">Borg</string>
+    <string name="res_0x7f130004_name_removed">Heimilisfang</string>
+    <string name="res_0x7f130005_name_removed">Íbúð/herbergi (valfrjálst)</string>
+    <string name="res_0x7f13000b_name_removed">Loka vafra</string>
+    <string name="res_0x7f13000c_name_removed">%1$s vill nota myndavél tækis þíns.</string>
+    <string name="res_0x7f13000d_name_removed">%1$s vill notar staðsetningu tækis þíns.</string>
+    <string name="res_0x7f13000f_name_removed">Leyfa</string>
+    <string name="res_0x7f130010_name_removed">Loka á</string>
+    <string name="res_0x7f130012_name_removed">Vandamál kom upp með öryggisvottorð þessarar síðu</string>
+    <string name="res_0x7f130013_name_removed">Fara til baka</string>
+    <string name="res_0x7f130014_name_removed">Öryggisvilla</string>
+    <string name="res_0x7f130045_name_removed">Staðfesta</string>
+    <string name="res_0x7f130047_name_removed">Staðfesta</string>
+    <string name="res_0x7f130049_name_removed">Í lagi</string>
+    <string name="res_0x7f13004a_name_removed">Í lagi</string>
+    <string name="res_0x7f130058_name_removed">Netfang</string>
+    <string name="res_0x7f13005e_name_removed">Endurhlaða</string>
+    <string name="res_0x7f130060_name_removed">Eftirnafn</string>
+    <string name="res_0x7f130061_name_removed">Ekki er hægt að hlaða síðu</string>
+    <string name="res_0x7f130062_name_removed">Opna með...</string>
+    <string name="res_0x7f130063_name_removed">Opna í %1$s</string>
+    <string name="res_0x7f130064_name_removed">Fleiri valkostir</string>
+    <string name="res_0x7f130065_name_removed">Fornafn</string>
+    <string name="res_0x7f130084_name_removed">Nafn</string>
+    <string name="res_0x7f13008a_name_removed">Því miður fór eitthvað úrskeiðis</string>
+    <string name="res_0x7f13008b_name_removed">Greiðsluvilla kom upp</string>
+    <string name="res_0x7f1300a0_name_removed">Póstnúmer</string>
+    <string name="res_0x7f13012a_name_removed">Sími</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">Stilla tíma</string>
+</resources>

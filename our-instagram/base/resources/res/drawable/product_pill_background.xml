@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/grey_8_40_transparent"/>
+    <corners android:radius="@dimen/ai_sticker_creation_suggested_prompt_pill_height"/>
+</shape>

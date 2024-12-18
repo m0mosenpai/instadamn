@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+    <item>
+        <color android:color="@color/splash_screen_background"/>
+    </item>
+    <item android:bottom="112dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram"/>
+    </item>
+    <item android:bottom="80dp">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/from_meta_gradient"/>
+    </item>
+</layer-list>

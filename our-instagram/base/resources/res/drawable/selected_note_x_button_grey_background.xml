@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <size
+        android:height="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:width="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+    <solid android:color="?attr/igdsPrimaryIcon"/>
+</shape>

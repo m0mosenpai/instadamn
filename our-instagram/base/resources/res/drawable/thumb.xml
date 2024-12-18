@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <layer-list>
+            <item>
+                <shape android:shape="rectangle">
+                    <size
+                        android:height="32dp"
+                        android:width="100dp"/>
+                    <corners android:radius="100dp"/>
+                    <solid android:color="?attr/igds_color_primary_text_on_media"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

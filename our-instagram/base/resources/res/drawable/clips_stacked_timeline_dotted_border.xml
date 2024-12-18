@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="2dp"
+        android:color="@color/netego_su_background_gradient_end_4"
+        android:dashWidth="10dp"
+        android:dashGap="6dp"/>
+    <padding
+        android:left="30dp"
+        android:top="30dp"
+        android:right="30dp"
+        android:bottom="30dp"/>
+    <corners android:radius="12dp"/>
+</shape>

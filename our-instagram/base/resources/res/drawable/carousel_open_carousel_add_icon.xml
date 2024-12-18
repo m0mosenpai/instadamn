@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <stroke
+                android:width="@dimen/audience_lists_text_in_badge_horizontal_margin_right"
+                android:color="@color/audio_bar_action_color_enabled"/>
+            <solid android:color="@color/clips_remix_camera_outer_container_default_background"/>
+            <size
+                android:height="@dimen/action_bar_immersive_gradient_height"
+                android:width="@dimen/action_bar_immersive_gradient_height"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/carousel_open_carousel_add_icon__app_bitmap_0"
+        android:left="15dp"
+        android:top="15dp"
+        android:right="15dp"
+        android:bottom="15dp"/>
+</layer-list>

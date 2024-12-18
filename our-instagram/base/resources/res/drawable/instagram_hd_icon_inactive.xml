@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-bitmap xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fbui="http://schemas.android.com/apk/res-auto"
+    android:tintMode="src_in"
+    fbui:fbui_src="@drawable/instagram_hd_pano_outline_24"
+    fbui:fbui_tint="@color/igds_primary_text"/>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:height="22dp"
+        android:width="22dp">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_primary_background"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="18dp"
+        android:width="18dp">
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="?attr/igds_color_gradient_yellow"
+                android:endColor="?attr/igds_color_gradient_purple"
+                android:angle="45"
+                android:type="linear"
+                android:centerX="0.5"
+                android:centerY="0.5"
+                android:centerColor="?attr/igds_color_gradient_red"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="12dp"
+        android:width="12dp"
+        android:drawable="@drawable/birthday_pog_indicator__app_bitmap_0"/>
+</layer-list>

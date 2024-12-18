@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="18dp"
+                android:width="18dp"/>
+            <solid android:color="?attr/igds_color_elevated_background"/>
+        </shape>
+    </item>
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:left="3dp"
+        android:top="3dp"
+        android:right="3dp"
+        android:bottom="3dp">
+        <bitmap
+            android:src="@drawable/instagram_reshare_pano_outline_16"
+            android:tint="?attr/igds_color_primary_icon"/>
+    </item>
+</layer-list>

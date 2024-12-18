@@ -1,0 +1,7 @@
+package X;
+
+/* renamed from: X.Djd, reason: case insensitive filesystem */
+/* loaded from: classes5.dex */
+public interface InterfaceC30982Djd {
+    void CJj(C120985dq c120985dq, C37644Ghd c37644Ghd);
+}

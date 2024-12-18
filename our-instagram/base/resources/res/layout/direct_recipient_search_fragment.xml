@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/direct_recipient_search_fragment"
+    android:background="?attr/igds_color_primary_background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:textSize="@dimen/abc_text_size_menu_header_material"
+        android:textColor="?attr/igds_color_secondary_text"
+        android:id="@+id/no_chats_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/res_0x7f130087_name_removed"
+        android:layout_centerInParent="true"/>
+    <ListView
+        android:id="@+id/recipients"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</RelativeLayout>

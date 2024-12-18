@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="@dimen/abc_button_inset_vertical_material"
+    android:width="@dimen/abc_edit_text_inset_top_material"
+    android:viewportWidth="10"
+    android:viewportHeight="6">
+    <path
+        android:fillColor="@color/green_5"
+        android:pathData="M5.70345,1.19624 C5.31378,0.810561 4.68622,0.810561 4.29655,1.19624 L0.666294,4.78926 C0.031322,5.41772 0.476354,6.5 1.36975,6.5 L8.63026,6.5 C9.52365,6.5 9.96868,5.41772 9.33371,4.78926 L5.70345,1.19624 Z"/>
+</vector>

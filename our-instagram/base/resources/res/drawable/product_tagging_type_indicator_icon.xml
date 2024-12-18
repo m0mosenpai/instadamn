@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/circle_border"/>
+    <item
+        android:drawable="@drawable/instagram_shopping_bag_pano_outline_24"
+        android:left="@dimen/abc_select_dialog_padding_start_material"
+        android:top="@dimen/abc_select_dialog_padding_start_material"
+        android:right="@dimen/abc_select_dialog_padding_start_material"
+        android:bottom="@dimen/abc_select_dialog_padding_start_material"/>
+</layer-list>

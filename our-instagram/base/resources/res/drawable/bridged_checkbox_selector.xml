@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:state_checked="true"
+        android:drawable="@drawable/bridged_checkbox_selector__app_bitmap_0"/>
+    <item
+        android:state_checked="false"
+        android:drawable="@drawable/checkbox"/>
+    <item
+        android:state_enabled="false"
+        android:state_checked="true"
+        android:drawable="@drawable/bridged_checkbox_selector__app_bitmap_1"/>
+</selector>

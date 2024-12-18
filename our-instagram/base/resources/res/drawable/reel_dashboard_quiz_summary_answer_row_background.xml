@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke
+        android:width="@dimen/afi_indicator_arrow_margin_top"
+        android:color="@color/grey_2"/>
+    <corners android:radius="@dimen/abc_select_dialog_padding_start_material"/>
+</shape>

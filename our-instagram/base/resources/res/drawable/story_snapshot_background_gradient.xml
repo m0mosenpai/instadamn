@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/igds_creation_tools_purple"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/igds_creation_tools_pink"
+                android:endColor="@color/fds_transparent"
+                android:angle="0"
+                android:type="radial"
+                android:centerX="10%p"
+                android:centerY="10%p"
+                android:gradientRadius="260dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient
+                android:startColor="@color/igds_creation_tools_pink"
+                android:endColor="@color/fds_transparent"
+                android:angle="0"
+                android:type="radial"
+                android:centerX="90%p"
+                android:centerY="90%p"
+                android:gradientRadius="260dp"/>
+        </shape>
+    </item>
+</layer-list>

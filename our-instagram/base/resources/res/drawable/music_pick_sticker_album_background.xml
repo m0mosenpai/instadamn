@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/intent_aware_ad_rifu_card_large_width"
+        android:width="@dimen/intent_aware_ad_rifu_card_large_width">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/clips_overlay_ads_end_background_color"/>
+            <corners
+                android:topLeftRadius="@dimen/abc_button_padding_horizontal_material"
+                android:topRightRadius="@dimen/abc_button_padding_horizontal_material"/>
+        </shape>
+    </item>
+    <item
+        android:height="@dimen/intent_aware_ad_rifu_card_large_width"
+        android:width="@dimen/intent_aware_ad_rifu_card_large_width">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/clips_overlay_ads_end_background_color"/>
+            <corners
+                android:topLeftRadius="@dimen/abc_button_padding_horizontal_material"
+                android:topRightRadius="@dimen/abc_button_padding_horizontal_material"/>
+            <stroke
+                android:width="@dimen/afi_indicator_arrow_margin_top"
+                android:color="@color/music_pick_white_translucent_dash"
+                android:dashWidth="@dimen/abc_action_bar_elevation_material"
+                android:dashGap="@dimen/abc_action_bar_elevation_material"/>
+        </shape>
+    </item>
+</layer-list>

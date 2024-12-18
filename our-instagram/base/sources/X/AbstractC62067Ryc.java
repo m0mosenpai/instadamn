@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Ryc, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62067Ryc {
+    public static String A00(int i) {
+        return i != 1 ? i != 2 ? i != 4 ? i != 7 ? i != 3427 ? i != 9788 ? i != 11331 ? i != 11740 ? i != 14406 ? i != 15695 ? "UNDEFINED_QPL_EVENT" : "REACT_NATIVE_TTRC_MENU_BASKET_TTRC" : "REACT_NATIVE_TTRC_MARKETPLACE_HOME_HUB_TTRC" : "REACT_NATIVE_TTRC_INFRA_TTRC" : "REACT_NATIVE_TTRC_MENU_TTRC" : "REACT_NATIVE_TTRC_HELPDESK_SURFACE" : "REACT_NATIVE_TTRC_RESTAURANTS_SURFACE_TTRC" : "REACT_NATIVE_TTRC_OFF_FACEBOOK_ACTIVITY_REACT_NATIVE_TTRC" : "REACT_NATIVE_TTRC_SHARED_RN_TTRC" : "REACT_NATIVE_TTRC_CRISIS_ROUTE_TTRC" : "REACT_NATIVE_TTRC_PRIVACY_SHORTCUTS_TTRC";
+    }
+}

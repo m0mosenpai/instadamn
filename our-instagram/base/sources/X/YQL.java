@@ -1,0 +1,9 @@
+package X;
+
+import androidx.credentials.playservices.controllers.CreatePublicKeyCredential.PublicKeyCredentialControllerUtility;
+
+/* loaded from: classes12.dex */
+public interface YQL {
+    public static final C72868Xpe[] A00 = {new C72868Xpe("_id", "INTEGER", null, null, null, null, null, false, true, true, false, false), new C72868Xpe("table_name", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe(PublicKeyCredentialControllerUtility.JSON_KEY_NAME, "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("type_name", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("default_value", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("is_nullable", "INTEGER", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("is_primary", "INTEGER", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("is_autoincrement", "INTEGER", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("is_deleted", "INTEGER", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("is_added", "INTEGER", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("foreign_table", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("foreign_column", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("on_foreign_key_update", "TEXT", null, null, null, null, null, true, false, false, false, false), new C72868Xpe("on_foreign_key_delete", "TEXT", null, null, null, null, null, true, false, false, false, false)};
+    public static final C72716Xlo[] A01 = {new C72716Xlo(new String[]{"table_name", PublicKeyCredentialControllerUtility.JSON_KEY_NAME}, new String[]{"", ""})};
+}

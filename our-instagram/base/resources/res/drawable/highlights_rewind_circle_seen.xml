@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="23dp"
+                android:width="23dp"/>
+            <solid android:color="@color/igds_photo_placeholder"/>
+            <stroke
+                android:width="3dp"
+                android:color="@color/direct_widget_primary_background"/>
+        </shape>
+    </item>
+    <item
+        android:height="18dp"
+        android:width="18dp"
+        android:drawable="@drawable/highlights_rewind_circle__app_bitmap_0"
+        android:left="5dp"
+        android:top="5dp"
+        android:right="5dp"
+        android:bottom="5dp"/>
+</layer-list>

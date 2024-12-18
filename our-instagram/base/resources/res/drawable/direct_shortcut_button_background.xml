@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <layer-list>
+            <item android:id="@+id/shortcut_selected_state">
+                <shape android:shape="rectangle">
+                    <size
+                        android:height="32dp"
+                        android:width="46dp"/>
+                    <solid android:color="?attr/igds_color_primary_button"/>
+                    <stroke
+                        android:width="1px"
+                        android:color="?attr/igds_color_elevated_highlight_background"/>
+                    <corners android:radius="50dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item>
+        <layer-list>
+            <item android:id="@+id/shortcut_unselected_state">
+                <shape android:shape="rectangle">
+                    <size
+                        android:height="32dp"
+                        android:width="46dp"/>
+                    <solid android:color="?attr/igds_color_elevated_highlight_background"/>
+                    <stroke
+                        android:width="1px"
+                        android:color="?attr/igds_color_elevated_highlight_background"/>
+                    <corners android:radius="50dp"/>
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+</selector>

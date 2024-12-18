@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="true"
+        android:state_pressed="true"
+        android:color="@color/background_floating_material_light"
+        android:alpha="@dimen/creator_inspiration_hub_pill_alpha"/>
+    <item
+        android:color="@color/background_floating_material_light"
+        android:alpha="@dimen/default_icon_pressed_alpha"/>
+</selector>

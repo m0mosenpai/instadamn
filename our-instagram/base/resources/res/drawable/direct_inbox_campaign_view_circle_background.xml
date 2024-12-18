@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <stroke
+        android:width="@dimen/account_recs_header_image_margin"
+        android:color="?attr/igds_color_photo_border"/>
+    <size
+        android:height="@dimen/action_button_settings_height"
+        android:width="@dimen/action_button_settings_height"/>
+</shape>

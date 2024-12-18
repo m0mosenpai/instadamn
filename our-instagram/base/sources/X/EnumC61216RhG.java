@@ -1,0 +1,24 @@
+package X;
+
+/* renamed from: X.RhG, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public enum EnumC61216RhG {
+    UNSET_OR_UNRECOGNIZED_ENUM_VALUE("UNSET_OR_UNRECOGNIZED_ENUM_VALUE"),
+    DEFERRED("DEFERRED"),
+    IMMEDIATE_AND_CHARGE_FULL_PRICE("IMMEDIATE_AND_CHARGE_FULL_PRICE"),
+    IMMEDIATE_SWITCH_WITH_PRORATED_CHARGE("IMMEDIATE_SWITCH_WITH_PRORATED_CHARGE"),
+    IMMEDIATE_SWITCH_WITH_PRORATED_REFUNDS("IMMEDIATE_SWITCH_WITH_PRORATED_REFUNDS"),
+    IMMEDIATE_SWITCH_WITH_TIME_PRORATION("IMMEDIATE_SWITCH_WITH_TIME_PRORATION"),
+    IMMEDIATE_WITHOUT_PRORATION("IMMEDIATE_WITHOUT_PRORATION");
+
+    public final String A00;
+
+    @Override // java.lang.Enum
+    public final String toString() {
+        return this.A00;
+    }
+
+    EnumC61216RhG(String str) {
+        this.A00 = str;
+    }
+}

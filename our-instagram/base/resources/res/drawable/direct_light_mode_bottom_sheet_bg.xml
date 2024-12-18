@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/audio_bar_action_color_enabled"/>
+    <corners
+        android:topLeftRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:topRightRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+</shape>

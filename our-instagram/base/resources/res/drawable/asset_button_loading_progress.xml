@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/progress">
+        <shape
+            android:shape="ring"
+            android:useLevel="true"
+            android:thickness="2dp">
+            <solid android:color="@color/direct_dark_mode_composer_hint_text_color"/>
+        </shape>
+    </item>
+</layer-list>

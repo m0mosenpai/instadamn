@@ -1,0 +1,37 @@
+{
+	"fx chain": [
+		{
+			"name": "Chorus Flanger"
+		},
+		{
+			"name": "Phaser"
+		},
+		{
+			"name": "Limiter"
+		}
+	],
+	"initial parameters": [
+		{
+			"delayTimeMs": "10",
+			"modOffsetMs": "24",
+			"modRateHz": "0.3",
+			"modType": "0",
+			"stereoPhaseDiffRad": "0",
+			"feedbackGain": "0",
+			"outputGainDecibels": "0",
+			"wetGain": "0.4",
+			"numVoices": "4",
+			"damping": "8000"
+		},
+		{
+
+			"wetGain": "0.5"
+		},
+		{
+			"threshold": "-0.01",
+			"ceiling": "-0.01"
+		}
+	],
+	"user parameters": [
+	]
+}

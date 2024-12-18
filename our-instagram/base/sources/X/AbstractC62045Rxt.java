@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Rxt, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62045Rxt {
+    public static String A00(int i) {
+        return i != 1592 ? i != 1640 ? i != 5929 ? i != 6134 ? i != 8288 ? i != 9062 ? i != 12007 ? i != 13137 ? i != 13681 ? "UNDEFINED_QPL_EVENT" : "MSYS_SQLITE_ERROR_SQLITE_CANTOPEN_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_OTHER_CRITICAL_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_FULL_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_CORRUPT_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_NON_CRITICAL_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_NO_SUCH_TABLE_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_SQL_EXEC_ERRORS" : "MSYS_SQLITE_ERROR_SQLITE_MISUSE_ERROR" : "MSYS_SQLITE_ERROR_SQLITE_TEMPORARY_ERROR";
+    }
+}

@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Rvj, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61911Rvj {
+    public static String A00(int i) {
+        return i != 1 ? i != 4147 ? i != 5161 ? i != 8303 ? i != 10401 ? i != 10609 ? i != 11881 ? "UNDEFINED_QPL_EVENT" : "FEED_ADS_CLIENT_RANKING_ANDROID_ADS_ML_RANKER" : "FEED_ADS_CLIENT_RANKING_LOAD_RANKING_CONFIG" : "FEED_ADS_CLIENT_RANKING_ANDROID_APP_USAGE_STATISTICS" : "FEED_ADS_CLIENT_RANKING_UI_GAP_RULE_VALIDATION_RESULT" : "FEED_ADS_CLIENT_RANKING_FL_PREDICTION" : "FEED_ADS_CLIENT_RANKING_ANDROID_FEED_ADS_NORMAL_REQUEST_NUM_TRACKER" : "FEED_ADS_CLIENT_RANKING_ASYNC_PREDICTION";
+    }
+}

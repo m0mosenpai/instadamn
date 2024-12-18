@@ -1,0 +1,116 @@
+package X;
+
+/* renamed from: X.Rx0, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61990Rx0 {
+    public static String A00(int i) {
+        switch (i) {
+            case 1460:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_CHECK_VALIDITY";
+            case 3158:
+                return "LABYRINTH_MOBILE_OPTOUT_GDRIVE";
+            case 3603:
+                return "LABYRINTH_MOBILE_FETCH_TPID";
+            case 4067:
+                return "LABYRINTH_MOBILE_PASSKEY_UPSELL";
+            case 4627:
+                return "LABYRINTH_MOBILE_EMPLOYEE_40C_MIGRATION";
+            case 5017:
+                return "LABYRINTH_MOBILE_RESTORE_BACKUP";
+            case 5728:
+                return "LABYRINTH_MOBILE_ANDROID_AUTO_BACKUP_RESTORE";
+            case 6551:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_CHECK_AVAILABILITY";
+            case 6880:
+                return "LABYRINTH_MOBILE_OPTIN_GDRIVE";
+            case 7285:
+                return "LABYRINTH_MOBILE_PAKE_HANDSHAKE_INITIATOR";
+            case 7298:
+                return "LABYRINTH_MOBILE_GDRIVE_SETUP";
+            case 7395:
+                return "LABYRINTH_MOBILE_PIN_CHANGE";
+            case 7496:
+                return "LABYRINTH_MOBILE_ANDROID_AUTO_BACKUP_SETUP";
+            case 8190:
+                return "LABYRINTH_MOBILE_PIN_UPSELL_40C_MIGRATION";
+            case 9222:
+                return "LABYRINTH_MOBILE_DEVICE_REENROLLMENT";
+            case 9464:
+                return "LABYRINTH_MOBILE_PIN_REMINDER";
+            case 9511:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_EXTEND_TTL";
+            case 9611:
+                return "LABYRINTH_MOBILE_ADD_DEVICE";
+            case 9656:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_ADD_DEVICE";
+            case 9745:
+                return "LABYRINTH_MOBILE_PASSKEY_RESTORE";
+            case 9886:
+                return "LABYRINTH_MOBILE_BLOCKSTORE_RESTORE";
+            case 10202:
+                return "LABYRINTH_MOBILE_FETCH_BACKUP_STATUS_OMNISTORE";
+            case 10393:
+                return "LABYRINTH_MOBILE_OPTOUT_BACKUP";
+            case 10400:
+                return "LABYRINTH_MOBILE_PAKE_HANDSHAKE_RESPONDER";
+            case 10567:
+                return "LABYRINTH_MOBILE_VIRTUAL_DEVICE_VALIDATION_STARTUP_CHECK";
+            case 11010:
+                return "LABYRINTH_MOBILE_INTERSTITIAL_SCREEN_IMPRESSION";
+            case 11237:
+                return "LABYRINTH_MOBILE_PASSKEY_SETUP";
+            case 11392:
+                return "LABYRINTH_MOBILE_INBOX_RESTORE_BANNER_CLICK";
+            case 11555:
+                return "LABYRINTH_MOBILE_CREATE_VIRTUAL_DEVICE";
+            case 11620:
+                return "LABYRINTH_MOBILE_BLOCKSTORE_VALIDATION";
+            case 11722:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_REMOVE_VIRTUAL_DEVICE";
+            case 11791:
+                return "LABYRINTH_MOBILE_LOCKBOX_ERROR";
+            case 11932:
+                return "LABYRINTH_MOBILE_LOCKBOX_MIGRATION";
+            case 11940:
+                return "LABYRINTH_MOBILE_THREAD_RESTORE_BANNER";
+            case 12127:
+                return "LABYRINTH_MOBILE_AUTO_RESTORE_OPTIN";
+            case 12241:
+                return "LABYRINTH_MOBILE_DEFAULT_EB_UPSELL";
+            case 12261:
+                return "LABYRINTH_MOBILE_VIRTUAL_DEVICE_REMOVAL";
+            case 12723:
+                return "LABYRINTH_MOBILE_SETUP_BACKUP";
+            case 12882:
+                return "LABYRINTH_MOBILE_BLOCKSTORE_SETUP";
+            case 13354:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_SYNCHRONIZE";
+            case 13849:
+                return "LABYRINTH_MOBILE_GENERATE_ONE_TIME_CODE";
+            case 14012:
+                return "LABYRINTH_MOBILE_AUTO_RESTORE_APP_JOB";
+            case 14240:
+                return "LABYRINTH_MOBILE_GENERATE_RECOVERY_CODE";
+            case 14357:
+                return "LABYRINTH_MOBILE_FETCH_BACKUP_STATUS";
+            case 14706:
+                return "LABYRINTH_MOBILE_AUTO_RESTORE_OPTOUT";
+            case 14754:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_CREATE_VIRTUAL_DEVICE";
+            case 14953:
+                return "LABYRINTH_MOBILE_PAKE_RESPONDER_GENERATE_CODE";
+            case 15434:
+                return "LABYRINTH_MOBILE_STARTUP_JOB";
+            case 15478:
+                return "LABYRINTH_MOBILE_THIRD_PARTY_REMOVE_ALL_VIRTUAL_DEVICES";
+            case 15694:
+                return "LABYRINTH_MOBILE_PAKE_SHOULD_GENERATE_CODE";
+            case 15825:
+                return "LABYRINTH_MOBILE_PIN_SETUP";
+            case 15892:
+                return "LABYRINTH_MOBILE_DELETE_BACKUP";
+            default:
+                return "UNDEFINED_QPL_EVENT";
+        }
+    }
+}

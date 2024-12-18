@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/account_discovery_bottom_gap"
+        android:top="@dimen/account_discovery_bottom_gap"
+        android:right="@dimen/account_discovery_bottom_gap"
+        android:bottom="@dimen/account_discovery_bottom_gap">
+        <shape android:shape="oval">
+            <solid android:color="?attr/musicCreationDurationBackgroundFillColor"/>
+            <stroke
+                android:width="@dimen/account_recs_header_image_margin"
+                android:color="?attr/musicCreationTextAndIconColorPrimary"/>
+        </shape>
+    </item>
+</layer-list>

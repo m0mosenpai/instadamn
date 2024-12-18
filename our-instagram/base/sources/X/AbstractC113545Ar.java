@@ -1,0 +1,96 @@
+package X;
+
+/* renamed from: X.5Ar, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes3.dex */
+public abstract class AbstractC113545Ar {
+    public static final C113565At A00;
+    public static final C113565At A01;
+    public static final C113565At A02;
+    public static final C113565At A03;
+    public static final C113565At A04;
+    public static final C113565At A05;
+    public static final C113565At A06;
+    public static final C113565At A07;
+    public static final C113565At A08;
+    public static final C113565At A09;
+    public static final C113565At A0A;
+    public static final C113565At A0B;
+    public static final C113565At A0C;
+    public static final C113565At A0D;
+    public static final C113565At A0E;
+    public static final C113565At A0F;
+    public static final C113565At A0G;
+    public static final C113565At A0H;
+    public static final C113565At A0I;
+    public static final C113565At A0J;
+    public static final C113565At A0K;
+    public static final C113565At A0L;
+    public static final C113565At A0M;
+    public static final C113565At A0N;
+    public static final C113565At A0O;
+    public static final C113565At A0P;
+    public static final C113565At A0Q;
+    public static final C113565At A0R;
+    public static final C113565At A0S;
+    public static final C113565At A0T;
+    public static final C113565At A0U;
+    public static final C113565At A0V;
+    public static final C113565At A0W;
+    public static final C113565At A0X;
+    public static final C113565At A0Y;
+
+    static {
+        C113565At c113565At = new C113565At("ContentDescription", C113555As.A00);
+        c113565At.A00 = true;
+        A02 = c113565At;
+        A0P = AbstractC113575Au.A00("StateDescription");
+        A0L = AbstractC113575Au.A00("ProgressBarRangeInfo");
+        C113565At c113565At2 = new C113565At("PaneTitle", C113595Aw.A00);
+        c113565At2.A00 = true;
+        A0J = c113565At2;
+        A0N = AbstractC113575Au.A00("SelectableGroup");
+        A00 = AbstractC113575Au.A00("CollectionInfo");
+        A01 = AbstractC113575Au.A00("CollectionItemInfo");
+        A07 = AbstractC113575Au.A00("Heading");
+        A03 = AbstractC113575Au.A00("Disabled");
+        A0H = AbstractC113575Au.A00("LiveRegion");
+        A06 = AbstractC113575Au.A00("Focused");
+        A0G = AbstractC113575Au.A00("IsTraversalGroup");
+        A0B = new C113565At("InvisibleToUser", C113605Ax.A00);
+        A0Y = new C113565At("ContentType", C113615Ay.A00);
+        A0X = new C113565At("ContentDataType", C113625Az.A00);
+        C113565At c113565At3 = new C113565At("TraversalIndex", C5B0.A00);
+        c113565At3.A00 = true;
+        A0V = c113565At3;
+        A08 = AbstractC113575Au.A00("HorizontalScrollAxisRange");
+        A0W = AbstractC113575Au.A00("VerticalScrollAxisRange");
+        C113565At c113565At4 = new C113565At("IsPopup", C5B1.A00);
+        c113565At4.A00 = true;
+        A0E = c113565At4;
+        C113565At c113565At5 = new C113565At("IsDialog", C5B2.A00);
+        c113565At5.A00 = true;
+        A0C = c113565At5;
+        C113565At c113565At6 = new C113565At("Role", C5B3.A00);
+        c113565At6.A00 = true;
+        A0M = c113565At6;
+        C113565At c113565At7 = new C113565At("TestTag", C5B4.A00);
+        c113565At7.A00 = false;
+        A0Q = c113565At7;
+        C113565At c113565At8 = new C113565At("Text", C5B5.A00);
+        c113565At8.A00 = true;
+        A0R = c113565At8;
+        C113585Av c113585Av = C113585Av.A00;
+        A0T = new C113565At("TextSubstitution", c113585Av);
+        A0F = new C113565At("IsShowingTextSubstitution", c113585Av);
+        A04 = AbstractC113575Au.A00("EditableText");
+        A0S = AbstractC113575Au.A00("TextSelectionRange");
+        A09 = AbstractC113575Au.A00("ImeAction");
+        A0O = AbstractC113575Au.A00("Selected");
+        A0U = AbstractC113575Au.A00("ToggleableState");
+        A0K = AbstractC113575Au.A00("Password");
+        A05 = AbstractC113575Au.A00("Error");
+        A0A = new C113565At("IndexForKey", c113585Av);
+        A0D = new C113565At("IsEditable", c113585Av);
+        A0I = new C113565At("MaxTextLength", c113585Av);
+    }
+}

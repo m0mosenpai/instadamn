@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding
+        android:top="@dimen/challenge_winner_v2_3_winner1_submission_margin_right"
+        android:bottom="@dimen/annotation_cluster_name_plate_padding_top"/>
+    <size android:width="@dimen/abc_control_corner_material"/>
+    <solid android:color="?attr/colorPrimary"/>
+</shape>

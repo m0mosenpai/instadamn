@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:height="24dp"
+        android:width="24dp">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_primary_background"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="20dp"
+        android:width="20dp">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_elevated_highlight_background"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="12dp"
+        android:width="12dp">
+        <bitmap
+            android:gravity="fill"
+            android:src="@drawable/instagram_reply_pano_outline_14"
+            android:tint="@color/igds_primary_icon"/>
+    </item>
+</layer-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/gradient_dark"/>
+            <size
+                android:height="@dimen/challenge_winner_v2_2_winners_submission_width"
+                android:width="@dimen/audio_page_audio_filter_tooltip_vertical_offset"/>
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/red_5"/>
+            <size
+                android:height="@dimen/ad4ad_button_bottom_margin"
+                android:width="@dimen/ad4ad_button_bottom_margin"/>
+        </shape>
+    </item>
+</layer-list>

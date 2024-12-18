@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?attr/igds_color_list_badge"/>
+    <corners android:radius="@dimen/abc_action_bar_elevation_material"/>
+    <stroke
+        android:width="3dp"
+        android:color="?attr/igds_color_primary_background"/>
+</shape>

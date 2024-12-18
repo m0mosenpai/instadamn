@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_enabled="false"
+        android:drawable="@drawable/instagram_flash_off_filled_44"/>
+    <item
+        android:state_enabled="true"
+        android:drawable="@drawable/flash_states_levels"/>
+</selector>

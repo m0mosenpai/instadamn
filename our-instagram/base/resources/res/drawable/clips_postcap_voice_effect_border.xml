@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:useLevel="false"
+    android:innerRadius="@dimen/abc_dialog_padding_material"
+    android:thickness="2dp">
+    <gradient
+        android:startColor="?attr/igds_color_gradient_yellow"
+        android:endColor="?attr/igds_color_gradient_purple"
+        android:angle="315"
+        android:type="linear"
+        android:centerColor="?attr/igds_color_gradient_red"/>
+</shape>

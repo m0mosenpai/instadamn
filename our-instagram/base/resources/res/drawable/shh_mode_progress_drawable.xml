@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/refreshable_progress_background">
+        <shape
+            android:shape="ring"
+            android:useLevel="false"
+            android:innerRadius="15dp"
+            android:thickness="1.5dp">
+            <solid android:color="@color/grey_1"/>
+        </shape>
+    </item>
+    <item android:id="@+id/refreshable_progress_track">
+        <rotate
+            android:fromDegrees="270"
+            android:toDegrees="270"
+            android:pivotX="50%"
+            android:pivotY="50%">
+            <shape
+                android:shape="ring"
+                android:useLevel="true"
+                android:innerRadius="15dp"
+                android:thickness="1.5dp">
+                <solid android:color="@color/gradient_light"/>
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

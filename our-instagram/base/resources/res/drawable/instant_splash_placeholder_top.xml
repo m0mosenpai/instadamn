@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="top">
+        <shape>
+            <size android:height="@dimen/abc_alert_dialog_button_dimen"/>
+            <solid android:color="?attr/backgroundColorSecondary"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="top"
+        android:drawable="@drawable/instant_splash_placeholder_shadow_top_down"
+        android:top="@dimen/abc_alert_dialog_button_dimen"/>
+</layer-list>

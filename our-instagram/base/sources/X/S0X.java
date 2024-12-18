@@ -1,0 +1,105 @@
+package X;
+
+/* loaded from: classes10.dex */
+public abstract class S0X {
+    public static String A00(int i) {
+        switch (i) {
+            case 1122:
+                return "ZERO_ZERO_BALANCE_DIALOG";
+            case 2018:
+                return "ZERO_AUTOFLEX_MOVE_TO_FREE_MODE_AFTER_OPTIN";
+            case 2401:
+                return "ZERO_TEST_IF_REACHES_SYNC_REQUESTS_CODE";
+            case 2446:
+                return "ZERO_FOS_DISCOVER_SIGNUP_FUNNEL";
+            case 2885:
+                return "ZERO_ZERO_MESSENGER_NUX_ELIGIBILITY_CHECK";
+            case 2919:
+                return "ZERO_MESSAGING_PLACEHOLDER";
+            case 2933:
+                return "ZERO_ZERO_AUTO_MESSENGER_NUX_CLICK";
+            case 3194:
+                return "ZERO_ZERO_TOKEN_UPDATE";
+            case 3631:
+                return "ZERO_ZERO_MESSENGER_NUX";
+            case 4538:
+                return "ZERO_ZERO_MESSENGER_OPTIN_ACTION";
+            case 4621:
+                return "ZERO_AUTOFLEX_DECLINE_OPTIN";
+            case 4757:
+                return "ZERO_AUTOFLEX_OPTIN_SCREEN_FETCH";
+            case 5261:
+                return "ZERO_UNKNOWN_STATE_RESOLVED";
+            case 5527:
+                return "ZERO_IG_ZERO_OPTIN_FINAL";
+            case 5551:
+                return "ZERO_ZERO_MESSENGER_NUX_CLICK_CONTINUE";
+            case 5653:
+                return "ZERO_ZERO_MESSENGER_INTERSTITIAL";
+            case 6078:
+                return "ZERO_ZERO_MESSENGER_PLACEHOLDER";
+            case 6374:
+                return "ZERO_FREEMIUM_OPTIN";
+            case 6754:
+                return "ZERO_ZERO_AUTO_MESSENGER_NUX_SCREEN";
+            case 7054:
+                return "ZERO_ZERO_BALANCE_DETECTION";
+            case 7183:
+                return "ZERO_ZORP_DECLINE_OPTIN";
+            case 8719:
+                return "ZERO_AUTOFLEX_OPTIN_ACTION";
+            case 8942:
+                return "ZERO_ZORP_OPTIN_ACTION";
+            case 9007:
+                return "ZERO_FB4A_AUTOFLEX_ZBD_RESULT_FLOW";
+            case 9294:
+                return "ZERO_IG_ZERO_POST_OPTIN_FLOW";
+            case 9417:
+                return "ZERO_ZORP_TOKEN_REFRESH_AFTER_OPTIN";
+            case 9533:
+                return "ZERO_ZORP_OPTIN_FLOW";
+            case 9556:
+                return "ZERO_AUTOFLEX_OPTIN";
+            case 10043:
+                return "ZERO_ZORP_OPTIN_SCREEN_FETCH";
+            case 10470:
+                return "ZERO_ZORP_MOVE_TO_FREE_AFTER_OPTIN";
+            case 10667:
+                return "ZERO_ZERO_UNEXPECTED_EVENT";
+            case 10784:
+                return "ZERO_ZORP_MOVE_TO_FREE_MODE_AFTER_OPTIN";
+            case 10885:
+                return "ZERO_IG_ZERO_PRE_OPTIN_FLOW";
+            case 11099:
+                return "ZERO_AUTOFLEX_TOKEN_REFRESH_AFTER_OPTIN";
+            case 12221:
+                return "ZERO_ZERO_MESSENGER_SETTINGS_SCREEN";
+            case 12259:
+                return "ZERO_FLEX_AUTOFLEX_TRANSITION";
+            case 12580:
+                return "ZERO_ZERO_MESSENGER_OPTOUT_ACTION";
+            case 12788:
+                return "ZERO_ZR_UI_PLACEHOLDER";
+            case 12838:
+                return "ZERO_ZERO_OPTIN_FLOW";
+            case 12917:
+                return "ZERO_ZERO_BALANCE_DETECTED_UNTIL_SHOWN";
+            case 13142:
+                return "ZERO_AUTOFLEX_MOVE_TO_FREE_AFTER_OPTIN";
+            case 13913:
+                return "ZERO_AUTOFLEX_OPTIN_FLOW";
+            case 14295:
+                return "ZERO_IG_ZERO_OPTIN_FLOW";
+            case 14436:
+                return "ZERO_ZERO_MESSENGER_OPTIN_SCREEN";
+            case 14515:
+                return "ZERO_ZERO_RATING_UI";
+            case 15216:
+                return "ZERO_IG_ZERO_OPTIN_PRE_FLOW";
+            case 16304:
+                return "ZERO_CAMPAIGN_API_REFRESH";
+            default:
+                return "UNDEFINED_QPL_EVENT";
+        }
+    }
+}

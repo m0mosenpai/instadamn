@@ -1,0 +1,58 @@
+package X;
+
+/* loaded from: classes11.dex */
+public enum VHi implements InterfaceC02530Ab {
+    ERROR_BINDING_DIED("ERROR_BINDING_DIED"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_CANCEL_REMOVE_DOWNLOAD("ERROR_CANCEL_REMOVE_DOWNLOAD"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_MANAGER_EMPTY_CURSOR("ERROR_DOWNLOAD_MANAGER_EMPTY_CURSOR"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_MANAGER_NOT_FOUND_COMPLETE("ERROR_DOWNLOAD_MANAGER_NOT_FOUND_COMPLETE"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_MANAGER_NOT_FOUND_OPEN("ERROR_DOWNLOAD_MANAGER_NOT_FOUND_OPEN"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_MANAGER_NOT_FOUND_REMOVE("ERROR_DOWNLOAD_MANAGER_NOT_FOUND_REMOVE"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_URL_EMPTY_ENTITY("ERROR_DOWNLOAD_URL_EMPTY_ENTITY"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_URL_FAIL_CALLBACK("ERROR_DOWNLOAD_URL_FAIL_CALLBACK"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOAD_URL_NO_RESPONSE("ERROR_DOWNLOAD_URL_NO_RESPONSE"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOADED_FILE_NOT_FOUND("ERROR_DOWNLOADED_FILE_NOT_FOUND"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_DOWNLOADED_FILE_OPEN("ERROR_DOWNLOADED_FILE_OPEN"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_ENQUEUE_DOWNLOAD("ERROR_ENQUEUE_DOWNLOAD"),
+    ERROR_FAILED_DOWNLOAD_CALLBACK_REGISTER("ERROR_FAILED_DOWNLOAD_CALLBACK_REGISTER"),
+    ERROR_NULL_BINDING("ERROR_NULL_BINDING"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_REGISTER_RECEIVER("ERROR_REGISTER_RECEIVER"),
+    ERROR_SERVICE_UNAVAILABLE("ERROR_SERVICE_UNAVAILABLE"),
+    ERROR_UNEXEPECTED_SERVICE_DISCONNECTION("ERROR_UNEXEPECTED_SERVICE_DISCONNECTION"),
+    /* JADX INFO: Fake field, exist only in values array */
+    ERROR_UNREGISTER_RECEIVER("ERROR_UNREGISTER_RECEIVER"),
+    /* JADX INFO: Fake field, exist only in values array */
+    FALLBACK_BACKEND_ELIGIBILITY_FAILED("FALLBACK_BACKEND_ELIGIBILITY_FAILED"),
+    /* JADX INFO: Fake field, exist only in values array */
+    FALLBACK_DEVICE_ELIGIBILITY_FAILED("FALLBACK_DEVICE_ELIGIBILITY_FAILED"),
+    OEM_FALLBACK_INVALID_CONTEXT("OEM_FALLBACK_INVALID_CONTEXT"),
+    OEM_FALLBACK_OEM_STORE_NOT_FOUND("OEM_FALLBACK_OEM_STORE_NOT_FOUND"),
+    /* JADX INFO: Fake field, exist only in values array */
+    OEM_FALLBACK_UNSUPPORTED_ANDROID_SDK_VERSION("OEM_FALLBACK_UNSUPPORTED_ANDROID_SDK_VERSION"),
+    /* JADX INFO: Fake field, exist only in values array */
+    OEM_FALLBACK_UNSUPPORTED_COUNTRY("OEM_FALLBACK_UNSUPPORTED_COUNTRY"),
+    OEM_FALLBACK_UNSUPPORTED_OEM_STORE_VERSION("OEM_FALLBACK_UNSUPPORTED_OEM_STORE_VERSION");
+
+    public final String A00;
+
+    @Override // X.InterfaceC02530Ab
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return this.A00;
+    }
+
+    VHi(String str) {
+        this.A00 = str;
+    }
+}

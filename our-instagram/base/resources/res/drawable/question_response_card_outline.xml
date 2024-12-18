@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/abc_edit_text_inset_top_material"/>
+            <stroke
+                android:width="@dimen/account_recs_header_image_margin"
+                android:color="?attr/questionResponseCardOutlineSelected"/>
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/abc_edit_text_inset_top_material"/>
+            <stroke
+                android:width="@dimen/account_recs_header_image_margin"
+                android:color="?attr/questionResponseCardOutline"/>
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+        </shape>
+    </item>
+</selector>

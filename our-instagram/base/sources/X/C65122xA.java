@@ -1,0 +1,105 @@
+package X;
+
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentActivity;
+import com.instagram.common.session.UserSession;
+
+/* renamed from: X.2xA, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes2.dex */
+public final class C65122xA {
+    public final UserSession A00;
+    public final InterfaceC60442pS A01;
+    public final InterfaceC09390do A02;
+    public final InterfaceC09390do A03;
+    public final InterfaceC09390do A04;
+    public final InterfaceC09390do A05;
+    public final InterfaceC09390do A06;
+    public final InterfaceC09390do A07;
+    public final InterfaceC09390do A08;
+    public final InterfaceC09390do A09;
+    public final InterfaceC09390do A0A;
+    public final InterfaceC09390do A0B;
+    public final InterfaceC09390do A0C;
+    public final InterfaceC09390do A0D;
+    public final InterfaceC09390do A0E;
+    public final InterfaceC09390do A0F;
+    public final InterfaceC09390do A0G;
+    public final InterfaceC09390do A0H;
+    public final InterfaceC09390do A0I;
+    public final InterfaceC09390do A0J;
+    public final InterfaceC09390do A0K;
+    public final InterfaceC09390do A0L;
+    public final InterfaceC09390do A0M;
+    public final InterfaceC09390do A0N;
+    public final InterfaceC09390do A0O;
+    public final InterfaceC09390do A0P;
+    public final InterfaceC09390do A0Q;
+    public final InterfaceC09390do A0R;
+    public final InterfaceC09390do A0S;
+    public final InterfaceC09390do A0T;
+    public final InterfaceC09390do A0U;
+    public final InterfaceC09390do A0V;
+    public final InterfaceC09390do A0W;
+    public final InterfaceC09390do A0X;
+    public final InterfaceC09390do A0Y;
+    public final InterfaceC09390do A0Z;
+    public final InterfaceC09390do A0a;
+    public final InterfaceC09390do A0b;
+    public final InterfaceC09390do A0c;
+    public final InterfaceC09390do A0d;
+    public final InterfaceC09390do A0e;
+    public final InterfaceC09390do A0f;
+    public final InterfaceC09390do A0g;
+    public final InterfaceC09390do A0h;
+
+    public C65122xA(Fragment fragment, FragmentActivity fragmentActivity, C62862tP c62862tP, C61142qc c61142qc, InterfaceC63362uJ interfaceC63362uJ, C64312vq c64312vq, C63752uw c63752uw, C65102x8 c65102x8, C60972qL c60972qL, C63902vB c63902vB, InterfaceC63682up interfaceC63682up, InterfaceC63682up interfaceC63682up2, C63712us c63712us, C63922vD c63922vD, InterfaceC64612wK interfaceC64612wK, InterfaceC61782rf interfaceC61782rf, C57332k8 c57332k8, InterfaceC63842v5 interfaceC63842v5, C63872v8 c63872v8, C63372uK c63372uK, C61762rd c61762rd, C64372vw c64372vw, C65092x7 c65092x7, C62812tK c62812tK, C62662t5 c62662t5, C64062vR c64062vR, C63762ux c63762ux, InterfaceC63342uH interfaceC63342uH, InterfaceC64632wM interfaceC64632wM, InterfaceC55362gb interfaceC55362gb, C61252qn c61252qn, C64032vO c64032vO, InterfaceC65002wy interfaceC65002wy, InterfaceC64872wl interfaceC64872wl, InterfaceC61432r6 interfaceC61432r6, InterfaceC64472w6 interfaceC64472w6, C64492w8 c64492w8, C1M1 c1m1, C64452w4 c64452w4, C60662pp c60662pp, C65082x6 c65082x6, C63972vI c63972vI) {
+        C14360o3.A0B(c1m1, 6);
+        C14360o3.A0B(c61252qn, 22);
+        C14360o3.A0B(interfaceC64612wK, 33);
+        C14360o3.A0B(interfaceC55362gb, 36);
+        this.A00 = c60972qL.A01;
+        this.A01 = c60972qL.A02;
+        this.A0A = AbstractC09440dt.A01(C65132xB.A00);
+        this.A0E = AbstractC09440dt.A01(new C207369Fp(fragmentActivity, c60972qL, c61142qc, c1m1, fragment, c57332k8, interfaceC63362uJ, c62862tP, c63372uK, 3));
+        this.A0J = AbstractC09440dt.A01(C65142xC.A00);
+        this.A0Q = AbstractC09440dt.A01(C65152xD.A00);
+        this.A0K = AbstractC09440dt.A01(C65162xE.A00);
+        this.A0D = AbstractC09440dt.A01(new C207369Fp(fragmentActivity, c60972qL, c61142qc, this, fragment, c1m1, c57332k8, c62862tP, c63372uK, 2));
+        this.A0d = AbstractC09440dt.A01(new C207339Fm(4, fragmentActivity, fragment, this, interfaceC63682up, c63712us, interfaceC63682up2, c63372uK));
+        this.A0I = AbstractC09440dt.A01(new C9FY(41, c63762ux, this, c63752uw, fragmentActivity));
+        this.A0P = AbstractC09440dt.A01(new C207289Fh(14, fragmentActivity, interfaceC63842v5, this, c63372uK, c63872v8));
+        this.A0b = AbstractC09440dt.A01(new C9FM(46, fragmentActivity, this, c63902vB));
+        this.A0H = AbstractC09440dt.A01(new C9FM(41, fragmentActivity, this, c63922vD));
+        this.A07 = AbstractC09440dt.A01(new C9F9(17, fragmentActivity, this));
+        this.A0B = AbstractC09440dt.A01(new C9F9(18, fragmentActivity, this));
+        this.A08 = AbstractC09440dt.A01(new C207319Fk(6, fragmentActivity, c62812tK, interfaceC61782rf, c62662t5, fragment, this));
+        this.A09 = AbstractC09440dt.A01(new C9EX(fragmentActivity, 44));
+        this.A0Z = AbstractC09440dt.A01(new C207289Fh(15, fragmentActivity, c64032vO, this, c63972vI, c61252qn));
+        this.A0N = AbstractC09440dt.A01(C65172xF.A00);
+        this.A0U = AbstractC09440dt.A01(new C9FY(42, c65102x8, this, fragment, fragmentActivity));
+        this.A0e = AbstractC09440dt.A01(new C9FY(45, c63762ux, this, fragment, fragmentActivity));
+        this.A05 = AbstractC09440dt.A01(new C9FM(37, fragmentActivity, this, fragment));
+        this.A0R = AbstractC09440dt.A01(C65182xG.A00);
+        this.A0O = AbstractC09440dt.A01(new C207319Fk(7, fragmentActivity, c60662pp, c61762rd, c64062vR, c64312vq, this));
+        this.A04 = AbstractC09440dt.A01(new C207319Fk(5, fragmentActivity, c64452w4, c1m1, c64372vw, interfaceC61432r6, this));
+        this.A02 = AbstractC09440dt.A01(new C207289Fh(11, fragmentActivity, c1m1, this, c64452w4, c64372vw));
+        this.A03 = AbstractC09440dt.A01(new C207289Fh(12, fragmentActivity, c1m1, this, c64452w4, c64372vw));
+        this.A0S = AbstractC09440dt.A01(new C9FM(43, fragmentActivity, c64492w8, interfaceC64472w6));
+        this.A0C = AbstractC09440dt.A01(new C9FM(38, fragmentActivity, this, interfaceC64612wK));
+        this.A0V = AbstractC09440dt.A01(new C9EX(fragmentActivity, 45));
+        this.A06 = AbstractC09440dt.A01(new C207289Fh(13, fragmentActivity, c63762ux, this, fragment, c62862tP));
+        this.A0M = AbstractC09440dt.A01(new C9FM(42, fragmentActivity, this, c65082x6));
+        this.A0Y = AbstractC09440dt.A01(new C9F9(20, fragmentActivity, this));
+        this.A0g = AbstractC09440dt.A01(new C9F9(21, fragmentActivity, this));
+        this.A0h = AbstractC09440dt.A01(new C9F9(22, fragmentActivity, this));
+        this.A0W = AbstractC09440dt.A01(new C9FM(45, fragmentActivity, this, fragment));
+        this.A0f = AbstractC09440dt.A01(new C9FM(47, fragmentActivity, this, fragment));
+        this.A0F = AbstractC09440dt.A01(new C9FM(39, fragmentActivity, this, interfaceC64632wM));
+        this.A0a = AbstractC09440dt.A01(new C9EX(fragmentActivity, 46));
+        this.A0L = AbstractC09440dt.A01(new C9F9(19, interfaceC63342uH, this));
+        this.A0G = AbstractC09440dt.A01(new C9FM(40, fragmentActivity, this, interfaceC55362gb));
+        this.A0T = AbstractC09440dt.A01(new C9FM(44, fragmentActivity, this, interfaceC65002wy));
+        this.A0X = AbstractC09440dt.A01(new C9FY(43, interfaceC64872wl, this, c63372uK, fragmentActivity));
+        this.A0c = AbstractC09440dt.A01(new C9FY(44, c65092x7, this, c63762ux, fragmentActivity));
+    }
+}

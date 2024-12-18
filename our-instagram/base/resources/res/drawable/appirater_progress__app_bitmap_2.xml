@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-bitmap xmlns:fbui="http://schemas.android.com/apk/res-auto"
+    fbui:fbui_alpha="1"
+    fbui:fbui_src="@drawable/instagram_gold_star_outline_24"/>

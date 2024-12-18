@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_secondary_text"/>
+            <size
+                android:height="18dp"
+                android:width="18dp"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:id="@+id/icon"
+        android:drawable="@drawable/poll_message_add_option_drawable__app_bitmap_0"
+        android:left="4dp"
+        android:top="4dp"
+        android:right="4dp"
+        android:bottom="4dp"/>
+</layer-list>

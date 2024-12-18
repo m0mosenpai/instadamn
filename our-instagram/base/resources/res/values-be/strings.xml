@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">Рэгіён</string>
+    <string name="res_0x7f130004_name_removed">Адрас</string>
+    <string name="res_0x7f130005_name_removed">Кв/пам. (неабавязкова)</string>
+    <string name="res_0x7f13000b_name_removed">Закрыць браўзер</string>
+    <string name="res_0x7f13000d_name_removed">%1$s хоча выкарыстаць месцазнаходжанне вашай прылады.</string>
+    <string name="res_0x7f13000f_name_removed">Дазволіць</string>
+    <string name="res_0x7f130010_name_removed">Заблакіраваць</string>
+    <string name="res_0x7f130045_name_removed">Пацвердзіць</string>
+    <string name="res_0x7f130047_name_removed">Пацвердзіць</string>
+    <string name="res_0x7f130049_name_removed">ОК</string>
+    <string name="res_0x7f13004a_name_removed">ОК</string>
+    <string name="res_0x7f130058_name_removed">Электронная пошта</string>
+    <string name="res_0x7f130059_name_removed">Вэб-сайт, які вы праглядаеце, спрабуе адкрыць знешнюю праграму. Ці хочаце вы працягнуць?</string>
+    <string name="res_0x7f13005a_name_removed">Назад</string>
+    <string name="res_0x7f13005b_name_removed">Працягнуць</string>
+    <string name="res_0x7f13005c_name_removed">Вы збіраецеся пакінуць нашу праграму</string>
+    <string name="res_0x7f13005d_name_removed">Магчыма, гэта звязана з тэхнічнай праблемай, якую мы ўжо вырашаем. Паспрабуйце перазагрузіць старонку.</string>
+    <string name="res_0x7f13005e_name_removed">Абнавіць</string>
+    <string name="res_0x7f13005f_name_removed">Старонка пакуль недаступная</string>
+    <string name="res_0x7f130060_name_removed">Прозвішча</string>
+    <string name="res_0x7f130061_name_removed">Немагчыма загрузіць Старонку</string>
+    <string name="res_0x7f130063_name_removed">Адкрыць у праграме \"%1$s\"</string>
+    <string name="res_0x7f130064_name_removed">Іншыя варыянты</string>
+    <string name="res_0x7f130065_name_removed">Імя</string>
+    <string name="res_0x7f13006a_name_removed">Вы выконваеце прагляд у поўнаэкранным рэжыме. Каб выйсці з яго, змахніце налева або націсніце кнопку \"Назад\".</string>
+    <string name="res_0x7f130084_name_removed">Iмя</string>
+    <string name="res_0x7f13008a_name_removed">На жаль, нешта пайшло не так</string>
+    <string name="res_0x7f1300a0_name_removed">паштовы індэкс</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">Указанне часу</string>
+</resources>

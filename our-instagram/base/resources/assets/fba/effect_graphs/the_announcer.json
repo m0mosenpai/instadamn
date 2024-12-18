@@ -1,0 +1,167 @@
+{
+    "graph": {
+        "sample_rate": 44100,
+        "frame_size": 256
+    },
+    "nodes": [
+        {
+            "name": "Mono To Stereo",
+            "label": "Input",
+            "uuid": "fc61039bc3ef4cbeb4dc462b93909d76",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 2,
+            "params":
+            [],
+            "ports":
+            [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state":{"channels":2}
+        },
+        {
+            "name": "Core Processor Node",
+            "label": "Output",
+            "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 0,
+            "params": [],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state": {
+                "memory": 0
+            }
+        },
+        {
+            "name": "PitchShifter (AudioFilterCore)",
+            "label": "Pitch Shifter",
+            "uuid": "67e290d6668940f1b33e174e95557fb4",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                -3
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Distortion (AudioFilterCore)",
+            "label": "Distortion",
+            "uuid": "50853ff7b9104b70a3e1edd2ff94706e",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                10,
+                -10,
+                20
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Bit Crusher (AudioFilterCore)",
+            "label": "Bit Crusher",
+            "uuid": "472947f683e54dcc93a8b4ce8aeae5e9",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                20,
+                8000,
+                8
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Delay (AudioFilterCore)",
+            "label": "Delay",
+            "uuid": "086d3f4144ae48bb9ffb86bdafa1428b",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                1,
+                300,
+                0,
+                300,
+                0,
+                300,
+                0,
+                300,
+                0,
+                50,
+                100
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        },
+        {
+            "name": "Reverb (AudioFilterCore)",
+            "label": "Reverb",
+            "uuid": "0b8b499eb3d242b59e68e89a07c08d5d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "num_channels": 1,
+            "params": [
+                0,
+                37.5,
+                20,
+                50,
+                50,
+                70,
+                60,
+                60,
+                16
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 32,
+            "state": {"channels":2}
+        }
+    ],
+    "edges": [
+        [
+            2
+        ],
+        [],
+        [
+            3
+        ],
+        [
+            4
+        ],
+        [
+            5
+        ],
+        [
+            6
+        ],
+        [
+            1
+        ]
+    ]
+}

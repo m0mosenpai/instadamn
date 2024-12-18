@@ -1,0 +1,19 @@
+package X;
+
+/* renamed from: X.61P, reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class C61P extends C61Q implements C61R {
+    public static final C61W A00;
+    public static final C61U A01;
+    public static final C61S A02;
+
+    /* JADX WARN: Type inference failed for: r2v0, types: [X.61U, java.lang.Object] */
+    /* JADX WARN: Type inference failed for: r3v0, types: [java.lang.Object, X.61S] */
+    static {
+        ?? obj = new Object();
+        A02 = obj;
+        ?? obj2 = new Object();
+        A01 = obj2;
+        A00 = new C61W(obj2, obj, "Blockstore.API");
+    }
+}

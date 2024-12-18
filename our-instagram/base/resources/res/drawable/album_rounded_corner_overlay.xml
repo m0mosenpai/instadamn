@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <padding
+                android:left="@dimen/album_rounded_corner_overlay_padding"
+                android:top="@dimen/album_rounded_corner_overlay_padding"
+                android:right="@dimen/album_rounded_corner_overlay_padding"
+                android:bottom="@dimen/album_rounded_corner_overlay_padding"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/ad4ad_button_bottom_margin"/>
+            <stroke
+                android:width="@dimen/account_discovery_bottom_gap"
+                android:color="?attr/igds_photo_border"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/ad4ad_button_bottom_margin"/>
+            <stroke
+                android:width="@dimen/abc_edit_text_inset_top_material"
+                android:color="?attr/igds_color_primary_background"/>
+        </shape>
+    </item>
+</layer-list>

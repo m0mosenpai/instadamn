@@ -1,0 +1,17 @@
+{
+    "SponsorId" : "4D4482033B2DFFEB",
+    "PropagationChannelId" : "89E082FD4B80F27F",
+    "ClientPlatform" : "meta",
+    "ClientVersion" : "%d",
+    "ServerEntrySignaturePublicKey" : "sHuUVTWaRyh5pZwy4UguSgkwmBe0EHtJJkoF5WrxmvA=",
+    "RemoteServerListSignaturePublicKey" : "MIICIDANBgkqhkiG9w0BAQEFAAOCAg0AMIICCAKCAgEAt7Ls+/39r+T6zNW7GiVpJfzq/xvL9SBH5rIFnk0RXYEYavax3WS6HOD35eTAqn8AniOwiH+DOkvgSKF2caqk/y1dfq47Pdymtwzp9ikpB1C5OfAysXzBiwVJlCdajBKvBZDerV1cMvRzCKvKwRmvDmHgphQQ7WfXIGbRbmmk6opMBh3roE42KcotLFtqp0RRwLtcBRNtCdsrVsjiI1Lqz/lH+T61sGjSjQ3CHMuZYSQJZo/KrvzgQXpkaCTdbObxHqb6/+i1qaVOfEsvjoiyzTxJADvSytVtcTjijhPEV6XskJVHE1Zgl+7rATr/pDQkw6DPCNBS1+Y6fy7GstZALQXwEDN/qhQI9kWkHijT8ns+i1vGg00Mk/6J75arLhqcodWsdeG/M/moWgqQAnlZAGVtJI1OgeF5fsPpXu4kctOfuZlGjVZXQNW34aOzm8r8S0eVZitPlbhcPiR4gT/aSMz/wd8lZlzZYsje/Jr8u/YtlwjjreZrGRmG8KMOzukV3lLmMppXFMvl4bxv6YFEmIuTsOhbLTwFgh7KYNjodLj/LsqRVfwz31PgWQFTEPICV7GCvgVlPRxnofqKSjgTWI4mxDhBpVcATvaoBl1L/6WLbFvBsoAUBItWwctO2xalKxF5szhGm8lccoc5MZr8kfE0uxMgsxz4er68iCID+rsCAQM=",
+    "RemoteServerListURLs" : [{"URL": "aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BzaXBob24vd2ViL3hidGotZTU5Zi15dG5iL3NlcnZlcl9saXN0X2NvbXByZXNzZWQ=", "OnlyAfterAttempts": 0, "SkipVerify": false}, {"URL": "aHR0cHM6Ly93d3cuZ3BhbGx0aGluZ3NudW1iZXJ3ZWF0aGVyLmNvbS93ZWIveGJ0ai1lNTlmLXl0bmIvc2VydmVyX2xpc3RfY29tcHJlc3NlZA==", "OnlyAfterAttempts": 2, "SkipVerify": true}, {"URL": "aHR0cHM6Ly93d3cuY29ycG9yYXRlaGlyZXByZXNzdGguY29tL3dlYi94YnRqLWU1OWYteXRuYi9zZXJ2ZXJfbGlzdF9jb21wcmVzc2Vk", "OnlyAfterAttempts": 2, "SkipVerify": true}, {"URL": "aHR0cHM6Ly93d3cuZGlhbW9uZGJlcmxpbmdhbWVycGxhbmV0LmNvbS93ZWIveGJ0ai1lNTlmLXl0bmIvc2VydmVyX2xpc3RfY29tcHJlc3NlZA==", "OnlyAfterAttempts": 2, "SkipVerify": true}],
+    "ObfuscatedServerListRootURLs" : [{"URL": "aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BzaXBob24vd2ViL3hidGotZTU5Zi15dG5iL29zbA==", "OnlyAfterAttempts": 0, "SkipVerify": false}, {"URL": "aHR0cHM6Ly93d3cuZ3BhbGx0aGluZ3NudW1iZXJ3ZWF0aGVyLmNvbS93ZWIveGJ0ai1lNTlmLXl0bmIvb3Ns", "OnlyAfterAttempts": 2, "SkipVerify": true}, {"URL": "aHR0cHM6Ly93d3cuY29ycG9yYXRlaGlyZXByZXNzdGguY29tL3dlYi94YnRqLWU1OWYteXRuYi9vc2w=", "OnlyAfterAttempts": 2, "SkipVerify": true}, {"URL": "aHR0cHM6Ly93d3cuZGlhbW9uZGJlcmxpbmdhbWVycGxhbmV0LmNvbS93ZWIveGJ0ai1lNTlmLXl0bmIvb3Ns", "OnlyAfterAttempts": 2, "SkipVerify": true}],
+    "TargetApiProtocol": "ssh",
+    "EstablishTunnelTimeoutSeconds": 0,
+    "EmitClientAddress": true,
+    "EmitDiagnosticNotices" : true,
+    "EmitDiagnosticNetworkParameters" : true,
+    "IgnoreHandshakeStatsRegexps" : true,
+    "ConnectionWorkerPoolSize" : 30
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:gravity="center"
+        android:height="61.333dp"
+        android:width="61.333dp">
+        <bitmap android:src="@drawable/instagram"/>
+    </item>
+</layer-list>

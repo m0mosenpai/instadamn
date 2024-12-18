@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fb="http://schemas.android.com/apk/res-auto"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:id="@+id/metapay_disclosure_footer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <View
+        android:id="@+id/metapay_disclosure_footer_divider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ads_disclosure_footer_top_divider_height"/>
+    <com.facebookpay.widget.accessibility.AccessibleTextView
+        android:gravity="top|center_horizontal"
+        android:id="@+id/metapay_disclosure_footer_body_text"
+        android:paddingLeft="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:paddingTop="@dimen/abc_button_padding_horizontal_material"
+        android:paddingRight="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:paddingBottom="@dimen/abc_button_padding_horizontal_material"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

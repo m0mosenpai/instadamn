@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false">
+        <bitmap
+            android:src="@drawable/browser_back"
+            android:tint="@color/direct_light_mode_glyph_color_tertiary"/>
+    </item>
+    <item>
+        <bitmap
+            android:src="@drawable/browser_back"
+            android:tint="@color/countdown_sticker_title_text_color"/>
+    </item>
+</selector>

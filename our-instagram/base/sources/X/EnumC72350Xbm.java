@@ -1,0 +1,156 @@
+package X;
+
+import com.facebook.tigon.tigonhuc.HucClient;
+
+/* JADX WARN: $VALUES field not found */
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* renamed from: X.Xbm, reason: case insensitive filesystem */
+/* loaded from: classes12.dex */
+public final class EnumC72350Xbm {
+    public static final EnumC72350Xbm A01;
+    public static final EnumC72350Xbm A02;
+    public static final EnumC72350Xbm A03;
+    public static final EnumC72350Xbm A04;
+    public final String A00;
+
+    static {
+        A00("UNSET_OR_UNRECOGNIZED_ENUM_VALUE", 0);
+        A00("ACTIVITY_LOG", 1);
+        A00("AGORA_GROUPS", 2);
+        A00("AGORA_RECENT_NEWS", 3);
+        A00("BLOCK_BUTTON", 4);
+        A00("BLOCK_COMPOSER", 5);
+        A00("BUSINESS_NOTIFICATION_MESSAGE_REPORT_BUTTON", 6);
+        A01 = new EnumC72350Xbm("CHEVRON_BUTTON", 7, "CHEVRON_BUTTON");
+        A00("CHEVRON_TAGS", 8);
+        A00("COLLEGES_LIVE_CHAT_REPORT_TO_FB", 9);
+        A00("COMMENT", 10);
+        A00("COMMENT_BUTTON", 11);
+        A00("CONTENT_OVERLAY", 12);
+        A00("CRISIS_LISTING", 13);
+        A00("CROWDSOURCING_REPORT", 14);
+        A00("DELETE_CONTENT_REPORT", 15);
+        A00("DELETE_CONVERSATION_REPORT", 16);
+        A00("DEVELOPER_FEEDBACK_BUTTON", 17);
+        A00("ENTITY_STATUS_LIST_ITEM", 18);
+        A00("EVENTS_REPORTING", 19);
+        A00("FEEDBACK_BUTTON", 20);
+        A00("FOX_CHEVRON_TAGS", 21);
+        A00("GAMING_ACTIVITY", 22);
+        A00("GEMSTONE_INTEREST", 23);
+        A00("GEMSTONE_MEDIA", 24);
+        A00("GEMSTONE_MESSAGING", 25);
+        A00("GEMSTONE_PROFILE", 26);
+        A00("GROUPS_ADMIN_FEEDBACK", 27);
+        A00("GROUPS_COLLABORATIVE_PROMPTS_REPORT", 28);
+        A00("GROUPS_DISCOVER", 29);
+        A00("GROUPS_DISCOVER_HIDE_BUTTON", 30);
+        A00("GROUPS_INVITE_REPORT", 31);
+        A00("GROUPS_JOIN", 32);
+        A00("GROUPS_JOIN_QUESTION", 33);
+        A00("GROUPS_LEAVE", 34);
+        A00("GROUPS_LEAVE_BROWSE", 35);
+        A00("GROUPS_LEAVE_SPECIAL", 36);
+        A00("GROUPS_PARTICIPATION_QUESTION", 37);
+        A00("GROUPS_PENDING_QUEUE", 38);
+        A00("GROUPS_POLL", 39);
+        A00("GROUPS_REPORT", 40);
+        A00("GROUPS_REPORT_LONG_PRESS_TO_ADMIN", 41);
+        A00("GROUPS_REPORT_TO_ADMIN", 42);
+        A00("GROUPS_RULE", 43);
+        A00("GROUPS_TAB_CHAT_ROW", 44);
+        A00("GROUPS_TAB_DISCOVER_FIRST", 45);
+        A00("GROUPS_TRANSPARENCY", 46);
+        A00("GROUP_MALL_RELATED_GROUPS_CHAINING", 47);
+        A00("GROUP_MALL_RHC", 48);
+        A00("GROUP_UNPUBLISH_BANNER", 49);
+        A00("HATE_CTA", 50);
+        A00("HELP_NAV_BUTTON", 51);
+        A02 = new EnumC72350Xbm("HIDE_AD_BUTTON", 52, "HIDE_AD_BUTTON");
+        A00("HIDE_AD_XOUT_BUTTON", 53);
+        A00("INSTANT_GAMES_BOT_FEEDBACK_LINK", 54);
+        A00("IN_PROFILE_MEDIA_SELECTOR", 55);
+        A00("LEAVE_CONVERSATION_REPORT", 56);
+        A00("LOCAL_COMMUNITY_DEMOTE_CONTENT", 57);
+        A00("LOCAL_COMMUNITY_MOD_HUB_DEMOTE", 58);
+        A00("LOCAL_COMMUNITY_POST_REPORT_TO_MOD", 59);
+        A00("LOCAL_LIVE_CHAT_REPORT_TO_FB", 60);
+        A00("MARKETPLACE_ACCESS_DENIED_DETAILS_BUTTON", 61);
+        A00("MARKETPLACE_LISTING_SELLER_NOTICES", 62);
+        A00("MARK_AS_SOLD_BUTTON", 63);
+        A00("MARK_AS_SUSPICIOUS_BUTTON", 64);
+        A00("MESSAGE_MEDIA_BUBBLE_REPORT", 65);
+        A00("MOBILE_GYSJ", 66);
+        A00("NOTIFICATIONS_JEWEL", 67);
+        A00("PAGE_LIKE", 68);
+        A00("PAGE_UNFOLLOW", 69);
+        A00("PAGE_UNFOLLOW_CHEVRON", 70);
+        A00("PAGE_UNLIKE", 71);
+        A00("PAGE_UNPUBLISH_BANNER", 72);
+        A00("PAGE_VERIFICATION_BADGE_OPTION", 73);
+        A00("PAGE_VERIFICATION_PAGE_OPTION", 74);
+        A00("POLITICAL_AD_VERIFIED_VOICE", 75);
+        A00("PROACTIVE_WARNING_BANNER", 76);
+        A00("PROACTIVE_WARNING_COMPOSER_BLOCK", 77);
+        A00("PROACTIVE_WARNING_POPOVER", 78);
+        A00("PROACTIVE_WARNING_STRAP", 79);
+        A00("PROFILE_MEDIA_TILE", 80);
+        A00("PROFILE_REPORT_BUTTON", 81);
+        A00("PROFILE_REPORT_FLOW", 82);
+        A00("PROFILE_SUBMIT_FEEDBACK", 83);
+        A00("PROFILE_UNPUBLISH_BANNER", 84);
+        A00("QUICK_REPORT_ACTION", 85);
+        A00("RELATED_SEARCHES", 86);
+        A03 = new EnumC72350Xbm("REPORT_AD_BUTTON", 87, "REPORT_AD_BUTTON");
+        A00("REPORT_AD_XOUT_BUTTON", 88);
+        A04 = new EnumC72350Xbm("REPORT_BUTTON", 89, "REPORT_BUTTON");
+        A00("REPORT_BUTTON_DETAILED_FRX", 90);
+        A00("REPORT_FROM_PREVIEW", 91);
+        A00("REPORT_JOB_BUTTON", 92);
+        A00("REPORT_LONG_PRESS", 93);
+        A00("ROOMS_POST_CALL_HIGH_RATING", 94);
+        A00("ROOMS_POST_CALL_LOW_RATING", 95);
+        A00("ROOMS_POST_CALL_LOW_RATING_DETAILED", 96);
+        A00("RTC_AUDIO_CALL_BUTTON", 97);
+        A00("RTC_CALL_JOIN_BUTTON", 98);
+        A00("RTC_VIDEO_CALL_BUTTON", 99);
+        A00("RTC_XMA_CALLBACK", 100);
+        A00("SCHOOL_COMMUNITY_TAGS", 101);
+        A00("SEARCH_META_AI_PROMPT_SUGGESTION", 102);
+        A00("SEARCH_TYPEAHEAD", 103);
+        A00("SEE_WHY_BUTTON", 104);
+        A00("SEE_WHY_BUTTON_NT", 105);
+        A00("SHARE_BUTTON", 106);
+        A00("SNACKBAR", 107);
+        A00("STORY_ATTACHMENT_PHOTO", 108);
+        A00("STORY_ATTACHMENT_SHARE", 109);
+        A00("STORY_ATTACHMENT_VIDEO", 110);
+        A00("STRUCTURED_REPORT_BUTTON", 111);
+        A00("THREADLIST_MENU_REPORT", 112);
+        A00("TOMBSTONE", 113);
+        A00("TOOLBAR_REPORT_ACTION", 114);
+        A00("UNKNOWN", 115);
+        A00("UNOWNED_PAGE_ACTION_MENU_REPORT_PAGE", 116);
+        A00("UPSELL_AFTER_BLOCK_BOTTOM_SHEET", 117);
+        A00("USER_CONTROL_MENU", 118);
+        A00("WORKPLACE_REPORT_AND_HIDE_BUTTON", 119);
+        A00("WORKPLACE_REPORT_BUTTON", HucClient.BODY_UPLOAD_TIMEOUT_SECONDS);
+        A00("WORKROOM_MEETING_REPORT_BUTTON", 121);
+        A00("WORKROOM_REPORT_BUTTON", 122);
+        A00("WORKROOM_USER_REPORT_BUTTON", 123);
+        A00("X_OUT", 124);
+    }
+
+    public static void A00(String str, int i) {
+        new EnumC72350Xbm(str, i, str);
+    }
+
+    public EnumC72350Xbm(String str, int i, String str2) {
+        this.A00 = str2;
+    }
+
+    @Override // java.lang.Enum
+    public final String toString() {
+        return this.A00;
+    }
+}

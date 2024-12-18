@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_elevated_background"/>
+        </shape>
+    </item>
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:left="2dp"
+        android:top="2dp"
+        android:right="2dp"
+        android:bottom="2dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram_app_threads_pano_outline_12"
+            android:tint="?attr/igds_color_primary_text"/>
+    </item>
+</layer-list>

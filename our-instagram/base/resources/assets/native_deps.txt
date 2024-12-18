@@ -1,0 +1,424 @@
+423
+c
+log
+m
+GLESv3
+EGL
+z
+OpenSLES
+jnigraphics
+android
+dl
+GLESv2
+stdc++
+xplat_whatsapp_magi_magi-db-zstdAndroid 0
+xplat_wearable_comms_calling_hera_shared_utils_tslog_nullEngine_nullTslogAndroid 0
+xplat_wearable_comms_calling_hera_shared_utils_memory_memoryAndroid 0
+xplat_wearable_comms_calling_hera_shared_utils_math_mathAndroid 0
+xplat_wearable_comms_calling_hera_shared_utils_h265nal_null_parser_h265_null_parserAndroid 0
+xplat_wearable_comms_calling_hera_shared_utils_clock_clockAndroid 0
+xplat_wearable_comms_calling_hera_shared_media_mediaAndroid 0
+xplat_wearable_comms_calling_hera_shared_logging_loggingAndroid 0
+xplat_wearable_comms_calling_hera_shared_link_linkAndroid 0
+xplat_wearable_comms_calling_hera_shared_audio_audioAndroid 0
+xplat_wearable_comms_calling_hera_engine_configurations_protobuf_nanopbwrapper_supportlibAndroid 0
+xplat_tools_cxx_resourcesAndroid 0
+xplat_tools_cxx_resource_managerAndroid 0
+xplat_tools_cxx_apk_resource_managerAndroid 0
+xplat_third-party_opencv_opencv-highguiAndroid 0
+xplat_structuredlogger_events_gen_MantleClientDebugEvent_genAndroid 0
+xplat_rtc_platform_crypto_wasm_thrift_frame_data_handler_type-cpp2-typesAndroid 0
+xplat_perflogger_base_generated_Modules_QPLZeroRewriteRulesModuleAndroid 0
+xplat_perflogger_base_generated_Modules_QPLSmartCaptureModuleAndroid 0
+xplat_perflogger_base_generated_Modules_QPLRtssClientPerfModuleAndroid 0
+xplat_perflogger_base_generated_Modules_QPLIgAvatarOdrPerceivedLatencyModuleAndroid 0
+xplat_perflogger_base_generated_Modules_QPLGamingCoplayModuleAndroid 0
+sigmux 0
+dextricksmerged_1 0
+xplat_msi_utils_data_dataAndroid 0
+xplat_msi_filesystem_filesystemAndroid 0
+xplat_langtech_titanium_utils_unicodeAndroid 0
+xplat_langtech_titanium_utils_string_helperAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_uimanager_consistency_consistencyAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_textlayoutmanager_textlayoutmanagerAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_telemetry_telemetryAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_observers_intersection_intersectionAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_mapbuffer_mapbufferAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_leakchecker_leakcheckerAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_graphics_graphicsAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_dom_domAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_core_coreAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_components_root_rootAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_renderer_componentregistry_componentregistryAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_mutationobserver_mutationobserverAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_microtasks_microtasksAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_intersectionobserver_intersectionobserverAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_idlecallbacks_idlecallbacksAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_featureflags_featureflagsAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_dom_domAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_defaults_defaultsAndroid 0
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_config_configAndroid 0
+xplat_js_react-native-github_FBReactNativeSpecJSIAndroid 0
+xplat_djinni_mcf_stop_token_stop_tokenAndroid 0
+xplat_configerator_structs_data_access_policies_upf_ipf_thrift-cpp2-typesAndroid 0
+xplat_caffe2_minizAndroid 0
+xplat_boxedalloc_webrtc_flags_boxedalloc_encoded_image_flagAndroid 0
+xplat_boxedalloc_webrtc_flags_boxedalloc_buffer_flagAndroid 0
+xplat_boxedalloc_webrtc_flags_boxedalloc_aligned_malloc_flagAndroid 0
+xplat_assistant_oacr_core_utils_utf8Android 0
+xplat_PrivacyManifests_FileTimestamp_C617_1_METALstat_C617_1Android 0
+third-party_crc32c_crc32cAndroid 0
+fbandroid_java_com_facebook_privacy_acs_jni_jni-bridge-helpers 0
+fbandroid_java_com_facebook_cvat_ctsmartcreation_common_common-native 0
+bsdiff 0
+comfacebookmillresonancecqlenumsdirectsqlnativeopsjni 0
+msysxplatmerged_1 5 2 0
+native-filters 7 1 0
+imagepipeline 7 1 0
+c++_shared 9 0
+force_dlopen 9 0
+arcore_sdk_c 9 8 2 1 0
+superpack-jni 9 8 1 0
+androidx.graphics.path 9 2 0
+pl_droidsonroids_gif 10 8 7 0
+breakpad_cpp_helper 11 9 0
+commonpatchjni 71 1
+yogamerged 76 2 1
+xplat_whatsapp_magi_magi_binary_binaryAndroid 76
+xplat_wearable_comms_calling_hera_shared_utils_utilsAndroid 76
+xplat_wearable_comms_calling_hera_shared_utils_thread_localAndroid 76
+xplat_rtc_third_party_libva-h264_h264utilsAndroid 76
+xplat_privacy_infra_acs_acs-voprf-baseAndroid 76
+linkerutils 76 34 1
+xplat_msi_error_errorAndroid 76
+xplat_mantle_logger_loggerAndroid 76
+xplat_linkdec_linkdecAndroid 76
+torchmerged 76
+xplat_langtech_mobile_shim_dylib_loaderAndroid 76
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_nativemodule_webperformance_webperformanceAndroid 76
+xplat_cvat_logging_audioenhancement_metricscalculatorAndroid 76
+xplat_cvat_engines_audioenhancementfilter_audioenhancementengineAndroid 76
+xplat_assistant_oacr_smart_comms_smart_keyboard_utils_string_base_utilsAndroid 76
+xplat_assistant_oacr_smart_comms_shared_smart_comms_porter_stemmerAndroid 76
+xplat_FBSocketThreadLocalScope_FBSocketThreadLocalScopeAndroid 76
+third-party_djinni_support-lib_jni_cpp_thread_supportAndroid 76
+third-party_cborg_cborgAndroid 76
+pgo-native-900 76
+pgo-native-810 76
+pgo-native-800 76
+native-imagetranscoder 76 1
+minscompiler-jni 76
+fbunwindstack 76 1
+lockfreecounter 76
+fbandroid_java_com_facebook_memory_ion_libion_libion 76 1
+hprofsanitizercommon 76
+arfxgraphicsmerged_1 76
+flexlayout 76 2 1
+fbjitshared 76
+fbandroid_libraries_devicesegmentation_lib_benchmark_benchmark-cpp 76 8 4 3 2 1
+fb_mboost-lite 76 1
+fb_ffmpeg_jni_2_8_20 76 2 1
+debugheadutil 76
+datax_jni 76
+VideoJni 76 2
+Dav1dExo 76 8 4 3 1
+android_aware_dlopen 77 1
+arcore_sdk_jni 78
+xplat_whatsapp_magi_magi_cxx_magi-cxxAndroid 85
+xplat_wearable_comms_calling_hera_shared_utils_logAndroid 87 1
+distract 90
+xplat_libraries_configurable_audio_cal_common_productionAndroid 94
+unwindstack_binary 109
+breakpad 123 76 34
+loommerged_1 123 76 34
+dextricksmerged 127 123 5
+fb_mboost 127 123
+calpreload 128 102
+unwindstack_stream 130
+breakpad_extra 130
+zstddecoder 132
+xplat_papaya_mldw_common_commonAndroid 132
+xplat_papaya_log_glog_glogAndroid 132
+loommerged 132 131 130 109 2
+xplat_libraries_actrie_actrieAndroid 132
+vmasaver 132
+threadutils-jni 132
+stringregex-jni 132
+smartcapture_id 132 30 2
+distractutil 132
+restricks 132
+request_measurement_jni 132
+renderthread 132 131
+reliability 132
+papaya-model_loader 132
+papaya-hash 132
+compphoto-sdk-pipeline-graphs-common-autoenhanceinfo-native-android 132
+nativeheapstats 132
+mobile_purpose_policy 132
+mip_utils_jni 132
+mediacodechooks_jni 132
+mapsreader 132
+mapbufferjni 132
+lyramanager 132
+limitstack 132
+irpgoclient 132
+ionmemory 132 111
+image_quality_utils 132 7 2
+image-crop 132
+igblur 132 7
+hprofsanitizer 132 112
+hiddenapis2 132
+gifimage 132 7
+forker 132
+featureconfig 132
+filestathelper 132
+ffqplbridge 132
+fbjitoptionsjni 132
+devtools-crashnownative 132
+chipset 132
+binderhookerjni 132
+benchmarkjni 132 116
+bandwidth_estimator_jni 132
+artdistract 132 131
+arfx-memory-jni 132 8
+analyticsutil-jni 132
+addressspace 132
+acodechooks_jni 132
+aborthooks 132 130
+network-common 140 8
+surfacenativemem 140
+pthread_interceptor 140
+libciohook 140
+javamemmetrics 140 110
+dalviksmartgc 140
+backtrace-jni 140
+artsmartgc 140
+xplat_assistant_oacr_smart_comms_shared_smart_comms_block_phraseAndroid 141
+fssync 146
+zstdencoder 186
+rewritenativeinterceptorutils 186
+zeroheadersdogfoodrequestinterceptor 186
+quic 186
+xplat_whatsapp_magi_magi_cxx_magi-ffi-zstdAndroid 186 125 12
+xplat_timeinappcore_timeinappcore-nonnativesqliteAndroid 186
+xplat_smart_gen_ai_unified_router_view_models-cpp2-typesAndroid 186
+xplat_rtc_platform_crypto_group_e2ee_thrift_group_e2ee-cpp2-typesAndroid 186
+xplat_rtc_platform_crypto_group_e2ee_thrift_e2ee_state-cpp2-typesAndroid 186
+xplat_rtc_platform_crypto_dtls_e2ee_thrift_dtls_authentication_info-cpp2-typesAndroid 186
+xplat_rtc_overlayconfig_logging_OverlayConfigLogging-cpp2-typesAndroid 186
+xplat_rtc_data_channel_if_captions-cpp2-typesAndroid 186
+xplat_rsys_rsrealtimesession_src_realtime_session_include_thrift-cpp2-typesAndroid 186
+xplat_rsys_rsrealtimesession_src_realtime_session_delivery_context_tracked_data_message_thrift-cpp2-typesAndroid 186
+xplat_rsys_rsnetobject_src_replication_packet_thrift-cpp2-typesAndroid 186
+xplat_rsys_foundation_signaling_thrift_sctp_datagram-cpp2-typesAndroid 186
+xplat_rsys_foundation_logging_rtclog_thrift_log_value_thrift-cpp2-typesAndroid 186
+xplat_rsys_crypto_foundation_message_thrift_decrypted_e2ee_data-cpp2-typesAndroid 186
+xplat_papaya_log_logImplAndroid 186
+xplat_papaya_mldw_if_ir-cpp2-typesAndroid 186
+xplat_papaya_fb_if_acs-cpp2-typesAndroid 186
+xplat_logginginfra_falco_thrift_thrift-cpp2-typesAndroid 186
+ctvoiceeffectprocessor-native 186
+xplat_compphoto_gpuEngine_common_gpuEngineCommonAndroid 186
+quicksand 186
+papaya-store-interface 186
+native_allocation_hooks_installer_jni 186
+mobileconfigtroubleshooting-jni 186
+mantle-common-mantleDataValue 186
+igtigonasynchttpservice-jni 186
+compphoto-hollywood-io 186
+cache_key_generator_jni 186
+appstatelogger2 188
+profilo_thread_lifecycle 188
+xplat_assistant_oacr_smart_comms_smart_avatars_smart_avatars_classifierAndroid 194 100 99
+liger-common 199
+mobilenetworkstack 199
+xplat_mcfcpp_McfFolly_McfFollyAndroid 199
+xplat_djinni_mcf_exception_exceptionAndroid 199
+tls13_socket 199
+omnigridjni 199
+mqtttransport_jni 199
+breakpad-fatal-java-exception-description-handler-jni 199
+airshield_light_mbed_jni 199
+magi-jni 200
+timeinapp-jni 201
+xplat_rtc_data_channel_if_genai_bot_state-cpp2-typesAndroid 207 202
+papaya-log 214
+xplat_cvat_library_restorationAndroid 218
+xplat_cvat_library_modules_PitchEstimatorStftAndroid 218
+xplat_cvat_library_modules_melfilterbankAndroid 218
+ctaudiosync-native 218
+xplat_cvat_library_modules_VoiceActivityDetectorGaussAndroid 218
+xplat_cvat_library_modules_RmsStdAndroid 218
+sigquit 228 146
+native_memdump 228
+liger 231
+xplat_proxygen_moz_storeAndroid 231
+speechasrcal 231
+IGL 231 4 3
+xplat_click_id_click_idAndroid 231 93
+vesta_client_jni 231
+papaya-store-encryptor-otp 231
+fbpayptt-android 231
+cryptopub-jni 231
+crypto 231
+tigon 232 231 7
+xplat_cvat_library_modules_speechenhancerEngineAndroid 245 244
+xplat_cvat_library_modules_lightaudioclassifierAndroid 247 246
+xplat_cvat_library_modules_VadSnrAndroid 248
+rtmpssl 252
+xplat_papaya_if_connector-cpp2-typesAndroid 254 215
+mediapipeline-iglu-merged 255 73 10
+clickid 256
+zeronativerequestinterceptor 262 197
+realtime 262
+trafficnts 262 252
+tigonligerlite-jni 262 252
+reliablemedia 262
+appnetsessionid 262
+xplat_cvat_engines_audioenhancementfilter_audioenhancementfilter_conditionedAndroid 263 249 248 98 97
+xplat_cvat_autodub_eligibilitycheckerAndroid 265 264
+strings 268
+shaderfetcher 268
+onecamera-iglufilter-graph 268
+mediapipeline-iglufilter-hardwarebuffer 268
+mediapipeline-iglufilter-gpuimageloader 268
+mediapipeline-iglufilter-detector 268
+iglu-filter-debug 268
+glprogramcompiler 268
+cj_moz 268 7
+msysxplatmerged 271 252 73
+xplat_distribgw_rtc_rtcAndroid 271
+realtime-client-sync-jni 271
+pando-serialize-jni 271
+pando-parsing-instagram-jni 271
+pando-graphql-subscriptions-jni 271
+pando-consistency-instagram-jni 271
+live-tree 271
+graphservice-jni-factory 271
+graphqlsubscriptions-sdk-provider-jni-instagram 271
+ctaudioprocessor-native 276
+ctaudioeligibilitychecker-native 277
+xplatmqttclient-jni 287
+xplat_rsys_rsgroupexpansion_rsgroupexpansionTableToCqlProcRegistrationAndroid 287
+xplat_privacy_infra_anon_cred_voprf-ed25519-implAndroid 287
+xplat_privacy_infra_acs_acs-voprf-ristrettoAndroid 287 89
+pregensdpmerged 287
+msysohai-jni 287
+xplat_msi_stash_sqlite_sqliteAndroid 287 91
+xplat_messaging_standalone_database_MCAMailboxStandaloneDatabaseAndroid 287
+xplat_mantle_MantleCQLAndroid 287
+xplat_apt_crypto_symm-key-cryptoAndroid 287
+xplat_apt_crypto_public-key-cryptoAndroid 287
+voprf-ristretto 287 69
+search-qpllogger 287
+pandoblobserializerjni 287
+msystracemetadataproviderjni 287
+msgnotificationenginejni 287
+mpl-tracker 287
+mcphealthmetadataproviderjni 287
+mailboxsecureauthplatformpakejni 287
+mailboxcutoverinternaljni 287
+ffsingletonjnilogger 287 253 217 173 101
+chatddgw-jni 287
+advancedcryptometadataproviderjni 287
+StandaloneDatabaseUtilMCFBridgejni 287
+MCIAccountSessionBootstrapperMCFBridgejni 287
+IGDWellBeingDatabaseSchemaDeployer-acg 287
+live-tree-jni 294
+voprf-ed25519 301 69
+xplat_privacy_infra_acs_acs-clientAndroid 302
+rtc 303 6
+xplat_mcfcpp_McfCoro_McfCoroAndroid 303
+xplat_ohai_ohai-tigonAndroid 304
+xplat_enigma_sqliteAndroid 305
+mailboxstandalonedatabasejni 306
+symmkeycrypto 308
+publickeycrypto 309
+mailboxnotificationengineinstagramintegratorjni 314
+IGDWellBeingDatabaseSchemaDeployernovt 324
+opencv 328 35
+chatdutils 328
+ardelivery-merged 328 255
+xplat_compphoto_gpuEngine_fileioAndroid 328 219
+rsdevxagentjni 328
+igrtcconnectfunnel 328
+ig_libyuv_jni 328
+xplat_mcfcpp_MciCoro_MciCoroAndroid 329
+tigonohaiserviceholder-jni 330
+enigma 331
+IGDWellBeingDatabaseSchemaDeployer 336
+IGDWellBeingDatabaseSchemaDeployer-jninovt 336
+xplat_third-party_opencv_opencv-videoioAndroid 337
+xplat_rsys_rstransport_rsdgwAndroid 338 288
+cryptocontextholder 338
+xplat_papaya_store_sqlite_sqliteAndroid 339 214
+xplat_papaya_mldw_mldwAndroid 339 215 214 138
+xplat_papaya_client_engine_lightweight_lightweightAndroid 339 272 267 214 35
+xplat_papaya_client_engine_engineAndroid 339 272 267 214 35
+arfxgraphicsmerged 339 113 84
+spark-qpluserflow-native 339
+scene-understanding-recognizer-android 339 94
+participantservice 339
+papaya-mldw-network_transport 339 215 214
+multipeerservice 339
+models-core_ig 339
+camera-xplat-spars-jni 339
+arstandalonetracking-native-android 339
+IGDWellBeingDatabaseSchemaDeployer-jni 347
+xplat_papaya_fb_store_manager_managerAndroid 352
+papaya-mldw 353 243 139
+papaya-fb-fa-mldw-falco-ig-executor 353
+papaya-lightweight-engine 354 139
+xplat_papaya_client_clientAndroid 355
+papaya-engine 355
+xplat_js_react-native-github_packages_react-native_ReactCommon_react_runtime_nativeviewconfig_nativeviewconfigAndroid 356
+xplat_compphoto_gpuEngine_gpuEngineCore_gpuEngineCoreAndroid 356 219
+webrtcLatest 356 88 68 65 64 63
+webpencoder-native 356
+webpdecoder-native 356
+hermes-executor 356
+third-party_c2pa_c2paAndroid 356 103
+static-webp 356
+effectservicehostmerged 356 94 78 62
+pdqhashing 356 32
+livestreaming 356 266
+jsijniprofiler 356
+jsijnimdcd 356
+fbaudiomerged 356
+contextual-music-graph-android 358
+mantle-ig 362 356 307 230 224 94 92
+papaya-store 366 258 243 221
+papaya 370 243 139
+papaya-ig4a-jni-transport 370 327 216
+xplat_compphoto_gpuEngine_colorAndroid 373
+xplat_compphoto_gpuEngine_baseAndroid 373 340
+xplat_compphoto_sdk_common_textureUtilsAndroid 373
+xplat_compphoto_sdk_common_perfStatsComputerAndroid 373
+igrtcjniLatest 374 350 344 341 300 242 234 233 213 212 211 210 209 208 206 205 204 203 126 95 94 86 33 31
+uimanagerjni 377 372
+turbomodulejsijni 377
+react_featureflagsjni 377
+react_devsupportjni 377
+fbreact-i18nassetsmodule 377
+android_c2pa 378
+spark-ocxlogger-native 380
+regiontracking 380
+graphqlservice 380
+graphicsengine-arengineservices-igsandboxeffectservicehost-native 380
+filters-native-android 380 171 10
+fb_amlfacetracker_jni 380 337
+cdl 380
+body-tracker 380
+autogen_frameprocessor 380
+arpersistenceserviceconfig 380
+arlink 380
+arengineservicesutils 380
+ale 380
+audiopostprocessing-native 385 380
+xplat_compphoto_gpuEngine_pyramidAndroid 392
+ctcolorenhance-native 392 391
+gltfrenderer-native-android 406
+xplat_compphoto_gpuEngine_autoEnhanceAndroid 416
+xplat_cvat_smartcreation_autoenhance_autoenhanceAndroid 419 391
+onecamera-autoenhance-native-android 419 394 391 380 153 10
+ctautoenhance-native 420

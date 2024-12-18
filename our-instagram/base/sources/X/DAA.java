@@ -1,0 +1,15 @@
+package X;
+
+/* loaded from: classes5.dex */
+public final class DAA extends C0YY implements InterfaceC16820sZ {
+    public static final DAA A00 = new DAA();
+
+    public DAA() {
+        super(0);
+    }
+
+    @Override // X.InterfaceC16820sZ
+    public final /* bridge */ /* synthetic */ Object invoke() {
+        return C0eB.A00;
+    }
+}

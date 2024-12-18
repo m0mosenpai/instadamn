@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/fundraiser_sticker_donate_button_background_color"/>
+            <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/tooltip_banner_background"/>
+            <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+        </shape>
+    </item>
+</selector>

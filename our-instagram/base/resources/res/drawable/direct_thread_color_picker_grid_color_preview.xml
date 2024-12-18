@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/cyan_5"/>
+    <size
+        android:height="@dimen/ai_agent_embodiment_video_container_size"
+        android:width="@dimen/ad_not_delivering_thumbnail_height"/>
+</shape>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="@dimen/abc_button_padding_horizontal_material"
+        android:top="@dimen/abc_button_padding_horizontal_material"
+        android:right="@dimen/abc_button_padding_horizontal_material"
+        android:bottom="@dimen/abc_button_padding_horizontal_material">
+        <rotate android:fromDegrees="@integer/music_pick_empty_aggregation_radius_background">
+            <shape>
+                <size
+                    android:height="@dimen/ad_not_delivering_thumbnail_height"
+                    android:width="@dimen/ad_not_delivering_thumbnail_height"/>
+                <solid android:color="@color/grey_1"/>
+                <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:left="@dimen/abc_button_padding_horizontal_material"
+        android:top="@dimen/abc_button_padding_horizontal_material"
+        android:right="@dimen/abc_button_padding_horizontal_material"
+        android:bottom="@dimen/abc_button_padding_horizontal_material">
+        <rotate android:fromDegrees="@integer/music_pick_empty_aggregation_radius">
+            <shape>
+                <size
+                    android:height="@dimen/ad_not_delivering_thumbnail_height"
+                    android:width="@dimen/ad_not_delivering_thumbnail_height"/>
+                <solid android:color="@color/grey_0"/>
+                <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:left="@dimen/asset_picker_redesign_sticker_height"
+        android:top="@dimen/asset_picker_redesign_sticker_height"
+        android:right="@dimen/asset_picker_redesign_sticker_height"
+        android:bottom="@dimen/asset_picker_redesign_sticker_height">
+        <rotate
+            android:drawable="@drawable/music_pick_aggregation_empty_state__app_bitmap_0"
+            android:fromDegrees="@integer/music_pick_empty_aggregation_radius"/>
+    </item>
+</layer-list>

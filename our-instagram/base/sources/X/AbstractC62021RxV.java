@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RxV, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62021RxV {
+    public static String A00(int i) {
+        return i != 2456 ? i != 5414 ? i != 6483 ? i != 6677 ? i != 9531 ? i != 12267 ? i != 12703 ? i != 14559 ? i != 15688 ? "UNDEFINED_QPL_EVENT" : "MESSENGER_TTRC_BUBBLES_NAVIGATION" : "MESSENGER_TTRC_TLTV_TTRC_OPEN" : "MESSENGER_TTRC_THREADLIST_TO_THREADVIEW_TTRC" : "MESSENGER_TTRC_TLTV_TTRC_TEST" : "MESSENGER_TTRC_TLTV_TTRC_BIZAPP" : "MESSENGER_TTRC_MESSAGE_LIST_LOAD_MORE" : "MESSENGER_TTRC_CHAT_HEAD_MINIMIZE" : "MESSENGER_TTRC_CHAT_HEAD_NAVIGATION" : "MESSENGER_TTRC_ARMADILLO_CHAT_HEAD_NAVIGATION";
+    }
+}

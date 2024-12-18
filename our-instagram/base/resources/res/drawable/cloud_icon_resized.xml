@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="14dp"
+        android:width="14dp"
+        android:drawable="@drawable/instagram_app_icloud_pano_outline_24"/>
+</layer-list>

@@ -1,0 +1,137 @@
+{
+	"fx chain": [
+		{
+			"name": "Double Pitch Shifter"
+		},
+		{
+			"name": "Phase Vocoder"
+		},
+		{
+			"name": "MB Compressor"
+		},
+        {
+			"name": "Chorus Flanger"
+		},
+		{
+			"name": "Enhanced Reverb"
+		}
+	],
+	"initial parameters": [
+		{
+			"outputGainDecibels ": "0",
+			"dryGainDecibels": "-59.9",
+			"pitchShifted1GainDecibels": "-59.9",
+			"pitchShifted2GainDecibels": "0",
+			"pitchShifted1PitchSemitones": "0",
+			"pitchShifted2PitchSemitones": "-2",
+			"pitchShifted1DelayTimeMs": "0",
+			"pitchShifted2DelayTimeMs": "0"
+		},
+		{
+			"wet gain": "1",
+			"voice": "4",
+			"mode": "robot"
+		},
+		{
+			"crossover LF": "500",
+			"crossover HF": "2000",
+			"attack time 0": "20",
+			"attack time 1": "20",
+			"attack time 2": "20",
+			"release time 0": "100",
+			"release time 1": "100",
+			"release time 2": "100",
+			"ratio 0": "2",
+			"ratio 1": "2",
+			"ratio 2": "2",
+			"threshold 0": "0",
+			"threshold 1": "0",
+			"threshold 2": "0",
+			"knee width 0": "0",
+			"knee width 1": "0",
+			"knee width 2": "0",
+			"output gain 0": "0",
+			"output gain 1": "0",
+			"output gain 2": "3",
+			"auto makeup gain 0 ": "0",
+			"auto makeup gain 1": "0",
+			"auto makeup gain 2": "0"
+		},
+        {
+			"delayTimeMs": "1",
+			"modOffsetMs": "1",
+			"modRateHz": "2",
+			"modType": "5",
+			"stereoPhaseDiffRad": "0",
+			"feedbackGain": "0.1",
+			"outputGainDecibels": "0",
+			"wetGain": "0.6",
+			"numVoices": "3",
+			"damping": "22000"
+		},
+		{
+			"wet gain": "0.1",
+			"dry gain": "0",
+			"pre delay time": "20",
+			"bandwidth cutoff": "0.7",
+			"damping cutoff": "0.28",
+			"decay": "0.53",
+			"diffusion": "0.8",
+			"size": "0.9",
+			"cutoff frequency 0": "200",
+			"cutoff frequency 1": "200",
+			"cutoff frequency 2": "200",
+			"cutoff gain 0": "0",
+			"cutoff gain 1": "0",
+			"cutoff gain 2": "0",
+			"q factor 0": "0.707",
+			"q factor 1": "0.707",
+			"q factor 2": "0.707",
+			"filter type 0": "Allpass",
+			"filter type 1": "Allpass",
+			"filter type 2": "Allpass"
+		}
+	],
+	"user parameters": [
+		[
+			{
+				"name": "pitchShifted2PitchSemitones",
+				"min": "0",
+				"max": "-4",
+				"skew": "3"
+			}
+		],
+		[
+			{
+				"name": "wet gain",
+				"min": "0",
+				"max": "1",
+				"skew": "4"
+			}
+		],
+		[
+			{
+				"name": "output gain 2",
+				"min": "0",
+				"max": "6",
+				"skew": "1.8"
+			}
+		],
+        [
+			{
+				"name": "wetGain",
+				"min": "0",
+				"max": "1",
+				"skew": "4"
+			}
+		],
+		[
+			{
+				"name": "wet gain",
+				"min": "-60",
+				"max": "-6",
+				"skew": "3"
+			}
+		]
+	]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <share-target android:targetClass="com.instagram.direct.share.handler.DirectShareHandlerActivity">
+        <data android:mimeType="text/plain"/>
+        <category android:name="com.instagram.direct.share.handler.category.text.SHARE_TARGET"/>
+    </share-target>
+    <share-target android:targetClass="com.instagram.direct.share.handler.DirectShareHandlerActivityInterop">
+        <data android:mimeType="text/plain"/>
+        <category android:name="com.instagram.direct.share.handler.category.interop.text.SHARE_TARGET"/>
+    </share-target>
+    <share-target android:targetClass="com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhoto">
+        <data android:mimeType="image/*"/>
+        <category android:name="com.instagram.direct.share.handler.category.image.SHARE_TARGET"/>
+    </share-target>
+    <share-target android:targetClass="com.instagram.direct.share.handler.DirectExternalMediaShareActivityPhotoInterop">
+        <data android:mimeType="image/*"/>
+        <category android:name="com.instagram.direct.share.handler.category.interop.image.SHARE_TARGET"/>
+    </share-target>
+</shortcuts>

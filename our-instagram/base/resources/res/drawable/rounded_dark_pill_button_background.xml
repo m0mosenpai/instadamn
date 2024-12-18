@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_link_on_media"/>
+            <corners android:radius="@dimen/abc_dialog_padding_material"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/grey_9"/>
+            <corners android:radius="@dimen/abc_dialog_padding_material"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,162 @@
+package X;
+
+import com.facebook.catalyst.modules.netinfo.NetInfoModule;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* renamed from: X.9tc, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes4.dex */
+public final class EnumC223459tc implements InterfaceC02530Ab {
+    public static final /* synthetic */ EnumC223459tc[] A01;
+    public static final EnumC223459tc A02;
+    public static final EnumC223459tc A03;
+    public static final EnumC223459tc A04;
+    public static final EnumC223459tc A05;
+    public static final EnumC223459tc A06;
+    public static final EnumC223459tc A07;
+    public static final EnumC223459tc A08;
+    public static final EnumC223459tc A09;
+    public static final EnumC223459tc A0A;
+    public static final EnumC223459tc A0B;
+    public static final EnumC223459tc A0C;
+    public static final EnumC223459tc A0D;
+    public static final EnumC223459tc A0E;
+    public static final EnumC223459tc A0F;
+    public static final EnumC223459tc A0G;
+    public static final EnumC223459tc A0H;
+    public static final EnumC223459tc A0I;
+    public static final EnumC223459tc A0J;
+    public static final EnumC223459tc A0K;
+    public static final EnumC223459tc A0L;
+    public static final EnumC223459tc A0M;
+    public static final EnumC223459tc A0N;
+    public static final EnumC223459tc A0O;
+    public static final EnumC223459tc A0P;
+    public static final EnumC223459tc A0Q;
+    public static final EnumC223459tc A0R;
+    public static final EnumC223459tc A0S;
+    public static final EnumC223459tc A0T;
+    public static final EnumC223459tc A0U;
+    public static final EnumC223459tc A0V;
+    public final long A00;
+
+    static {
+        EnumC223459tc A00 = A00(NetInfoModule.CONNECTION_TYPE_NONE_DEPRECATED, 0, 0L);
+        A0V = A00;
+        EnumC223459tc A002 = A00("DISABLED_USER_REMOVED", 1, 1L);
+        A06 = A002;
+        EnumC223459tc A003 = A00("DISABLED_USER_LEFT", 2, 2L);
+        A05 = A003;
+        EnumC223459tc A004 = A00("DISABLED_USER_ACCOUNT_DISABLED", 3, 3L);
+        A04 = A004;
+        EnumC223459tc A005 = A00("DISABLED_USER_UNREACHABLE_ADULT_MINOR_XAC", 4, 4L);
+        A09 = A005;
+        EnumC223459tc A006 = A00("DISABLED_USER_UNREACHABLE_ADULT_MINOR_IG", 5, 5L);
+        A08 = A006;
+        EnumC223459tc A007 = A00("DISABLED_FEATURE_LIMITED", 6, 6L);
+        A03 = A007;
+        EnumC223459tc A008 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_BLOCKED", 7, 7L);
+        EnumC223459tc A009 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_MESSAGE_REQUEST", 8, 8L);
+        A0I = A009;
+        EnumC223459tc A0010 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_RESTRICTED", 9, 9L);
+        EnumC223459tc A0011 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_FILTERED_MESSAGES", 10, 10L);
+        EnumC223459tc A0012 = A00("USER_BLOCKED", 11, 11L);
+        EnumC223459tc A0013 = A00("DISABLED_USER_UNREACHABLE_ADULT_MINOR_MSGR", 12, 12L);
+        EnumC223459tc A0014 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_UNREACHABLE_GROUP_SENDER_SPAM", 13, 13L);
+        A0R = A0014;
+        EnumC223459tc A0015 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_PARTNERSHIP_THREAD_DISABLED_FOR_CREATOR", 14, 14L);
+        A0L = A0015;
+        EnumC223459tc A0016 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_PARTNERSHIP_THREAD_DISABLED_FOR_BRAND", 15, 15L);
+        A0K = A0016;
+        EnumC223459tc A0017 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_PARTNERSHIP_THREAD_DISABLED_FOR_VIEWER", 16, 16L);
+        A0M = A0017;
+        EnumC223459tc A0018 = A00("IG_DIRECT_UNREACHABLE_ADULT_MINOR_CREATE_GROUP", 17, 17L);
+        A0T = A0018;
+        EnumC223459tc A0019 = A00("IG_DIRECT_UNREACHABLE_ADULT_MINOR_ADD_TO_GROUP", 18, 18L);
+        A0S = A0019;
+        EnumC223459tc A0020 = A00("MESSAGE_REQUEST", 19, 19L);
+        EnumC223459tc A0021 = A00("HIGH_MESSAGES_PER_SECOND", 20, 20L);
+        EnumC223459tc A0022 = A00("DISABLED_USER_UNREACHABLE_MINOR_TO_ADULT_MSGR", 21, 21L);
+        EnumC223459tc A0023 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_CREATOR_SUBSCRIBER_THREAD_DISABLED", 22, 22L);
+        A0G = A0023;
+        EnumC223459tc A0024 = A00("DISABLED_USER_UNREACHABLE_ADULT_MINOR_FBM", 23, 23L);
+        EnumC223459tc A0025 = A00("DISABLED_COMPOSER_TYPE_RESTRICTOR_FBM", 24, 24L);
+        EnumC223459tc A0026 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_MESSAGE_REQUESTS_LIMIT_REACHED", 25, 25L);
+        A0J = A0026;
+        EnumC223459tc A0027 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_GROUP_CHAT_ENDED", 26, 26L);
+        A0H = A0027;
+        EnumC223459tc A0028 = A00("DISABLED_USER_UNREACHABLE_ADULT_MINOR_HRA_IG", 27, 27L);
+        A07 = A0028;
+        EnumC223459tc A0029 = A00("DISABLED_USER_UNREACHABLE_MINOR_ADULT_HRA_IG", 28, 28L);
+        A0A = A0029;
+        EnumC223459tc A0030 = A00("IG_DIRECT_MEDIA_LIMIT", 29, 29L);
+        EnumC223459tc A0031 = A00("IG_DIRECT_UNREACHABLE_INVITE_LIMIT_REACHED", 30, 30L);
+        A0U = A0031;
+        EnumC223459tc A0032 = A00("IG_DIRECT_MESSAGE_INVITE", 31, 31L);
+        A0D = A0032;
+        EnumC223459tc A0033 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_APP_UPGRADES_AND_DEPRECATION", 32, 32L);
+        EnumC223459tc A0034 = A00("ACTIVE_NOW_TRAY_FILTERED_HRA_TO_MINOR", 33, 33L);
+        EnumC223459tc A0035 = A00("ACTIVE_NOW_TRAY_FILTERED_MINOR_TO_HRA", 34, 34L);
+        EnumC223459tc A0036 = A00("FB_HIDE_MSG_BUTTON_HRA_TO_MINOR", 35, 35L);
+        EnumC223459tc A0037 = A00("FB_HIDE_MSG_BUTTON_MINOR_TO_HRA", 36, 36L);
+        EnumC223459tc A0038 = A00("DISABLED_ENFORCEMENT_NOTICE", 37, 37L);
+        A02 = A0038;
+        EnumC223459tc A0039 = A00("IG_DIRECT_INVITE_MODEL_NUX_IMPRESSION", 38, 38L);
+        A0C = A0039;
+        EnumC223459tc A0040 = A00("DISABLED_FEATURE_LIMITED_PUBLIC_ONLY", 39, 39L);
+        EnumC223459tc A0041 = A00("DISABLED_FEATURE_LIMITED_PRIVATE_ONLY", 40, 40L);
+        EnumC223459tc A0042 = A00("DISABLED_USER_UNREACHABLE_INTEROP_THIRD_PARTY", 41, 41L);
+        EnumC223459tc A0043 = A00("MESSENGER_INVITE_MODEL_NUX_IMPRESSION", 42, 42L);
+        EnumC223459tc A0044 = A00("MESSENGER_MESSAGE_INVITE", 43, 43L);
+        EnumC223459tc A0045 = A00("MESSENGER_UNREACHABLE_INVITE_LIMIT_REACHED", 44, 44L);
+        EnumC223459tc A0046 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_INCOMING_FOLLOW_REQUEST", 45, 45L);
+        A0P = A0046;
+        EnumC223459tc A0047 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_REQUEST_FOLLOW", 46, 46L);
+        A0Q = A0047;
+        EnumC223459tc A0048 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_FOLLOW_REQUESTED", 47, 47L);
+        A0O = A0048;
+        EnumC223459tc A0049 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_FOLLOWING", 48, 48L);
+        A0N = A0049;
+        EnumC223459tc A0050 = A00("MESSENGER_MESSAGE_REQUEST_LIMIT", 49, 49L);
+        EnumC223459tc A0051 = A00("MSGR_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_INCOMING_REQUEST", 50, 50L);
+        EnumC223459tc A0052 = A00("MSGR_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_CAN_REQUEST", 51, 51L);
+        EnumC223459tc A0053 = A00("MSGR_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_OUTGOING_REQUEST", 52, 52L);
+        EnumC223459tc A0054 = A00("MSGR_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_CANNOT_REQUEST", 53, 53L);
+        EnumC223459tc A0055 = A00("MSGR_UNAVAILABLE_COMPOSER_TYPE_REACHABILITY_NO_UPSELL", 54, 54L);
+        EnumC223459tc A0056 = A00("IG_DIRECT_MESSAGE_REQUESTS_LIMIT_AND_APPEAL", 55, 55L);
+        A0E = A0056;
+        EnumC223459tc A0057 = A00("MSGR_SAFETY_INTERVENTION_COMPOSER_BLOCK", 56, 56L);
+        EnumC223459tc A0058 = A00("IG_CREATOR_SUBSCRIBER_SOCIAL_CHAT_DISABLED_FOR_NON_CREATOR", 57, 57L);
+        A0B = A0058;
+        EnumC223459tc A0059 = A00("IG_DIRECT_REACHABLE_UPSELL_AFTER_UNFOLLOW", 58, 58L);
+        A0F = A0059;
+        EnumC223459tc A0060 = A00("IG_DIRECT_UNAVAILABLE_COMPOSER_TYPE_CONNECTED_MESSAGE_REQUEST", 59, 59L);
+        EnumC223459tc A0061 = A00("MSGR_REMOVE_PROFILE_MESSAGE_BUTTON_FOR_HIGH_SAS", 60, 60L);
+        EnumC223459tc[] enumC223459tcArr = new EnumC223459tc[61];
+        System.arraycopy(new EnumC223459tc[]{A00, A002, A003, A004, A005, A006, A007, A008, A009, A0010, A0011, A0012, A0013, A0014, A0015, A0016, A0017, A0018, A0019, A0020, A0021, A0022, A0023, A0024, A0025, A0026, A0027}, 0, enumC223459tcArr, 0, 27);
+        System.arraycopy(new EnumC223459tc[]{A0028, A0029, A0030, A0031, A0032, A0033, A0034, A0035, A0036, A0037, A0038, A0039, A0040, A0041, A0042, A0043, A0044, A0045, A0046, A0047, A0048, A0049, A0050, A0051, A0052, A0053, A0054}, 0, enumC223459tcArr, 27, 27);
+        System.arraycopy(new EnumC223459tc[]{A0055, A0056, A0057, A0058, A0059, A0060, A0061}, 0, enumC223459tcArr, 54, 7);
+        A01 = enumC223459tcArr;
+    }
+
+    public static EnumC223459tc A00(String str, int i, long j) {
+        return new EnumC223459tc(str, i, j);
+    }
+
+    public static EnumC223459tc valueOf(String str) {
+        return (EnumC223459tc) Enum.valueOf(EnumC223459tc.class, str);
+    }
+
+    public static EnumC223459tc[] values() {
+        return (EnumC223459tc[]) A01.clone();
+    }
+
+    @Override // X.InterfaceC02530Ab
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return Long.valueOf(this.A00);
+    }
+
+    public EnumC223459tc(String str, int i, long j) {
+        this.A00 = j;
+    }
+}

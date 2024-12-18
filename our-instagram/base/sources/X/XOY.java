@@ -1,0 +1,108 @@
+package X;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* loaded from: classes12.dex */
+public final class XOY {
+    public static final /* synthetic */ XOY[] A01;
+    public static final XOY A02;
+    public final String A00;
+
+    static {
+        XOY A00 = A00("UNSET_OR_UNRECOGNIZED_ENUM_VALUE", 0);
+        A02 = A00;
+        XOY A002 = A00("AGE_CONSTRAINT", 1);
+        XOY A003 = A00("AGE_RESTRICTION", 2);
+        XOY A004 = A00("AIRPORT_CONSTRAINT", 3);
+        XOY A005 = A00("AVAILABILITY_GK", 4);
+        XOY A006 = A00("AVATAR_BLOCKED_FROM_SINGLE_LOADING", 5);
+        XOY A007 = A00("BIRTHDAY_CONSTRAINT", 6);
+        XOY A008 = A00("BLACKLISTED", 7);
+        XOY A009 = A00("CAN_NOT_USE_FACE_LANDMARKS_AND_MESHES_EFFECT", 8);
+        XOY A0010 = A00("CLIENT_EXCLUDED", 9);
+        XOY A0011 = A00("COPLAY_BLOCKED_FROM_SINGLE_LOADING", 10);
+        XOY A0012 = A00("COUNTRY_CONSTRAINT", 11);
+        XOY A0013 = A00("DAYS_OF_THE_WEEK_CONSTRAINT", 12);
+        XOY A0014 = A00("DEEPLINK_MISSING_EFFECT", 13);
+        XOY A0015 = A00("DEFAULT_FAILURE", 14);
+        XOY A0016 = A00("DISCONTINUED_BETA_SDK_VERSION", 15);
+        XOY A0017 = A00("DISCONTINUED_SDK_VERSION", 16);
+        XOY A0018 = A00("EVENT_ATTENDANCE_CONSTRAINT", 17);
+        XOY A0019 = A00("EVENT_ELIGIBILITY_CONSTRAINT", 18);
+        XOY A0020 = A00("EXCEEDS_TESTING_LINK_LIMIT", 19);
+        XOY A0021 = A00("FORM_FACTOR_MISMATCH", 20);
+        XOY A0022 = A00("GATEKEEPER_CONSTRAINT", 21);
+        XOY A0023 = A00("GATELOGIC_CONSTRAINT", 22);
+        XOY A0024 = A00("GENDER_CONSTRAINT", 23);
+        XOY A0025 = A00("HAS_SCRIPTS", 24);
+        XOY A0026 = A00("HOLDOUT_GK", 25);
+        XOY A0027 = A00("IG_CAMERA_FORMAT_CONSTRAINT", 26);
+        XOY A0028 = A00("INACTIVE", 27);
+        XOY A0029 = A00("INCOMPATIBLE_BETA_SDK_VERSION", 28);
+        XOY A0030 = A00("INCOMPATIBLE_CAPABILITIES", 29);
+        XOY A0031 = A00("INCOMPATIBLE_CAPABILITY_LIST", 30);
+        XOY A0032 = A00("INCOMPATIBLE_COMPRESSION", 31);
+        XOY A0033 = A00("INCOMPATIBLE_SDK_VERSION", 32);
+        XOY A0034 = A00("INSPIRATIONS_TIME_RANGE_CONSTRAINT", 33);
+        XOY A0035 = A00("INVALID_ATTRIBUTION", 34);
+        XOY A0036 = A00("INVALID_MAX_SUPPORTED_VERSIONS", 35);
+        XOY A0037 = A00("INVALID_TESTING_LINK", 36);
+        XOY A0038 = A00("INVALID_USERNAME", 37);
+        XOY A0039 = A00("IN_ANY_CITY_CONSTRAINT", 38);
+        XOY A0040 = A00("LOCALE_CONSTRAINT", 39);
+        XOY A0041 = A00("LOCATION_PAGE_CONSTRAINT", 40);
+        XOY A0042 = A00("METAL_MIGRATION", 41);
+        XOY A0043 = A00("MULTI_COUNTRY_CONSTRAINT", 42);
+        XOY A0044 = A00("MULTI_LOCATION_CONSTRAINT", 43);
+        XOY A0045 = A00("NMLML_REASON_UNAVAILABLE", 44);
+        XOY A0046 = A00("NOT_APPROVED", 45);
+        XOY A0047 = A00("NO_APPROVED_INSTANCE", 46);
+        XOY A0048 = A00("NO_GYRO", 47);
+        XOY A0049 = A00("NO_OWNER", 48);
+        XOY A0050 = A00("NO_PASSING_ACTIVATIONS", 49);
+        XOY A0051 = A00("NO_PERMISSION", 50);
+        XOY A0052 = A00("OLD_BETA_SDK_VERSION", 51);
+        XOY A0053 = A00("OLD_SDK_VERSION", 52);
+        XOY A0054 = A00("OTHER", 53);
+        XOY A0055 = A00("PAGE_LIKE_CONSTRAINT", 54);
+        XOY A0056 = A00("PLACE_CONSTRAINT", 55);
+        XOY A0057 = A00("PRODUCT_VISIBILITY", 56);
+        XOY A0058 = A00("SUPER_APP_DISALLOWED", 57);
+        XOY A0059 = A00("TEST_CONSTRAINT", 58);
+        XOY A0060 = A00("TEST_EFFECT_NOT_WHITELISTED", 59);
+        XOY A0061 = A00("THIRD_PARTY_ACCESS", 60);
+        XOY A0062 = A00("TIME_OF_DAY_CONSTRAINT", 61);
+        XOY A0063 = A00("TIME_OF_WEEK_CONSTRAINT", 62);
+        XOY A0064 = A00("TIME_RANGE_CONSTRAINT", 63);
+        XOY A0065 = A00("UNKNOWN_PRODUCT", 64);
+        XOY A0066 = A00("VERSION_CONFIG_GK", 65);
+        XOY A0067 = A00("VERSION_CONFIG_QE", 66);
+        XOY A0068 = A00("WRONG_SURFACE", 67);
+        XOY[] xoyArr = new XOY[68];
+        System.arraycopy(new XOY[]{A00, A002, A003, A004, A005, A006, A007, A008, A009, A0010, A0011, A0012, A0013, A0014, A0015, A0016, A0017, A0018, A0019, A0020, A0021, A0022, A0023, A0024, A0025, A0026, A0027}, 0, xoyArr, 0, 27);
+        System.arraycopy(new XOY[]{A0028, A0029, A0030, A0031, A0032, A0033, A0034, A0035, A0036, A0037, A0038, A0039, A0040, A0041, A0042, A0043, A0044, A0045, A0046, A0047, A0048, A0049, A0050, A0051, A0052, A0053, A0054}, 0, xoyArr, 27, 27);
+        System.arraycopy(new XOY[]{A0055, A0056, A0057, A0058, A0059, A0060, A0061, A0062, A0063, A0064, A0065, A0066, A0067, A0068}, 0, xoyArr, 54, 14);
+        A01 = xoyArr;
+    }
+
+    public static XOY A00(String str, int i) {
+        return new XOY(str, i, str);
+    }
+
+    public static XOY valueOf(String str) {
+        return (XOY) Enum.valueOf(XOY.class, str);
+    }
+
+    public static XOY[] values() {
+        return (XOY[]) A01.clone();
+    }
+
+    public XOY(String str, int i, String str2) {
+        this.A00 = str2;
+    }
+
+    @Override // java.lang.Enum
+    public final String toString() {
+        return this.A00;
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:color="?attr/colorOnSurface"
+        android:alpha="@dimen/mtrl_low_ripple_default_alpha"/>
+    <item
+        android:state_focused="true"
+        android:color="?attr/colorOnSurface"
+        android:alpha="@dimen/clips_minicountdown_view_parent_view_ratio"/>
+    <item
+        android:color="?attr/colorOnSurface"
+        android:alpha="@dimen/clips_minicountdown_view_parent_view_ratio"
+        android:state_hovered="true"/>
+    <item
+        android:color="?attr/colorOnSurface"
+        android:alpha="@dimen/mtrl_low_ripple_default_alpha"/>
+</selector>

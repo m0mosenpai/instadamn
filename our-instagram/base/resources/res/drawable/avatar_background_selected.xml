@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@android:color/transparent"/>
+            <stroke
+                android:width="@dimen/abc_control_corner_material"
+                android:color="?attr/igds_color_controls"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/abc_action_bar_elevation_material"
+        android:top="@dimen/abc_action_bar_elevation_material"
+        android:right="@dimen/abc_action_bar_elevation_material"
+        android:bottom="@dimen/abc_action_bar_elevation_material">
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_status_pill"/>
+        </shape>
+    </item>
+</layer-list>

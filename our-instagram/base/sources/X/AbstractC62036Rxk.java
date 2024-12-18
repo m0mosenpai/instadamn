@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Rxk, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62036Rxk {
+    public static String A00(int i) {
+        return i != 3784 ? i != 3870 ? i != 5654 ? i != 6434 ? i != 8731 ? i != 9076 ? i != 9448 ? i != 15658 ? i != 16355 ? "UNDEFINED_QPL_EVENT" : "MR_UTILITY_KIT_UNREAL_LOAD_PLUGIN" : "MR_UTILITY_KIT_UNREAL_LOAD_BLOB_SHADOW" : "MR_UTILITY_KIT_UNREAL_LOAD_GRID_SLICE_RESIZER" : "MR_UTILITY_KIT_UNREAL_LOAD_SCENE_FROM_JSON" : "MR_UTILITY_KIT_UNREAL_LOAD_GUARDIAN" : "MR_UTILITY_KIT_UNREAL_LOAD_SCENE_FROM_DEVICE" : "MR_UTILITY_KIT_UNREAL_LOAD_LIGHT_DISPATCHER" : "MR_UTILITY_KIT_UNREAL_LOAD_ANCHOR_ACTOR_SPAWNER" : "MR_UTILITY_KIT_UNREAL_LOAD_DEBUG_COMPONENT";
+    }
+}

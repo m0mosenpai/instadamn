@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f08000d_igd_ephemeral_toggle_view_icon_check_play__0">
+    <target
+        android:name="group"
+        android:animation="@drawable/res_0x7f08000e_igd_ephemeral_toggle_view_icon_check_play__1"/>
+    <target
+        android:name="group_1"
+        android:animation="@drawable/res_0x7f08000f_igd_ephemeral_toggle_view_icon_check_play__2"/>
+    <target
+        android:name="path"
+        android:animation="@drawable/res_0x7f080010_igd_ephemeral_toggle_view_icon_check_play__3"/>
+    <target
+        android:name="path_1"
+        android:animation="@drawable/res_0x7f080011_igd_ephemeral_toggle_view_icon_check_play__4"/>
+</animated-vector>

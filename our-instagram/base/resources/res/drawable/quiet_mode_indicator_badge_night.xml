@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/black"/>
+            <size
+                android:height="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+                android:width="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/abc_control_corner_material"
+        android:top="@dimen/abc_control_corner_material"
+        android:right="@dimen/abc_control_corner_material"
+        android:bottom="@dimen/abc_control_corner_material">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram_moon_pano_filled_12"
+            android:tint="@color/design_dark_default_color_on_background"/>
+    </item>
+</layer-list>

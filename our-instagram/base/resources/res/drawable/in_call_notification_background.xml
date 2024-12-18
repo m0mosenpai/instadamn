@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?attr/igds_color_primary_icon"/>
+    <corners android:radius="@dimen/abc_edit_text_inset_top_material"/>
+    <padding
+        android:left="@dimen/abc_edit_text_inset_top_material"
+        android:top="@dimen/abc_edit_text_inset_top_material"
+        android:right="@dimen/abc_edit_text_inset_top_material"
+        android:bottom="@dimen/abc_edit_text_inset_top_material"/>
+</shape>

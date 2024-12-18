@@ -1,0 +1,8 @@
+package X;
+
+/* loaded from: classes12.dex */
+public interface YOo {
+    C72720Xls ASq();
+
+    void ATk(Object obj);
+}

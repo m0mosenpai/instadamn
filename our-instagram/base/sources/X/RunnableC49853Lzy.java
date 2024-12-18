@@ -1,0 +1,18 @@
+package X;
+
+import com.instagram.common.ui.widget.imageview.PunchedOverlayView;
+
+/* renamed from: X.Lzy, reason: case insensitive filesystem */
+/* loaded from: classes8.dex */
+public final class RunnableC49853Lzy implements Runnable {
+    public final /* synthetic */ PunchedOverlayView A00;
+
+    public RunnableC49853Lzy(PunchedOverlayView punchedOverlayView) {
+        this.A00 = punchedOverlayView;
+    }
+
+    @Override // java.lang.Runnable
+    public final void run() {
+        AbstractC46675Kks.A00(this.A00);
+    }
+}

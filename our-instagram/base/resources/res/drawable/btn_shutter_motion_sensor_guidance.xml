@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="270"
+    android:toDegrees="270">
+    <shape
+        android:shape="ring"
+        android:innerRadiusRatio="2.5"
+        android:useLevel="true"
+        android:thickness="@dimen/abc_button_padding_horizontal_material">
+        <gradient
+            android:startColor="?attr/sc_positive"
+            android:endColor="?attr/sc_positive"
+            android:angle="0"
+            android:type="sweep"/>
+    </shape>
+</rotate>

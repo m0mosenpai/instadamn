@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_primary_background"/>
+            <corners android:radius="@dimen/audience_selector_pill_layout_height"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_context_menu_background_color"/>
+            <corners android:radius="@dimen/audience_selector_pill_layout_height"/>
+        </shape>
+    </item>
+</layer-list>

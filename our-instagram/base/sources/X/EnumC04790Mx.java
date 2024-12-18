@@ -1,0 +1,215 @@
+package X;
+
+import com.facebook.tigon.tigonhuc.HucClient;
+
+/* JADX WARN: Failed to restore enum class, 'enum' modifier and super class removed */
+/* JADX WARN: Unknown enum class pattern. Please report as an issue! */
+/* renamed from: X.0Mx, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes.dex */
+public final class EnumC04790Mx {
+    public static final /* synthetic */ EnumC04790Mx[] A02;
+    public static final EnumC04790Mx A03;
+    public static final EnumC04790Mx A04;
+    public static final EnumC04790Mx A05;
+    public static final EnumC04790Mx A06;
+    public static final EnumC04790Mx A07;
+    public static final EnumC04790Mx A08;
+    public static final EnumC04790Mx A09;
+    public static final EnumC04790Mx A0A;
+    public static final EnumC04790Mx A0B;
+    public static final EnumC04790Mx A0C;
+    public static final EnumC04790Mx A0D;
+    public static final EnumC04790Mx A0E;
+    public static final EnumC04790Mx A0F;
+    public static final EnumC04790Mx A0G;
+    public static final EnumC04790Mx A0H;
+    public static final EnumC04790Mx A0I;
+    public static final EnumC04790Mx A0J;
+    public static final EnumC04790Mx A0K;
+    public static final EnumC04790Mx A0L;
+    public static final EnumC04790Mx A0M;
+    public static final EnumC04790Mx A0N;
+    public static final EnumC04790Mx A0O;
+    public static final EnumC04790Mx A0P;
+    public static final EnumC04790Mx A0Q;
+    public static final EnumC04790Mx A0R;
+    public static final EnumC04790Mx A0S;
+    public static final EnumC04790Mx A0T;
+    public static final EnumC04790Mx A0U;
+    public static final EnumC04790Mx A0V;
+    public static final EnumC04790Mx A0W;
+    public static final EnumC04790Mx A0X;
+    public static final EnumC04790Mx A0Y;
+    public static final EnumC04790Mx A0Z;
+    public static final EnumC04790Mx A0a;
+    public static final EnumC04790Mx A0b;
+    public static final EnumC04790Mx A0c;
+    public static final EnumC04790Mx A0d;
+    public static final EnumC04790Mx A0e;
+    public static final EnumC04790Mx A0f;
+    public static final EnumC04790Mx A0g;
+    public static final EnumC04790Mx A0h;
+    public static final EnumC04790Mx A0i;
+    public static final EnumC04790Mx A0j;
+    public static final EnumC04790Mx A0k;
+    public static final EnumC04790Mx A0l;
+    public static final EnumC04790Mx A0m;
+    public static final EnumC04790Mx A0n;
+    public static final EnumC04790Mx A0o;
+    public static final EnumC04790Mx A0p;
+    public static final EnumC04790Mx A0q;
+    public static final EnumC04790Mx A0r;
+    public static final EnumC04790Mx A0s;
+    public static final EnumC04790Mx A0t;
+    public static final EnumC04790Mx A0u;
+    public static final EnumC04790Mx A0v;
+    public static final EnumC04790Mx A0w;
+    public static final EnumC04790Mx A0x;
+    public static final EnumC04790Mx A0y;
+    public static final EnumC04790Mx A0z;
+    public static final EnumC04790Mx A10;
+    public final int A00;
+    public final String A01;
+
+    public static EnumC04790Mx valueOf(String str) {
+        return (EnumC04790Mx) Enum.valueOf(EnumC04790Mx.class, str);
+    }
+
+    public static EnumC04790Mx[] values() {
+        return (EnumC04790Mx[]) A02.clone();
+    }
+
+    static {
+        EnumC04790Mx enumC04790Mx = new EnumC04790Mx("critical_cadm_main_process_state", 0, 5, "a");
+        A0a = enumC04790Mx;
+        EnumC04790Mx enumC04790Mx2 = new EnumC04790Mx("critical_cadm_cs_mode", 1, 8, "aa");
+        A0E = enumC04790Mx2;
+        EnumC04790Mx enumC04790Mx3 = new EnumC04790Mx("critical_cadm_curr_comp_type", 2, 10, "ab");
+        A0G = enumC04790Mx3;
+        EnumC04790Mx enumC04790Mx4 = new EnumC04790Mx("critical_cadm_curr_comp_name", 3, 80, "ac");
+        A0F = enumC04790Mx4;
+        EnumC04790Mx enumC04790Mx5 = new EnumC04790Mx("critical_cadm_curr_intent_action", 4, 80, "ad");
+        A0H = enumC04790Mx5;
+        EnumC04790Mx enumC04790Mx6 = new EnumC04790Mx("critical_cadm_game_id", 5, 30, "ae");
+        A0J = enumC04790Mx6;
+        EnumC04790Mx enumC04790Mx7 = new EnumC04790Mx("critical_cadm_app_init", 6, 1, "af");
+        A03 = enumC04790Mx7;
+        EnumC04790Mx enumC04790Mx8 = new EnumC04790Mx("critical_cadm_is_bg", 7, 7, "ah");
+        A0R = enumC04790Mx8;
+        EnumC04790Mx enumC04790Mx9 = new EnumC04790Mx("critical_cadm_is_anr_looper_enabled", 8, 5, "ai");
+        A0Q = enumC04790Mx9;
+        EnumC04790Mx enumC04790Mx10 = new EnumC04790Mx("critical_cadm_is_mqd_initialized", 9, 5, "aj");
+        A0S = enumC04790Mx10;
+        EnumC04790Mx enumC04790Mx11 = new EnumC04790Mx("critical_cadm_mqd_collector_created", 10, 20, "ak");
+        A0d = enumC04790Mx11;
+        EnumC04790Mx enumC04790Mx12 = new EnumC04790Mx("critical_cadm_main_process_num_deaths", 11, 4, "b");
+        A0Z = enumC04790Mx12;
+        EnumC04790Mx enumC04790Mx13 = new EnumC04790Mx("critical_cadm_splash_screen_dismissed", 12, 5, "c");
+        A0r = enumC04790Mx13;
+        EnumC04790Mx enumC04790Mx14 = new EnumC04790Mx("critical_cadm_intern_trigger", 13, 5, "d");
+        A0P = enumC04790Mx14;
+        EnumC04790Mx enumC04790Mx15 = new EnumC04790Mx("critical_cadm_last_start_temp", 14, 9, "e");
+        A0W = enumC04790Mx15;
+        EnumC04790Mx enumC04790Mx16 = new EnumC04790Mx("critical_cadm_rooms_funnel_session_id", 15, 100, "f");
+        A0o = enumC04790Mx16;
+        EnumC04790Mx enumC04790Mx17 = new EnumC04790Mx("critical_cadm_nt_context", 16, 512, "g");
+        A0l = enumC04790Mx17;
+        EnumC04790Mx enumC04790Mx18 = new EnumC04790Mx("critical_cadm_request_since_last_C1", 17, 20, "h");
+        A0n = enumC04790Mx18;
+        EnumC04790Mx enumC04790Mx19 = new EnumC04790Mx("critical_cadm_time_of_last_C1", 18, 20, "i");
+        A0t = enumC04790Mx19;
+        EnumC04790Mx enumC04790Mx20 = new EnumC04790Mx("critical_cadm_dex_load_result", 19, 20, "j");
+        A0I = enumC04790Mx20;
+        EnumC04790Mx enumC04790Mx21 = new EnumC04790Mx("critical_cadm_camera_core_product_name", 20, 40, "k");
+        A09 = enumC04790Mx21;
+        EnumC04790Mx enumC04790Mx22 = new EnumC04790Mx("critical_cadm_camera_core_camera", 21, 40, "ka");
+        A04 = enumC04790Mx22;
+        EnumC04790Mx enumC04790Mx23 = new EnumC04790Mx("critical_cadm_camera_core_product_id", 22, 40, "kb");
+        A08 = enumC04790Mx23;
+        EnumC04790Mx enumC04790Mx24 = new EnumC04790Mx("critical_cadm_camera_core_camera_session_id", 23, 50, "l");
+        A05 = enumC04790Mx24;
+        EnumC04790Mx enumC04790Mx25 = new EnumC04790Mx("critical_cadm_camera_core_effect_ids", 24, 40, "m");
+        A06 = enumC04790Mx25;
+        EnumC04790Mx enumC04790Mx26 = new EnumC04790Mx("critical_cadm_camera_core_last_event", 25, 40, "ma");
+        A07 = enumC04790Mx26;
+        EnumC04790Mx enumC04790Mx27 = new EnumC04790Mx("critical_cadm_ig_camera_session_id", 26, 40, "mb");
+        A0N = enumC04790Mx27;
+        EnumC04790Mx enumC04790Mx28 = new EnumC04790Mx("critical_cadm_memory_telemetry_state", 27, 10, "mm");
+        A0b = enumC04790Mx28;
+        EnumC04790Mx enumC04790Mx29 = new EnumC04790Mx("critical_cadm_java_surface_allocation_params", 28, 32, "mn");
+        A0V = enumC04790Mx29;
+        EnumC04790Mx enumC04790Mx30 = new EnumC04790Mx("critical_cadm_native_surface_allocation_params", 29, 8, "mo");
+        A0i = enumC04790Mx30;
+        EnumC04790Mx enumC04790Mx31 = new EnumC04790Mx("critical_cadm_java_loom_provider_params", 30, HucClient.BODY_UPLOAD_TIMEOUT_SECONDS, "mp");
+        A0T = enumC04790Mx31;
+        EnumC04790Mx enumC04790Mx32 = new EnumC04790Mx("critical_cadm_native_loom_provider_params", 31, HucClient.BODY_UPLOAD_TIMEOUT_SECONDS, "mq");
+        A0h = enumC04790Mx32;
+        EnumC04790Mx enumC04790Mx33 = new EnumC04790Mx("critical_cadm_java_object_count_params", 32, 240, "mr");
+        A0U = enumC04790Mx33;
+        EnumC04790Mx enumC04790Mx34 = new EnumC04790Mx("critical_cadm_tool_type", 33, 20, "n");
+        A0u = enumC04790Mx34;
+        EnumC04790Mx enumC04790Mx35 = new EnumC04790Mx("critical_cadm_page_id", 34, 20, "nb");
+        A0m = enumC04790Mx35;
+        EnumC04790Mx enumC04790Mx36 = new EnumC04790Mx("critical_cadm_msys_bootstrap_state", 35, 9, "o");
+        A0e = enumC04790Mx36;
+        EnumC04790Mx enumC04790Mx37 = new EnumC04790Mx("critical_cadm_msys_bootstrapper_version", 36, 1, "p");
+        A0f = enumC04790Mx37;
+        EnumC04790Mx enumC04790Mx38 = new EnumC04790Mx("critical_cadm_msys_did_create_database", 37, 5, "q");
+        A0g = enumC04790Mx38;
+        EnumC04790Mx enumC04790Mx39 = new EnumC04790Mx("critical_cadm_messaging_e2ee_status", 38, 4, "qa");
+        A0c = enumC04790Mx39;
+        EnumC04790Mx enumC04790Mx40 = new EnumC04790Mx("critical_cadm_rtc_call_id", 39, 40, "r");
+        A0p = enumC04790Mx40;
+        EnumC04790Mx enumC04790Mx41 = new EnumC04790Mx("critical_cadm_rtc_peer_id", 40, 15, "s");
+        A0q = enumC04790Mx41;
+        EnumC04790Mx enumC04790Mx42 = new EnumC04790Mx("critical_cadm_last_videocall_waterfall_id", 41, 40, "t");
+        A0Y = enumC04790Mx42;
+        EnumC04790Mx enumC04790Mx43 = new EnumC04790Mx("test_a", 42, 5, "ta");
+        A0y = enumC04790Mx43;
+        EnumC04790Mx enumC04790Mx44 = new EnumC04790Mx("test_b", 43, 20, "tb");
+        A0z = enumC04790Mx44;
+        EnumC04790Mx enumC04790Mx45 = new EnumC04790Mx("test_c", 44, 80, "tc");
+        A10 = enumC04790Mx45;
+        EnumC04790Mx enumC04790Mx46 = new EnumC04790Mx("critical_cadm_test_app_data_1", 45, 5, "td");
+        A0s = enumC04790Mx46;
+        EnumC04790Mx enumC04790Mx47 = new EnumC04790Mx("large_cadm_test_app_data_2", 46, 5, "te");
+        A0w = enumC04790Mx47;
+        EnumC04790Mx enumC04790Mx48 = new EnumC04790Mx("critical_test_mapped_1", 47, 5, "tf");
+        A0v = enumC04790Mx48;
+        EnumC04790Mx enumC04790Mx49 = new EnumC04790Mx("large_test_mapped_2", 48, 5, "tg");
+        A0x = enumC04790Mx49;
+        EnumC04790Mx enumC04790Mx50 = new EnumC04790Mx("critical_cadm_last_videocall_id", 49, 15, "u");
+        A0X = enumC04790Mx50;
+        EnumC04790Mx enumC04790Mx51 = new EnumC04790Mx("critical_cadm_group_id", 50, 30, "v");
+        A0K = enumC04790Mx51;
+        EnumC04790Mx enumC04790Mx52 = new EnumC04790Mx("critical_cadm_helium_webview", 51, 1, "w");
+        A0L = enumC04790Mx52;
+        EnumC04790Mx enumC04790Mx53 = new EnumC04790Mx("critical_cadm_iab_session_id", 52, 40, "iab");
+        A0M = enumC04790Mx53;
+        EnumC04790Mx enumC04790Mx54 = new EnumC04790Mx("critical_cadm_comp_type", 53, 10, "x");
+        A0B = enumC04790Mx54;
+        EnumC04790Mx enumC04790Mx55 = new EnumC04790Mx("critical_cadm_comp_name", 54, 80, "y");
+        A0A = enumC04790Mx55;
+        EnumC04790Mx enumC04790Mx56 = new EnumC04790Mx("critical_cadm_intent_action", 55, 80, "z");
+        A0O = enumC04790Mx56;
+        EnumC04790Mx enumC04790Mx57 = new EnumC04790Mx("critical_cadm_network_type", 56, 10, "za");
+        A0k = enumC04790Mx57;
+        EnumC04790Mx enumC04790Mx58 = new EnumC04790Mx("critical_cadm_network_subtype", 57, 10, "zb");
+        A0j = enumC04790Mx58;
+        EnumC04790Mx enumC04790Mx59 = new EnumC04790Mx("critical_cadm_connection_quality", 58, 12, "zc");
+        A0D = enumC04790Mx59;
+        EnumC04790Mx enumC04790Mx60 = new EnumC04790Mx("critical_cadm_connection_bandwidth", 59, 15, "zd");
+        A0C = enumC04790Mx60;
+        EnumC04790Mx enumC04790Mx61 = new EnumC04790Mx("critical_cadm_connection_latency", 60, 15, "ze");
+        EnumC04790Mx[] enumC04790MxArr = new EnumC04790Mx[61];
+        System.arraycopy(new EnumC04790Mx[]{enumC04790Mx, enumC04790Mx2, enumC04790Mx3, enumC04790Mx4, enumC04790Mx5, enumC04790Mx6, enumC04790Mx7, enumC04790Mx8, enumC04790Mx9, enumC04790Mx10, enumC04790Mx11, enumC04790Mx12, enumC04790Mx13, enumC04790Mx14, enumC04790Mx15, enumC04790Mx16, enumC04790Mx17, enumC04790Mx18, enumC04790Mx19, enumC04790Mx20, enumC04790Mx21, enumC04790Mx22, enumC04790Mx23, enumC04790Mx24, enumC04790Mx25, enumC04790Mx26, enumC04790Mx27}, 0, enumC04790MxArr, 0, 27);
+        System.arraycopy(new EnumC04790Mx[]{enumC04790Mx28, enumC04790Mx29, enumC04790Mx30, enumC04790Mx31, enumC04790Mx32, enumC04790Mx33, enumC04790Mx34, enumC04790Mx35, enumC04790Mx36, enumC04790Mx37, enumC04790Mx38, enumC04790Mx39, enumC04790Mx40, enumC04790Mx41, enumC04790Mx42, enumC04790Mx43, enumC04790Mx44, enumC04790Mx45, enumC04790Mx46, enumC04790Mx47, enumC04790Mx48, enumC04790Mx49, enumC04790Mx50, enumC04790Mx51, enumC04790Mx52, enumC04790Mx53, enumC04790Mx54}, 0, enumC04790MxArr, 27, 27);
+        System.arraycopy(new EnumC04790Mx[]{enumC04790Mx55, enumC04790Mx56, enumC04790Mx57, enumC04790Mx58, enumC04790Mx59, enumC04790Mx60, enumC04790Mx61}, 0, enumC04790MxArr, 54, 7);
+        A02 = enumC04790MxArr;
+    }
+
+    public EnumC04790Mx(String str, int i, int i2, String str2) {
+        this.A00 = i2;
+        this.A01 = str2;
+    }
+}

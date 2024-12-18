@@ -1,0 +1,8 @@
+package X;
+
+/* loaded from: classes10.dex */
+public abstract class RyL {
+    public static String A00(int i) {
+        return i != 7 ? i != 8 ? i != 14 ? i != 16 ? i != 32 ? i != 41 ? i != 45 ? i != 38 ? i != 39 ? "UNDEFINED_QPL_EVENT" : "PMA_PERF_COMMSHUB_CONVERSATION_LOAD_SYNC" : "PMA_PERF_OLDINBOX_CONVERSATION_LOAD" : "PMA_PERF_FACEWEB_CREATE" : "PMA_PERF_THREADLIST_TO_THREADVIEW" : "PMA_PERF_OLDINBOX_MESSAGE_LIST_LOAD_NEXT_PAGE" : "PMA_PERF_WARM_START" : "PMA_PERF_COLD_START" : "PMA_PERF_COMMSHUB_MESSAGE_LIST_LOAD_FIRST_PAGE" : "PMA_PERF_COMMSHUB_CONVERSATION_LOAD";
+    }
+}

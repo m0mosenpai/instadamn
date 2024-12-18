@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.instagram.common.ui.base.IgFrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/ig_toast_background"
+    android:paddingTop="14dp"
+    android:paddingBottom="14dp"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:paddingStart="20dp"
+    android:paddingEnd="20dp">
+    <com.instagram.common.ui.text.TitleTextView
+        android:textSize="@dimen/auth_edit_field_text_size"
+        android:textColor="@color/igds_icon_on_color"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:capitalize="none"/>
+</com.instagram.common.ui.base.IgFrameLayout>

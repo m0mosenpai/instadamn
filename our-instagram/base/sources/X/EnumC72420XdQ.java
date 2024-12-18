@@ -1,0 +1,31 @@
+package X;
+
+/* renamed from: X.XdQ, reason: case insensitive filesystem */
+/* loaded from: classes12.dex */
+public enum EnumC72420XdQ implements InterfaceC02530Ab {
+    MORE_THAN_TEN_CAROUSEL_ITEMS("MORE_THAN_TEN_CAROUSEL_ITEMS"),
+    POST_IS_OPEN_CAROUSEL("POST_IS_OPEN_CAROUSEL"),
+    POST_HAS_POLL("POST_HAS_POLL"),
+    POST_WITH_FUNDRAISER("POST_WITH_FUNDRAISER"),
+    POST_WITH_EVENT_REMINDER("POST_WITH_EVENT_REMINDER"),
+    POST_AUDIENCE_CLOSE_FRIENDS("POST_AUDIENCE_CLOSE_FRIENDS"),
+    POST_WITH_FLIPSIDE("POST_WITH_FLIPSIDE"),
+    POST_WITH_SCHEDULE("POST_WITH_SCHEDULE"),
+    POST_WITH_PAID_PARTNERSHIP("POST_WITH_PAID_PARTNERSHIP"),
+    POST_DIRECT_TO_PROFILE("POST_DIRECT_TO_PROFILE"),
+    POST_CONTAIN_VIDEO("POST_CONTAIN_VIDEO"),
+    POST_CAPTION_LIMIT("POST_CAPTION_LIMIT"),
+    POST_IS_RESHARE_FROM_THREADS("POST_IS_RESHARE_FROM_THREADS"),
+    UNKNOWN("UNKNOWN");
+
+    public final String A00;
+
+    EnumC72420XdQ(String str) {
+        this.A00 = str;
+    }
+
+    @Override // X.InterfaceC02530Ab
+    public final /* bridge */ /* synthetic */ Object getValue() {
+        return this.A00;
+    }
+}

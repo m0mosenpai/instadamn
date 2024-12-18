@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/account_discovery_bottom_gap"
+        android:width="@dimen/account_discovery_bottom_gap"
+        android:drawable="@drawable/reel_viewer_promote_icon"/>
+</layer-list>

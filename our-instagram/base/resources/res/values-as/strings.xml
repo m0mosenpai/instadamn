@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">ৰাজ্য</string>
+    <string name="res_0x7f13000b_name_removed">ব্ৰাউজাৰ বন্ধ কৰক</string>
+    <string name="res_0x7f13000d_name_removed">%1$sএ আপোনাৰ ডিভাইচৰ অৱস্থান ব্যৱহাৰ কৰিব বিচাৰে।</string>
+    <string name="res_0x7f13000f_name_removed">অনুমতি দিয়ক</string>
+    <string name="res_0x7f130010_name_removed">ব্লক কৰক</string>
+    <string name="res_0x7f130011_name_removed">ব্ৰাউজাৰ মিনিমাইজ কৰক</string>
+    <string name="res_0x7f130013_name_removed">পিছলৈ যাওক</string>
+    <string name="res_0x7f130021_name_removed">সুৰক্ষা ক\'ড</string>
+    <string name="res_0x7f130022_name_removed">কাৰ্ড নম্বৰ</string>
+    <string name="res_0x7f13003e_name_removed">সুৰক্ষা ক\'ড</string>
+    <string name="res_0x7f13003f_name_removed">কাৰ্ড নম্বৰ</string>
+    <string name="res_0x7f130049_name_removed">ঠিক</string>
+    <string name="res_0x7f13004a_name_removed">ঠিক</string>
+    <string name="res_0x7f130058_name_removed">ইমেইল</string>
+    <string name="res_0x7f130059_name_removed">আপুনি চাই থকা ৱেবছাইটটোৱে এটা বাহ্যিক এপ্‌ খোলাৰ চেষ্টা কৰি আছে। আপুনি অব্যাহত ৰাখিব বিচাৰে নেকি?</string>
+    <string name="res_0x7f13005a_name_removed">উভতি যাওক</string>
+    <string name="res_0x7f13005b_name_removed">অব্যাহত ৰাখক</string>
+    <string name="res_0x7f13005c_name_removed">আপুনি আমাৰ এপ্‌ এৰি গৈ আছে</string>
+    <string name="res_0x7f13005d_name_removed">এইটো এটা কাৰিকৰী ত্ৰুটিৰ বাবে হ\'ব পাৰে যিটো আমি ঠিক কৰিবলৈ কাম কৰি আছো। এই পৃষ্ঠাটো পুনৰ ল\'ড কৰিবলৈ চেষ্টা কৰক।</string>
+    <string name="res_0x7f13005e_name_removed">সতেজ কৰক</string>
+    <string name="res_0x7f13005f_name_removed">পৃষ্ঠা এতিয়া উপলব্ধ নহয়</string>
+    <string name="res_0x7f130060_name_removed">অন্তিম নাম</string>
+    <string name="res_0x7f130061_name_removed">পৃষ্ঠাটো ল\'ড কৰিব নোৱাৰি</string>
+    <string name="res_0x7f130063_name_removed">%1$sত খোলক</string>
+    <string name="res_0x7f130064_name_removed">অধিক বিকল্পসমূহ</string>
+    <string name="res_0x7f130065_name_removed">প্ৰথম নাম</string>
+    <string name="res_0x7f13006a_name_removed">আপুনি এতিয়া সম্পূৰ্ণ স্ক্ৰীণ চাই আছে। প্ৰস্থান কৰিবলৈ বাওঁফালেলৈ স্বাইপ কৰক বা উভতি যোৱাৰ বুটামটো টিপক।</string>
+    <string name="res_0x7f130084_name_removed">নাম</string>
+    <string name="res_0x7f13008a_name_removed">দুখিত, কিবা ভুল হৈছিল।</string>
+    <string name="res_0x7f13008c_name_removed">ম্যাদ উকলিব</string>
+    <string name="res_0x7f1300a0_name_removed">জিপ ক\'ড</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">সময় ছেট কৰক</string>
+</resources>

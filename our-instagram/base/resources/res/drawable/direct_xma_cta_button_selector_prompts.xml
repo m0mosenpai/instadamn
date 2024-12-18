@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="?attr/igds_color_secondary_button_elevated_pressed_panavision"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+    <item android:state_enabled="false">
+        <shape>
+            <solid android:color="?attr/igds_color_secondary_button_elevated_disabled_panavision"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <solid android:color="?attr/igds_color_secondary_button_elevated_panavision"/>
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+</selector>

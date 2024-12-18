@@ -1,0 +1,10 @@
+package X;
+
+/* loaded from: classes9.dex */
+public enum MZV {
+    FULL_WIDTH,
+    WITH_LEFT_PADDING,
+    WITH_LEFT_RIGHT_PADDING,
+    FULL_WIDTH_WITH_BOTTOM_MARGIN,
+    FULL_WIDTH_WITH_SMALL_TOP_AND_BOTTOM_MARGIN
+}

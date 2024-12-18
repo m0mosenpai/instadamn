@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="instagram_video_chat_halloween_bat"
+    kf:kf_height="200"
+    kf:kf_width="200"
+    kf:set="direct"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQABeD0BsnwP"/>

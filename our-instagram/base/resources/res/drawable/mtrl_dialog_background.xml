@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+    android:insetRight="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+    android:insetTop="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+    android:insetBottom="@dimen/ab_test_media_thumbnail_preview_item_internal_padding">
+    <shape android:shape="rectangle">
+        <corners android:radius="@dimen/abc_action_bar_elevation_material"/>
+        <solid android:color="?attr/colorSurface"/>
+    </shape>
+</inset>

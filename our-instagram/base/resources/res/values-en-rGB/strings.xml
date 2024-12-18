@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">County/Region</string>
+    <string name="res_0x7f130003_name_removed">Town/City</string>
+    <string name="res_0x7f130005_name_removed">Flat/Apt (optional)</string>
+    <string name="res_0x7f130011_name_removed">Minimise browser</string>
+    <string name="res_0x7f130013_name_removed">Go Back</string>
+    <string name="res_0x7f130022_name_removed">Card number</string>
+    <string name="res_0x7f130033_name_removed">3-digit code</string>
+    <string name="res_0x7f130034_name_removed">4-digit code</string>
+    <string name="res_0x7f130037_name_removed">Confirm your CVV to use auto-fill</string>
+    <string name="res_0x7f130039_name_removed">Enter the 3 or 4-digit security code on your %1$s • %2$s to auto-fill this form.</string>
+    <string name="res_0x7f13003a_name_removed">As an extra security check, please enter details for your card ending in %1$s.</string>
+    <string name="res_0x7f13003c_name_removed">Add the full card number for %1$s • %2$s.</string>
+    <string name="res_0x7f13003d_name_removed">Confirm card details</string>
+    <string name="res_0x7f13003f_name_removed">Card number</string>
+    <string name="res_0x7f130040_name_removed">Enter the 3 or 4-digit security code on your %1$s • %2$s to auto-fill this form.</string>
+    <string name="res_0x7f130041_name_removed">As an extra security check, please enter details for your card ending in %1$s.</string>
+    <string name="res_0x7f130043_name_removed">Add the full card number for %1$s • %2$s.</string>
+    <string name="res_0x7f130044_name_removed">Confirm card details</string>
+    <string name="res_0x7f130046_name_removed">Confirm the security code for %1$s • %2$s</string>
+    <string name="res_0x7f130048_name_removed">Confirm the security code for %1$s • %2$s</string>
+    <string name="res_0x7f130058_name_removed">Email address</string>
+    <string name="res_0x7f13005f_name_removed">Page isn\'t available at the moment</string>
+    <string name="res_0x7f130060_name_removed">Surname</string>
+    <string name="res_0x7f130062_name_removed">Open with…</string>
+    <string name="res_0x7f13006a_name_removed">You\'re now viewing full-screen. Swipe left or tap the back button to exit.</string>
+    <string name="res_0x7f130076_name_removed">We\'re having trouble with setting up %2$s in %1$s at the moment. You can try again, or use %2$s in English (US) for now.</string>
+    <string name="res_0x7f130078_name_removed">Try Again</string>
+    <string name="res_0x7f130088_name_removed">Not Now</string>
+    <string name="res_0x7f13008a_name_removed">Sorry, something went wrong.</string>
+    <string name="res_0x7f1300a0_name_removed">Postal code</string>
+    <string name="res_0x7f13012a_name_removed">Telephone number</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">Set time</string>
+</resources>

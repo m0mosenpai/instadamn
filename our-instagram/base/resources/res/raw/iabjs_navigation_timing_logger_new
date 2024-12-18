@@ -1,0 +1,52 @@
+/**
+ * (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+ */
+
+(function() {
+  try {
+    // log DomContentLoaded timing inside "DOMContentLoaded" event callback
+    const onDomContentLoaded = () => {
+      if (!window.performance || !window.performance.timing) {
+        return;
+      }
+      var timing = window.performance.timing;
+      if (timing.domContentLoadedEventStart > 0) {
+        console.log('FBNavDomContentLoaded:' + timing.domContentLoadedEventStart);
+      }
+      // remove listener after logging
+      document.removeEventListener("DOMContentLoaded", onDomContentLoaded);
+    }
+
+    document.addEventListener("DOMContentLoaded", onDomContentLoaded);
+
+
+    const logTiming = () => {
+      if (!window.performance || !window.performance.timing) {
+        return;
+      }
+      var timing = window.performance.timing;
+      if (timing.responseStart > 0) {
+        console.log('FBNavResponseStart:' + timing.responseStart);
+      }
+      if (timing.responseEnd > 0) {
+        console.log('FBNavResponseEnd:' + timing.responseEnd);
+      }
+      if (timing.domContentLoadedEventStart > 0) {
+        console.log('FBNavDomContentLoaded:' + timing.domContentLoadedEventStart);
+      }
+      if (timing.loadEventEnd > 0) {
+        console.log('FBNavLoadEventEnd:' + timing.loadEventEnd);
+      }
+      const html = document.getElementsByTagName('html')[0];
+      if (html) {
+        var html_with_amp = html.hasAttribute('amp') || html.hasAttribute("\u26A1");
+        console.log('FBNavAmpDetect:' + html_with_amp);
+      }
+    }
+
+    logTiming();
+
+  } catch(err) {
+    console.log('navigation_timing_logger_error:' + err.message);
+  }
+})()

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/gradient_layer">
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="@color/direct_light_mode_glyph_color_tertiary"
+                android:endColor="@color/direct_light_mode_glyph_color_tertiary"
+                android:angle="0"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/afi_indicator_arrow_margin_top_adjusted"
+        android:top="@dimen/afi_indicator_arrow_margin_top_adjusted"
+        android:right="@dimen/afi_indicator_arrow_margin_top_adjusted"
+        android:bottom="@dimen/afi_indicator_arrow_margin_top_adjusted">
+        <shape android:shape="oval">
+            <solid android:color="@color/audio_bar_action_color_enabled"/>
+        </shape>
+    </item>
+</layer-list>

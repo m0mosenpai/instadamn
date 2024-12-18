@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pathInterpolator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:controlX1="@dimen/push_interpolator_x1"
+    android:controlY1="@dimen/account_group_management_text_line_height_multiplier"
+    android:controlX2="@dimen/push_interpolator_x2"
+    android:controlY2="@dimen/account_group_management_text_line_height_multiplier"/>

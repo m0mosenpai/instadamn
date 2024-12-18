@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RuL, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61827RuL {
+    public static String A00(int i) {
+        return i != 1 ? i != 2 ? i != 3559 ? i != 8432 ? i != 9515 ? i != 10938 ? i != 14221 ? "UNDEFINED_QPL_EVENT" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF_TEST" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF_HIGH_SAMPLE_RATE" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF_DETAILED" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF_EMPTY_EVENTS" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF_HIGH_SAMPLE_RATE_TEST" : "ANDROID_IMAGE_LOAD_PERF_VIEW_DISAPPEARED" : "ANDROID_IMAGE_LOAD_PERF_IMAGE_LOAD_PERF";
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/background_right_media_covering_multiple"
+        android:left="@dimen/challenge_winner_v2_3_winner2_submission_margin_top"
+        android:top="@dimen/challenge_winner_v2_3_winner2_submission_margin_top"
+        android:right="@dimen/challenge_winner_v2_3_winner2_submission_margin_top"
+        android:bottom="@dimen/challenge_winner_v2_3_winner2_submission_margin_top"/>
+    <item android:drawable="@drawable/background_border_right_media_multiple"/>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/background_inner_border_right_media"/>
+    <item android:gravity="center">
+        <rotate
+            android:drawable="@drawable/background_inner_border_right_media"
+            android:fromDegrees="90"
+            android:toDegrees="90"/>
+    </item>
+</layer-list>

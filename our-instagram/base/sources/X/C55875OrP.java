@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.OrP, reason: case insensitive filesystem */
+/* loaded from: classes9.dex */
+public final class C55875OrP implements InterfaceC57926PmW {
+    @Override // X.InterfaceC57926PmW
+    public final void Dlm(EnumC76753cN enumC76753cN) {
+    }
+}

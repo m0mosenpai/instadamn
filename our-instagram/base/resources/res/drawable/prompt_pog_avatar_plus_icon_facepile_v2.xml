@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="@dimen/add_account_icon_circle_radius"
+                android:width="@dimen/add_account_icon_circle_radius"/>
+            <stroke
+                android:width="0.5dp"
+                android:color="?attr/igds_color_stroke"/>
+        </shape>
+    </item>
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram_add_pano_outline_16"
+            android:tint="?attr/igds_color_secondary_icon"/>
+    </item>
+</layer-list>

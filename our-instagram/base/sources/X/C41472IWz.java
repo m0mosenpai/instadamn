@@ -1,0 +1,7 @@
+package X;
+
+/* renamed from: X.IWz, reason: case insensitive filesystem */
+/* loaded from: classes7.dex */
+public final class C41472IWz {
+    public static final /* synthetic */ C41472IWz A00 = new Object();
+}

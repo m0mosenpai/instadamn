@@ -1,0 +1,74 @@
+package X;
+
+import com.facebook.proxygen.TraceFieldType;
+import java.io.IOException;
+import java.util.ArrayList;
+
+/* renamed from: X.F7x, reason: case insensitive filesystem */
+/* loaded from: classes6.dex */
+public abstract class AbstractC34225F7x {
+    /* JADX WARN: Type inference failed for: r0v4, types: [X.FRA, java.lang.Object] */
+    public static FRA parseFromJson(C16L c16l) {
+        String str;
+        C14360o3.A0B(c16l, 0);
+        try {
+            ?? obj = new Object();
+            if (c16l.A11() != C16R.A0D) {
+                c16l.A0z();
+                return null;
+            }
+            while (c16l.A1J() != C16R.A09) {
+                String A0s = AbstractC166997dE.A0s(c16l);
+                ArrayList arrayList = null;
+                if ("consent_key".equals(A0s)) {
+                    obj.A00 = AbstractC167017dG.A0m(c16l);
+                } else if (TraceFieldType.ContentType.equals(A0s)) {
+                    String A1Q = c16l.A1Q();
+                    for (Integer num : C05F.A00(2)) {
+                        if (1 - num.intValue() != 0) {
+                            str = "consent";
+                        } else {
+                            str = "text";
+                        }
+                        if (!str.equals(A1Q)) {
+                        }
+                    }
+                } else if ("age".equals(A0s)) {
+                    c16l.A1D();
+                } else if ("today".equals(A0s)) {
+                    AbstractC31178DnM.A1I(c16l);
+                } else if ("headline".equals(A0s)) {
+                    obj.A01 = AbstractC167017dG.A0m(c16l);
+                } else if ("paragraphs".equals(A0s)) {
+                    if (c16l.A11() == C16R.A0C) {
+                        arrayList = AbstractC166987dD.A1E();
+                        while (c16l.A1J() != C16R.A08) {
+                            FJB parseFromJson = AbstractC34224F7w.parseFromJson(c16l);
+                            if (parseFromJson != null) {
+                                arrayList.add(parseFromJson);
+                            }
+                        }
+                    }
+                    obj.A03 = arrayList;
+                } else if ("optional_paragraphs".equals(A0s)) {
+                    if (c16l.A11() == C16R.A0C) {
+                        arrayList = AbstractC166987dD.A1E();
+                        while (c16l.A1J() != C16R.A08) {
+                            FJB parseFromJson2 = AbstractC34224F7w.parseFromJson(c16l);
+                            if (parseFromJson2 != null) {
+                                arrayList.add(parseFromJson2);
+                            }
+                        }
+                    }
+                    obj.A02 = arrayList;
+                }
+                c16l.A0z();
+            }
+            return obj;
+        } catch (IOException e) {
+            throw e;
+        } catch (Exception e2) {
+            throw AbstractC166987dD.A0m(e2);
+        }
+    }
+}

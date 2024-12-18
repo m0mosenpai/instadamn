@@ -1,0 +1,145 @@
+{
+	"fx chain": [
+		{
+			"name": "Phase Vocoder"
+		},
+		{
+			"name": "MB Compressor"
+		},
+        {
+			"name": "Bit Reducer"
+		},
+		{
+			"name": "Chorus Flanger"
+		}
+	],
+	"initial parameters": [
+		{
+			"wet gain": "0.5",
+			"voice": "7",
+			"mode": "whisper"
+		},
+		{
+			"crossover LF": "500",
+			"crossover HF": "4000",
+			"attack time 0": "20",
+			"attack time 1": "1",
+			"attack time 2": "20",
+			"release time 0": "100",
+			"release time 1": "100",
+			"release time 2": "100",
+			"ratio 0": "2",
+			"ratio 1": "4",
+			"ratio 2": "2",
+			"threshold 0": "-12",
+			"threshold 1": "-6",
+			"threshold 2": "-6",
+			"knee width 0": "0",
+			"knee width 1": "0",
+			"knee width 2": "0",
+			"output gain 0": "0",
+			"output gain 1": "0",
+			"output gain 2": "0",
+			"auto makeup gain 0 ": "1",
+			"auto makeup gain 1": "1",
+			"auto makeup gain 2": "1"
+		},
+        {
+			"numBits": "11",
+			"downsamplingRate": "1.9",
+			"inputGainDecibels": "0",
+			"outputGainDecibels": "0",
+			"frequencyCutoff": "11995.8",
+			"wetDry": "1",
+			"bypass": false
+		},
+		{
+			"delayTimeMs": "1",
+			"modOffsetMs": "30",
+			"modRateHz": "0.8",
+			"modType": "5",
+			"stereoPhaseDiffRad": "0",
+			"feedbackGain": "0",
+			"outputGainDecibels": "0",
+			"wetGain": "0.5",
+			"numVoices": "1",
+			"damping": "8000"
+		}
+	],
+	"user parameters": [
+		[
+			{
+				"name": "wet gain",
+				"min": "0",
+				"max": "0.7",
+				"skew": "2"
+			}
+		],
+		[
+			{
+				"name": "threshold 0",
+				"min": "0",
+				"max": "-19",
+				"skew": "2"
+			},
+			{
+				"name": "threshold 1",
+				"min": "0",
+				"max": "-19",
+				"skew": "2"
+			},
+			{
+				"name": "threshold 2",
+				"min": "0",
+				"max": "-19",
+				"skew": "2"
+			},
+			{
+				"name": "output gain 0",
+				"min": "0",
+				"max": "-3",
+				"skew": "2"
+			},
+			{
+				"name": "output gain 2",
+				"min": "0",
+				"max": "6",
+				"skew": "2"
+			}
+		],
+        [
+			{
+				"name": "numBits",
+				"min": "16",
+				"max": "8 ",
+				"skew": "2"
+			},
+			{
+				"name": "frequencyCutoff",
+				"min": "11995.8",
+				"max": "7603.19",
+				"skew": "2"
+			},
+			{
+				"name": "wetDry",
+				"min": "0",
+				"max": "1",
+				"skew": "3"
+			}
+		],
+		[
+			{
+				"name": "wetGain",
+				"min": "0",
+				"max": "1",
+				"skew": "5"
+			},
+			{
+				"name": "damping",
+				"min": "22000",
+				"max": "6000",
+				"skew": "2"
+			}
+		]
+	]
+}

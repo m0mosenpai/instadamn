@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/new_feed_pill_shadow"/>
+    <item android:id="@+id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+            <corners android:radius="@dimen/ai_agent_share_profile_sticker_padding"/>
+        </shape>
+    </item>
+</layer-list>

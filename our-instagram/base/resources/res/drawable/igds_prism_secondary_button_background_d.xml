@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:drawable="@color/igds_prism_gray_01"/>
+    <item android:drawable="@color/abc_decor_view_status_guard_light"/>
+</selector>

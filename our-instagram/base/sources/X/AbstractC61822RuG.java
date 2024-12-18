@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RuG, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61822RuG {
+    public static String A00(int i) {
+        return i != 1118 ? i != 5586 ? i != 5795 ? i != 6893 ? i != 8315 ? i != 13998 ? i != 15165 ? "UNDEFINED_QPL_EVENT" : "AI_STUDIO_CREATION_GENERATE_REMIX_STEER_SUGGESTIONS" : "AI_STUDIO_CREATION_GEN_THREAD_THEME_DURING_CREATION" : "AI_STUDIO_CREATION_GEN_UPDATE_QUICK_CREATION" : "AI_STUDIO_CREATION_COMPLETE_REMIX_CREATION" : "AI_STUDIO_CREATION_UPDATE_REMIX_IMAGE" : "AI_STUDIO_CREATION_INITIATE_REMIX_CREATION" : "AI_STUDIO_CREATION_GEN_STREAM_IMAGE_DURING_CREATION";
+    }
+}

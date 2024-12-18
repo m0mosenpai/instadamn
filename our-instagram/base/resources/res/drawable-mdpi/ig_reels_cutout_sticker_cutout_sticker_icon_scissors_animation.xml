@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="ig_reels_cutout_sticker_cutout_sticker_icon_scissors_animation"
+    kf:kf_height="170"
+    kf:kf_width="170"
+    kf:set="ig_reels_cutout_sticker"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQAFKmiwCu2z"/>

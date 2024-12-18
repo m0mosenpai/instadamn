@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+            <gradient
+                android:startColor="@color/ama_scrim_gradient_start"
+                android:endColor="@color/ama_scrim_gradient_end"
+                android:angle="315"
+                android:type="linear"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/abc_control_corner_material"
+        android:top="@dimen/abc_control_corner_material"
+        android:right="@dimen/abc_control_corner_material"
+        android:bottom="@dimen/abc_control_corner_material">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/action_bar_item_spacing_right"/>
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+        </shape>
+    </item>
+</layer-list>

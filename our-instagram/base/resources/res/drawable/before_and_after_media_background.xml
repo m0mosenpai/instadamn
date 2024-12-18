@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="?attr/igds_color_media_background"/>
+    <corners
+        android:topLeftRadius="0dp"
+        android:topRightRadius="0dp"
+        android:bottomLeftRadius="@dimen/account_discovery_bottom_gap"
+        android:bottomRightRadius="@dimen/account_discovery_bottom_gap"/>
+</shape>

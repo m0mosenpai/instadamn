@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">ویلایەت</string>
+    <string name="res_0x7f130004_name_removed">ناونیشان</string>
+    <string name="res_0x7f13000b_name_removed">داخستنی وێبگەڕ</string>
+    <string name="res_0x7f13000d_name_removed">%1$s دەیەوێت شوێنی ئامێرەکەت بەکار بهێنێت.</string>
+    <string name="res_0x7f13000f_name_removed">ڕێگەپێدان</string>
+    <string name="res_0x7f130010_name_removed">بلۆککردن</string>
+    <string name="res_0x7f130013_name_removed">گه‌ڕانه‌وه‌</string>
+    <string name="res_0x7f130021_name_removed">کۆدی پاراستن</string>
+    <string name="res_0x7f130022_name_removed">ژماره‌ی كارت</string>
+    <string name="res_0x7f13003e_name_removed">کۆدی پاراستن</string>
+    <string name="res_0x7f13003f_name_removed">ژماره‌ی كارت</string>
+    <string name="res_0x7f130045_name_removed">جەختکردنەوە</string>
+    <string name="res_0x7f130047_name_removed">جەختکردنەوە</string>
+    <string name="res_0x7f130049_name_removed">باشه</string>
+    <string name="res_0x7f13004a_name_removed">باشه</string>
+    <string name="res_0x7f130058_name_removed">پەیامی ئەلیکترۆنی</string>
+    <string name="res_0x7f130059_name_removed">ئەو ماڵپەڕەی تۆ سەیری دەکەیت هەوڵ دەدات ئەپێکی دەرەکی بکاتەوە. ئایا دەتەوێت بەردەوام بیت؟</string>
+    <string name="res_0x7f13005a_name_removed">گه‌ڕانه‌وه‌</string>
+    <string name="res_0x7f13005b_name_removed">بەردەوامبوون</string>
+    <string name="res_0x7f13005c_name_removed">تۆ ئەپەکەمان بەجێ دەهێڵیت</string>
+    <string name="res_0x7f13005d_name_removed">ڕەنگە هۆکاری ئەمە هەڵەیەکی تەکنیکی بێت کە ئێمە کار بۆ چاککردنی دەکەین. دووبارە ئەم پەڕەیە بار بکەرەوە.</string>
+    <string name="res_0x7f13005e_name_removed">نوێکردنەوە</string>
+    <string name="res_0x7f13005f_name_removed">پەڕەکە لە ئێستادا بەردەست نییە</string>
+    <string name="res_0x7f130060_name_removed">پاشناو</string>
+    <string name="res_0x7f130061_name_removed">پەڕەکە ناتوانرێت بار بکرێت</string>
+    <string name="res_0x7f130063_name_removed">کردنەوە لە %1$s</string>
+    <string name="res_0x7f130064_name_removed">بژاردەی زیاتر</string>
+    <string name="res_0x7f130065_name_removed">ناو</string>
+    <string name="res_0x7f13006a_name_removed">ئێستا تۆ پڕ بە شاشە دەیبینیت. بۆ لای چەپ لای بدە یاخود پەنجە بە دوگمەی گەڕانەوەدا بنێ بۆ دەرچوون.</string>
+    <string name="res_0x7f130084_name_removed">ناو</string>
+    <string name="res_0x7f13008a_name_removed">ببوورە، شتێك بە هەڵە دەڕوات بەڕێوە</string>
+    <string name="res_0x7f1300a0_name_removed">زیپکۆد</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:startColor="?attr/igds_color_creation_tools_blue"
+        android:endColor="?attr/igds_color_creation_tools_lavender"
+        android:angle="45"
+        android:centerColor="?attr/igds_color_creation_tools_purple"/>
+    <corners android:radius="@dimen/ai_agent_share_profile_sticker_padding"/>
+</shape>

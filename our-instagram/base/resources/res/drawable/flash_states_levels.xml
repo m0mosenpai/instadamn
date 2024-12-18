@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/instagram_flash_off_filled_44"
+        android:maxLevel="0"/>
+    <item
+        android:drawable="@drawable/instagram_flash_filled_44"
+        android:maxLevel="1"/>
+    <item
+        android:drawable="@drawable/instagram_flash_auto_filled_44"
+        android:maxLevel="2"/>
+    <item
+        android:drawable="@drawable/instagram_flash_filled_44"
+        android:maxLevel="3"/>
+</level-list>

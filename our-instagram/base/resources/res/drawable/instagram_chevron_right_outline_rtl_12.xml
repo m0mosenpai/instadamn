@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+    <item
+        android:drawable="@drawable/instagram_chevron_right_pano_outline_12"
+        android:top="4dp"/>
+</layer-list>

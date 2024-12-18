@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/grey_9"/>
+    <stroke
+        android:width="@dimen/account_recs_header_image_margin"
+        android:color="@color/primary_text_disabled_material_dark"/>
+    <corners android:radius="@dimen/add_to_story_dual_destination_share_sheet_avatar_icon_size"/>
+</shape>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="@dimen/circular_avatar_stroke_width"
+        android:color="?attr/igds_color_stroke"/>
+    <corners
+        android:topLeftRadius="0dp"
+        android:topRightRadius="@dimen/accent_edge_thickness"
+        android:bottomLeftRadius="0dp"
+        android:bottomRightRadius="@dimen/accent_edge_thickness"/>
+</shape>

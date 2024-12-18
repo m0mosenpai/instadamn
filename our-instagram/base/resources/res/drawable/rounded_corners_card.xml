@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00ffffff"/>
+    <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+    <stroke
+        android:width="@dimen/action_sheet_divider_margin_top"
+        android:color="@color/grey_2"/>
+</shape>

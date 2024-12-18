@@ -1,0 +1,21 @@
+{
+	"fx chain": [
+		{
+			"name": "Vinyl Noise"
+		},
+		{
+			"name": "Limiter"
+		}
+	],
+	"initial parameters": [
+		{
+			"wetGain": "0.8"
+		},
+		{
+			"threshold": "-0.01",
+			"ceiling": "-0.01"
+		}
+	],
+	"user parameters": [
+	]
+}

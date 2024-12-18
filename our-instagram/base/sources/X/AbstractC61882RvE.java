@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.RvE, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61882RvE {
+    public static String A00(int i) {
+        return i != 1689 ? i != 2941 ? i != 9934 ? i != 10536 ? i != 11876 ? i != 12200 ? i != 14514 ? "UNDEFINED_QPL_EVENT" : "DEVICE_LOCATION_ACCESS_LOCATION_CACHE" : "DEVICE_LOCATION_REQUEST_LOCATION_PERMISSION_STATUS" : "DEVICE_LOCATION_REQUEST_LOCATION_PERMISSION" : "DEVICE_LOCATION_ACCESS_LOCATION_PERMISSION_STATUS_UPDATE" : "DEVICE_LOCATION_ACCESS_LOCATION" : "DEVICE_LOCATION_WRITE_LOCATION_CACHE" : "DEVICE_LOCATION_ACCESS_LOCATION_UPDATE";
+    }
+}

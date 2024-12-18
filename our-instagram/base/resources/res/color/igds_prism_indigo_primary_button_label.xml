@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_pressed="true"
+        android:color="@color/abc_decor_view_status_guard_light"/>
+    <item
+        android:state_enabled="false"
+        android:color="@color/bright_foreground_disabled_material_dark"/>
+    <item android:color="@color/abc_decor_view_status_guard_light"/>
+</selector>

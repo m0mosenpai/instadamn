@@ -1,0 +1,12 @@
+Lsecondary/dex00/Canary;,ordinal=0,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex01/Canary;,ordinal=1,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex02/Canary;,ordinal=2,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex03/Canary;,ordinal=3,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex04/Canary;,ordinal=4,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex05/Canary;,ordinal=5,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex06/Canary;,ordinal=6,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex07/Canary;,ordinal=7,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex08/Canary;,ordinal=8,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex09/Canary;,ordinal=9,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex10/Canary;,ordinal=10,coldstart=1,extended=0,primary=0,scroll=0,background=0
+Lsecondary/dex11/Canary;,ordinal=11,coldstart=1,extended=0,primary=0,scroll=0,background=0

@@ -1,0 +1,54 @@
+package X;
+
+/* renamed from: X.Rud, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61845Rud {
+    public static String A00(int i) {
+        switch (i) {
+            case 1624:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_SHOP_PAGE_LOAD";
+            case 1921:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_TAB_SCREEN_LOAD";
+            case 2273:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_CLOSET_PAGE_LOAD";
+            case 2521:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_APPEARANCE_PAGE_LOAD";
+            case 2907:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_INITIAL_ROUTING";
+            case 3825:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_LISTINGS_RANKING";
+            case 4303:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVA_ENTITLEMENT_READ_GEN_UNENTITLED_AVATAR_OWNABLES";
+            case 4459:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_SAVE_MUTATION";
+            case 7730:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_FETCH_ALL_CHOICE_KEYS_FOR_CHOICE_TYPE";
+            case 8168:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_HOME_FEED_OFFER_PAGE_LOAD";
+            case 9167:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_HOME_FEED_LAYOUT_DATA_LOAD";
+            case 9655:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVA_ENTITLEMENT_WRITE_GEN_GRANT_ALL_FREE_ENTITLEMENT";
+            case 10734:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_OFFERS_RANKING_SHADOW";
+            case 11160:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVA_ENTITLEMENT_READ_GEN_ENTITLEMENTS";
+            case 12362:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_MMV2_SINGLE_PREVIEW_GEN";
+            case 12386:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_MMV2_FULL_PREVIEWS_GEN";
+            case 13003:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_HOME_FEED_LAYOUT_MODULE_DATA_LOAD";
+            case 13500:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_HOME_FEED_OFFER_COUNT_LOAD";
+            case 13650:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_MARKETPLACE_COHORT_RANKING_LASER_KEY_GENERATOR";
+            case 14463:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVA_ENTITLEMENT_WRITE_GEN_CREATE_FREE_ENTITLEMENT";
+            case 16025:
+                return "AVATAR_MARKETPLACE_STOREFRONT_AVATAR_ARTIFACT_FRAMEWORK";
+            default:
+                return "UNDEFINED_QPL_EVENT";
+        }
+    }
+}

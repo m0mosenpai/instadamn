@@ -1,0 +1,25 @@
+package X;
+
+import android.app.Application;
+import androidx.fragment.app.FragmentActivity;
+import com.instagram.common.session.UserSession;
+
+/* renamed from: X.8Si, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes4.dex */
+public final class C187408Si extends AbstractC61132qb {
+    public final FragmentActivity A00;
+    public final UserSession A01;
+
+    public C187408Si(FragmentActivity fragmentActivity, UserSession userSession) {
+        C14360o3.A0B(userSession, 2);
+        this.A00 = fragmentActivity;
+        this.A01 = userSession;
+    }
+
+    @Override // X.AbstractC61132qb
+    public final /* bridge */ /* synthetic */ AbstractC52922bZ create() {
+        Application application = this.A00.getApplication();
+        C14360o3.A07(application);
+        return new C187418Sj(application, this.A01);
+    }
+}

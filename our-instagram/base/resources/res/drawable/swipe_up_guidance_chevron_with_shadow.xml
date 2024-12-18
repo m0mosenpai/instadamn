@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:height="144dp"
+    android:width="144dp"
+    android:viewportWidth="144"
+    android:viewportHeight="144">
+    <group android:name="chevron_shadow">
+        <group
+            android:pivotX="72"
+            android:scaleX="1.4">
+            <path
+                android:name="shadow"
+                android:fillColor="@drawable/res_0x7f080021_swipe_up_guidance_chevron_with_shadow__0"
+                android:pathData="M 72 22                                   C 100 22 122 44 122 72                                   C 122 100 100 122 72 122                                   C 44 122 22 100 22 72                                   C 22 44 44 22 72 22 Z"/>
+        </group>
+        <path
+            android:name="chevron"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#10000000"
+            android:strokeWidth="7.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+        <path
+            android:name="chevron"
+            android:pathData="M 50,77 72,65 94,78"
+            android:strokeColor="#ffffff"
+            android:strokeWidth="6.5"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"/>
+    </group>
+</vector>

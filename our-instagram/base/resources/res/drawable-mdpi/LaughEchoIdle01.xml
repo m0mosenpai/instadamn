@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="LaughEchoIdle01"
+    kf:kf_height="300"
+    kf:kf_width="300"
+    kf:set="msgr_avatar_power_ups"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQACvN-RDtaH"/>

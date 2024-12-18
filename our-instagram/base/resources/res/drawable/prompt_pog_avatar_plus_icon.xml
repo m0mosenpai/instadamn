@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="@dimen/ai_agent_share_profile_sticker_padding"
+                android:width="@dimen/ai_agent_share_profile_sticker_padding"/>
+            <solid android:color="?attr/igds_color_primary_background"/>
+        </shape>
+    </item>
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:left="5dp"
+        android:top="5dp"
+        android:right="5dp"
+        android:bottom="5dp">
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram_add_pano_outline_16"
+            android:tint="?attr/igds_color_secondary_icon"/>
+    </item>
+</layer-list>

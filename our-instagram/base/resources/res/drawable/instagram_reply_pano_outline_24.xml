@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-ikon-drawable xmlns:android="http://schemas.android.com/apk/res/android" xmlns:fbui="http://schemas.android.com/apk/res-auto"
+    fbui:size_dp="24"
+    fbui:vector_index="0"/>

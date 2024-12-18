@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">Estado</string>
+    <string name="res_0x7f130003_name_removed">Siyudad</string>
+    <string name="res_0x7f130004_name_removed">Adres</string>
+    <string name="res_0x7f13000b_name_removed">Isirado ang browser</string>
+    <string name="res_0x7f13000d_name_removed">Gusto gamiton sa %1$s ang lokasyon sa imong device.</string>
+    <string name="res_0x7f13000e_name_removed">Palihug tuguti tanang media nga mogamit og file chooser</string>
+    <string name="res_0x7f13000f_name_removed">Tuguti</string>
+    <string name="res_0x7f130010_name_removed">I-block</string>
+    <string name="res_0x7f130012_name_removed">Adunay mga problema sa sertipiko sa seguridad para niini nga site</string>
+    <string name="res_0x7f130013_name_removed">Balik</string>
+    <string name="res_0x7f130014_name_removed">Sayop sa seguridad</string>
+    <string name="res_0x7f130021_name_removed">Pangseguridad nga code</string>
+    <string name="res_0x7f130022_name_removed">Numero sa Kard</string>
+    <string name="res_0x7f13003e_name_removed">Pangseguridad nga code</string>
+    <string name="res_0x7f13003f_name_removed">Numero sa Kard</string>
+    <string name="res_0x7f130045_name_removed">Kumpirmaha</string>
+    <string name="res_0x7f130047_name_removed">Kumpirmaha</string>
+    <string name="res_0x7f13005d_name_removed">Kini lagmit nga tungod sa teknikal nga sayop nga gipaningkamotan namong matarong. Sulayi sa pag-reload kini nga pahina.</string>
+    <string name="res_0x7f13005e_name_removed">I-refresh</string>
+    <string name="res_0x7f130060_name_removed">Apelyido</string>
+    <string name="res_0x7f130061_name_removed">Dili ma-load ang pahina</string>
+    <string name="res_0x7f130062_name_removed">Ablihi gamit ang ...</string>
+    <string name="res_0x7f130063_name_removed">Ablihi sa %1$s</string>
+    <string name="res_0x7f130064_name_removed">Dugang pang mga opsyon</string>
+    <string name="res_0x7f130065_name_removed">Ngalan</string>
+    <string name="res_0x7f13006a_name_removed">Gitan-aw nimo karon ang kinatibuk-ang screen. I-swipe sa wala o pinduta balik ang pindutanan sa exit.</string>
+    <string name="res_0x7f130084_name_removed">Ngalan</string>
+    <string name="res_0x7f13008a_name_removed">Gikasubo namo, adunay nahitabo nga problema.</string>
+    <string name="res_0x7f13012a_name_removed">Telepono</string>
+</resources>

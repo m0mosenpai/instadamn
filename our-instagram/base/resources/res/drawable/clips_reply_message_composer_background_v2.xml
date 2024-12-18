@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke
+        android:width="1px"
+        android:color="?attr/igds_color_separator_or_stroke_on_media"/>
+    <corners android:radius="@dimen/asset_picker_static_sticker_last_row_padding"/>
+</shape>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="44dp"
+        android:width="44dp">
+        <shape android:shape="oval">
+            <solid android:color="#ffffff"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:height="32dp"
+        android:width="32dp"
+        android:drawable="@drawable/instapal_instapal_luna"
+        android:bottom="8dp"/>
+</layer-list>

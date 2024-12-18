@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="oval">
+    <solid android:color="@android:color/transparent"/>
+    <stroke
+        android:width="@dimen/afi_indicator_arrow_margin_top"
+        android:color="@color/direct_light_mode_glyph_color_tertiary"
+        android:dashWidth="@dimen/abc_action_bar_elevation_material"
+        android:dashGap="@dimen/abc_action_bar_elevation_material"/>
+</shape>

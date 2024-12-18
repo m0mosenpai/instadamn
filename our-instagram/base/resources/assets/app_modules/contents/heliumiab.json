@@ -1,0 +1,10 @@
+{
+  "AndroidManifest.xml": "de390fded20a7da6be45e4d6f0a15f539ee1ce00e41c895351b878422a872b75",
+  "assets/heliumiab/classes.dex": "aca1652bc0756253c3838a1fea62bf2911982ff508ff8aaa7ccca0ec50b20dcb",
+  "assets/heliumiab/helium_child.dex.force-store": "42c5a34f9d86c16a747138de06547079f07dcc47e1361a50d9caeed8c52771cc",
+  "assets/heliumiab/libs.txt": "fe297df7a3ba1ffbc6af0e96f098a030c1c37e853b23f76cae696d7247f5f57c",
+  "assets/heliumiab/metadata.txt": "6c48bd5f084f32b7d57587b8f5974f67b73d57886968fbb2f7c1997886b4c7f6",
+  "lib/arm64-v8a/d.libhelium.so": "e4c7e1d63ee183d369aa8bff95ab669049483791355d6f3c0adca7d8d8fb7929",
+  "lib/arm64-v8a/libassets.zip.so": "7b228102c0e7077a25dc4378e55a4864d302658f62686b7dc34132a4a7690ec4",
+  "lib/arm64-v8a/libcrashpad_handler_trampoline.so": "481bea1c18e633380be30cf0310262ff002e777ed50db6fba3a4e3ae647b5021"
+}

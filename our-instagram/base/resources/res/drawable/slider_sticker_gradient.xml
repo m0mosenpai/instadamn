@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="center">
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/direct_reply_avatar_button_double_overlap_offset"/>
+            <size android:height="@dimen/afi_margin_top"/>
+            <solid android:color="@color/chat_sticker_button_divider_color"/>
+        </shape>
+    </item>
+    <item android:gravity="center">
+        <clip>
+            <scale android:scaleWidth="100%">
+                <shape android:shape="rectangle">
+                    <corners android:radius="@dimen/direct_reply_avatar_button_double_overlap_offset"/>
+                    <size android:height="@dimen/afi_margin_top"/>
+                    <gradient
+                        android:startColor="@color/slider_gradient_start"
+                        android:endColor="@color/slider_gradient_end"
+                        android:angle="0"/>
+                </shape>
+            </scale>
+        </clip>
+    </item>
+</layer-list>

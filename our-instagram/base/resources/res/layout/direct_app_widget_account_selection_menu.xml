@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/account_selection_menu"
+    android:background="?attr/igds_color_elevated_background"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <TextView
+        android:textSize="@dimen/abc_text_size_menu_header_material"
+        android:textColor="?attr/igds_color_secondary_text"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/res_0x7f130000_name_removed"
+        android:layout_marginVertical="10dp"/>
+    <include layout="@layout/appwidget_row_divider"/>
+    <ListView
+        android:id="@+id/account_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+    <TextView
+        android:textSize="@dimen/account_group_management_row_text_size"
+        android:textColor="@color/red_5"
+        android:gravity="center"
+        android:id="@+id/exit_settings_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/res_0x7f1300ea_name_removed"
+        android:layout_marginVertical="15dp"/>
+</LinearLayout>

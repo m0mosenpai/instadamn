@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/shadow">
+        <shape android:shape="oval">
+            <gradient
+                android:startColor="@color/black_40_transparent"
+                android:endColor="@color/fds_transparent"
+                android:angle="0"
+                android:type="radial"
+                android:gradientRadius="0"/>
+        </shape>
+    </item>
+    <item android:id="@+id/ring">
+        <shape android:shape="oval">
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+        </shape>
+    </item>
+    <item android:id="@+id/fill">
+        <shape android:shape="oval">
+            <solid android:color="@color/design_dark_default_color_on_background"/>
+        </shape>
+    </item>
+</layer-list>

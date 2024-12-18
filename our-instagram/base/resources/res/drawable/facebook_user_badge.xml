@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="22dp"
+    android:width="22dp"
+    android:viewportWidth="22"
+    android:viewportHeight="22">
+    <path
+        android:fillColor="?attr/facebookUserBadgeBackgroundColor"
+        android:pathData="M11,0L11,0A11,11 0,0 1,22 11L22,11A11,11 0,0 1,11 22L11,22A11,11 0,0 1,0 11L0,11A11,11 0,0 1,11 0z"/>
+    <path
+        android:fillColor="?attr/facebookUserBadgeIconColor"
+        android:pathData="M11,2.75C15.556,2.75 19.25,6.466 19.25,11.05C19.25,15.193 16.233,18.627 12.289,19.25V13.45H14.211L14.577,11.05H12.289V9.493C12.289,8.837 12.609,8.197 13.634,8.197H14.674V6.154C14.674,6.154 13.73,5.992 12.827,5.992C10.943,5.992 9.711,7.141 9.711,9.222V11.05H7.616V13.45H9.711V19.25C5.767,18.627 2.75,15.193 2.75,11.05C2.75,6.466 6.444,2.75 11,2.75Z"/>
+</vector>

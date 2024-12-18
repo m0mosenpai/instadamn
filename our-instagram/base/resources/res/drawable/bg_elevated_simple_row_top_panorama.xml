@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_elevated_highlight_background"/>
+            <corners
+                android:topLeftRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+                android:topRightRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_elevated_background"/>
+            <corners
+                android:topLeftRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+                android:topRightRadius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+        </shape>
+    </item>
+</selector>

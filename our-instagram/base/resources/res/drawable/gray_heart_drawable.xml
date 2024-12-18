@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/instagram_heart_filled_16"
+            android:tint="@color/design_dark_default_color_on_background"/>
+    </item>
+</layer-list>

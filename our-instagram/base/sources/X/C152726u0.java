@@ -1,0 +1,198 @@
+package X;
+
+import android.view.ViewGroup;
+import java.util.Arrays;
+import java.util.HashMap;
+
+/* renamed from: X.6u0, reason: invalid class name and case insensitive filesystem */
+/* loaded from: classes3.dex */
+public final class C152726u0 {
+    public int A00;
+    public ACr A01;
+    public final C152736u1 A05 = new C152736u1();
+    public final C152746u2 A04 = new C152746u2();
+    public final C152756u3 A03 = new C152756u3();
+    public final C152766u4 A06 = new C152766u4();
+    public HashMap A02 = new HashMap();
+
+    /* renamed from: A00, reason: merged with bridge method [inline-methods] */
+    public final C152726u0 clone() {
+        int[] iArr;
+        C152726u0 c152726u0 = new C152726u0();
+        C152756u3 c152756u3 = c152726u0.A03;
+        C152756u3 c152756u32 = this.A03;
+        c152756u3.A14 = c152756u32.A14;
+        c152756u3.A0g = c152756u32.A0g;
+        c152756u3.A12 = c152756u32.A12;
+        c152756u3.A0e = c152756u32.A0e;
+        c152756u3.A0T = c152756u32.A0T;
+        c152756u3.A0U = c152756u32.A0U;
+        c152756u3.A01 = c152756u32.A01;
+        c152756u3.A11 = c152756u32.A11;
+        c152756u3.A0a = c152756u32.A0a;
+        c152756u3.A0b = c152756u32.A0b;
+        c152756u3.A0k = c152756u32.A0k;
+        c152756u3.A0l = c152756u32.A0l;
+        c152756u3.A0r = c152756u32.A0r;
+        c152756u3.A0q = c152756u32.A0q;
+        c152756u3.A0E = c152756u32.A0E;
+        c152756u3.A0D = c152756u32.A0D;
+        c152756u3.A09 = c152756u32.A09;
+        c152756u3.A0B = c152756u32.A0B;
+        c152756u3.A0A = c152756u32.A0A;
+        c152756u3.A0n = c152756u32.A0n;
+        c152756u3.A0o = c152756u32.A0o;
+        c152756u3.A0L = c152756u32.A0L;
+        c152756u3.A0K = c152756u32.A0K;
+        c152756u3.A03 = c152756u32.A03;
+        c152756u3.A05 = c152756u32.A05;
+        c152756u3.A0w = c152756u32.A0w;
+        c152756u3.A0F = c152756u32.A0F;
+        c152756u3.A0G = c152756u32.A0G;
+        c152756u3.A00 = c152756u32.A00;
+        c152756u3.A0H = c152756u32.A0H;
+        c152756u3.A0I = c152756u32.A0I;
+        c152756u3.A0i = c152756u32.A0i;
+        c152756u3.A0Z = c152756u32.A0Z;
+        c152756u3.A0j = c152756u32.A0j;
+        c152756u3.A0p = c152756u32.A0p;
+        c152756u3.A0C = c152756u32.A0C;
+        c152756u3.A0J = c152756u32.A0J;
+        c152756u3.A0m = c152756u32.A0m;
+        c152756u3.A08 = c152756u32.A08;
+        c152756u3.A0P = c152756u32.A0P;
+        c152756u3.A0S = c152756u32.A0S;
+        c152756u3.A0Q = c152756u32.A0Q;
+        c152756u3.A0N = c152756u32.A0N;
+        c152756u3.A0O = c152756u32.A0O;
+        c152756u3.A0R = c152756u32.A0R;
+        c152756u3.A0M = c152756u32.A0M;
+        c152756u3.A06 = c152756u32.A06;
+        c152756u3.A04 = c152756u32.A04;
+        c152756u3.A0Y = c152756u32.A0Y;
+        c152756u3.A0s = c152756u32.A0s;
+        c152756u3.A0t = c152756u32.A0t;
+        c152756u3.A0V = c152756u32.A0V;
+        c152756u3.A0u = c152756u32.A0u;
+        c152756u3.A0W = c152756u32.A0W;
+        c152756u3.A0v = c152756u32.A0v;
+        c152756u3.A0X = c152756u32.A0X;
+        c152756u3.A07 = c152756u32.A07;
+        c152756u3.A02 = c152756u32.A02;
+        c152756u3.A0c = c152756u32.A0c;
+        c152756u3.A0d = c152756u32.A0d;
+        c152756u3.A0f = c152756u32.A0f;
+        c152756u3.A0x = c152756u32.A0x;
+        int[] iArr2 = c152756u32.A15;
+        if (iArr2 != null && c152756u32.A0y == null) {
+            iArr = Arrays.copyOf(iArr2, iArr2.length);
+        } else {
+            iArr = null;
+        }
+        c152756u3.A15 = iArr;
+        c152756u3.A0y = c152756u32.A0y;
+        c152756u3.A10 = c152756u32.A10;
+        c152756u3.A0z = c152756u32.A0z;
+        c152756u3.A13 = c152756u32.A13;
+        c152756u3.A0h = c152756u32.A0h;
+        C152746u2 c152746u2 = c152726u0.A04;
+        C152746u2 c152746u22 = this.A04;
+        c152746u2.A0C = c152746u22.A0C;
+        c152746u2.A04 = c152746u22.A04;
+        c152746u2.A0B = c152746u22.A0B;
+        c152746u2.A06 = c152746u22.A06;
+        c152746u2.A05 = c152746u22.A05;
+        c152746u2.A01 = c152746u22.A01;
+        c152746u2.A00 = c152746u22.A00;
+        c152746u2.A07 = c152746u22.A07;
+        C152736u1 c152736u1 = c152726u0.A05;
+        C152736u1 c152736u12 = this.A05;
+        c152736u1.A04 = c152736u12.A04;
+        c152736u1.A03 = c152736u12.A03;
+        c152736u1.A00 = c152736u12.A00;
+        c152736u1.A01 = c152736u12.A01;
+        c152736u1.A02 = c152736u12.A02;
+        C152766u4 c152766u4 = c152726u0.A06;
+        C152766u4 c152766u42 = this.A06;
+        c152766u4.A0D = c152766u42.A0D;
+        c152766u4.A01 = c152766u42.A01;
+        c152766u4.A02 = c152766u42.A02;
+        c152766u4.A03 = c152766u42.A03;
+        c152766u4.A04 = c152766u42.A04;
+        c152766u4.A05 = c152766u42.A05;
+        c152766u4.A06 = c152766u42.A06;
+        c152766u4.A07 = c152766u42.A07;
+        c152766u4.A0B = c152766u42.A0B;
+        c152766u4.A08 = c152766u42.A08;
+        c152766u4.A09 = c152766u42.A09;
+        c152766u4.A0A = c152766u42.A0A;
+        c152766u4.A0C = c152766u42.A0C;
+        c152766u4.A00 = c152766u42.A00;
+        c152726u0.A00 = this.A00;
+        c152726u0.A01 = this.A01;
+        return c152726u0;
+    }
+
+    public final void A01(C56302iJ param) {
+        C152756u3 c152756u3 = this.A03;
+        param.A0Y = c152756u3.A0a;
+        param.A0Z = c152756u3.A0b;
+        param.A0p = c152756u3.A0k;
+        param.A0q = c152756u3.A0l;
+        param.A0u = c152756u3.A0r;
+        param.A0t = c152756u3.A0q;
+        param.A0G = c152756u3.A0E;
+        param.A0F = c152756u3.A0D;
+        param.A0C = c152756u3.A09;
+        param.A0E = c152756u3.A0B;
+        param.A0D = c152756u3.A0A;
+        param.A0r = c152756u3.A0n;
+        param.A0s = c152756u3.A0o;
+        param.A0N = c152756u3.A0L;
+        param.A0M = c152756u3.A0K;
+        ((ViewGroup.MarginLayoutParams) param).leftMargin = c152756u3.A0Z;
+        ((ViewGroup.MarginLayoutParams) param).rightMargin = c152756u3.A0j;
+        ((ViewGroup.MarginLayoutParams) param).topMargin = c152756u3.A0p;
+        ((ViewGroup.MarginLayoutParams) param).bottomMargin = c152756u3.A0C;
+        param.A0T = c152756u3.A0R;
+        param.A0Q = c152756u3.A0O;
+        param.A0U = c152756u3.A0S;
+        param.A0P = c152756u3.A0N;
+        param.A03 = c152756u3.A03;
+        param.A09 = c152756u3.A05;
+        param.A0H = c152756u3.A0F;
+        param.A0I = c152756u3.A0G;
+        param.A00 = c152756u3.A00;
+        param.A0z = c152756u3.A0w;
+        param.A0K = c152756u3.A0H;
+        param.A0L = c152756u3.A0I;
+        param.A0A = c152756u3.A06;
+        param.A04 = c152756u3.A04;
+        param.A0v = c152756u3.A0s;
+        param.A0X = c152756u3.A0Y;
+        param.A11 = c152756u3.A10;
+        param.A10 = c152756u3.A0z;
+        param.A0b = c152756u3.A0t;
+        param.A0a = c152756u3.A0V;
+        param.A0d = c152756u3.A0u;
+        param.A0c = c152756u3.A0W;
+        param.A0f = c152756u3.A0v;
+        param.A0e = c152756u3.A0X;
+        param.A06 = c152756u3.A07;
+        param.A05 = c152756u3.A02;
+        param.A0g = c152756u3.A0i;
+        param.A02 = c152756u3.A01;
+        param.A0V = c152756u3.A0T;
+        param.A0W = c152756u3.A0U;
+        ((ViewGroup.LayoutParams) param).width = c152756u3.A0g;
+        ((ViewGroup.LayoutParams) param).height = c152756u3.A0e;
+        String str = c152756u3.A0x;
+        if (str != null) {
+            param.A0y = str;
+        }
+        param.A0w = c152756u3.A0h;
+        param.setMarginStart(c152756u3.A0m);
+        param.setMarginEnd(c152756u3.A0J);
+        param.A00();
+    }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="12dp"
+        android:width="12dp"
+        android:drawable="@drawable/note_like_filled_drawable__app_bitmap_0"
+        android:left="3dp"
+        android:top="3dp"
+        android:right="3dp"
+        android:bottom="3dp"/>
+</layer-list>

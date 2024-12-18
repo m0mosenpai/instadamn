@@ -1,0 +1,124 @@
+package X;
+
+import android.R;
+import com.facebook.common.dextricks.DexOptimizationMessageHandler;
+
+/* renamed from: X.10p, reason: invalid class name */
+/* loaded from: classes.dex */
+public final class C10p {
+    public final int A00(int i) {
+        switch (i) {
+            case 2293761:
+            case 2293763:
+            case 2293764:
+            case 2293770:
+            case 2293777:
+            case 2293782:
+                return 150;
+            case 2293776:
+                return DexOptimizationMessageHandler.DEFAULT_RESTART_IMPORTANCE_THRESHOLD;
+            case 2293778:
+                return 5;
+            case 2293785:
+            case 3997703:
+            case 3997704:
+            case 3997705:
+            case 4194307:
+            case 5505026:
+            case 5505027:
+            case 5505028:
+            case 9900226:
+            case 9900709:
+            case 9901045:
+            case 9902935:
+            case 9903568:
+            case 9907152:
+            case 9909389:
+            case 9910879:
+            case 12451857:
+            case 12451860:
+            case 12451861:
+            case 12451862:
+            case 12451863:
+            case 12451864:
+            case 12451866:
+            case 12451867:
+            case 15335435:
+            case R.bool.action_bar_expanded_action_views_exclusive:
+            case R.bool.config_LTE_eri_for_network_name:
+            case R.bool.config_actionMenuItemAllCaps:
+            case R.bool.config_allow3rdPartyAppOnInternal:
+            case R.xml.bookmarks:
+            case 22747084:
+            case 23396353:
+            case 41156609:
+            case 41156610:
+            case 50790401:
+            case 50792218:
+            case 50796197:
+            case 53084161:
+            case 55377921:
+            case 55377922:
+            case 55377925:
+            case 55383087:
+            case 55387844:
+            case 55393073:
+            case 56295439:
+            case 144192964:
+            case 259325953:
+            case 516765874:
+            case 516766854:
+            case 531049674:
+            case 531050074:
+            case 544409900:
+            case 544413868:
+            case 544413960:
+            case 544416960:
+            case 544418133:
+            case 544418229:
+            case 544419979:
+            case 544421695:
+            case 544423579:
+            case 719993749:
+            case 823206774:
+            case 823211716:
+                return 1;
+            case 4003988:
+            case 824316542:
+            case 824324933:
+                return C8S8.DEFAULT_SWIPE_ANIMATION_DURATION;
+            case 12451855:
+            case 12451856:
+            case 34603015:
+            case 34603016:
+            case 34603017:
+            case 34603018:
+            case 34603019:
+            case 34603020:
+            case 34603021:
+            case 47448065:
+            case 47448066:
+            case 47457205:
+            case 47463943:
+                return 100;
+            case 12451858:
+            case 12451865:
+                return 10;
+            case 25100289:
+                return 0;
+            case 28180481:
+            case 28180482:
+            case 28180483:
+            case 28180484:
+                return 10000;
+            case 47448067:
+            case 50069505:
+                return 500;
+            case 896606561:
+            case 896612552:
+                return 50;
+            default:
+                return -1;
+        }
+    }
+}

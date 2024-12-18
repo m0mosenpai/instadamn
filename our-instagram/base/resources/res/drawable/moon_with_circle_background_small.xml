@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/black"/>
+            <size
+                android:height="@dimen/add_to_story_dual_destination_share_sheet_avatar_icon_size"
+                android:width="@dimen/add_to_story_dual_destination_share_sheet_avatar_icon_size"/>
+        </shape>
+    </item>
+    <item
+        android:drawable="@drawable/moon_with_circle_background_small__app_bitmap_0"
+        android:left="@dimen/abc_control_corner_material"
+        android:top="@dimen/abc_control_corner_material"
+        android:right="@dimen/abc_control_corner_material"
+        android:bottom="@dimen/abc_control_corner_material"/>
+</layer-list>

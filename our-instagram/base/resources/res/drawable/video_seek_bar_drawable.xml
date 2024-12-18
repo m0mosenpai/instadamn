@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <corners android:radius="@dimen/abc_button_inset_vertical_material"/>
+            <solid android:color="@color/grey_5"/>
+            <size android:height="@dimen/audience_lists_text_in_badge_horizontal_margin_right"/>
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <clip>
+            <shape android:shape="rectangle">
+                <size android:height="@dimen/audience_lists_text_in_badge_horizontal_margin_right"/>
+                <corners android:radius="@dimen/abc_button_inset_vertical_material"/>
+                <solid android:color="@color/design_dark_default_color_on_background"/>
+            </shape>
+        </clip>
+    </item>
+</layer-list>

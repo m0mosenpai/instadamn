@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_secondary_background"/>
+            <size
+                android:height="@dimen/action_button_settings_height"
+                android:width="@dimen/action_button_settings_height"/>
+            <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:drawable="@drawable/default_entity_drawable__app_bitmap_0"
+        android:left="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:top="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:right="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"
+        android:bottom="@dimen/ab_test_media_thumbnail_preview_item_internal_padding">
+        <size
+            android:height="@dimen/abc_dialog_padding_material"
+            android:width="@dimen/abc_dialog_padding_material"/>
+    </item>
+</layer-list>

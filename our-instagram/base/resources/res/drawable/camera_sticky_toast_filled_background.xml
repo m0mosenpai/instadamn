@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/direct_dark_mode_action_bar_pressed_color"/>
+    <corners android:radius="@dimen/add_account_icon_circle_radius"/>
+</shape>

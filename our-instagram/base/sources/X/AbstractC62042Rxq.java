@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Rxq, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62042Rxq {
+    public static String A00(int i) {
+        return i != 5974 ? i != 7371 ? i != 8896 ? i != 9235 ? i != 10277 ? i != 11339 ? i != 13134 ? "UNDEFINED_QPL_EVENT" : "MSITE_IMPROVEMENT_TEST_OPEN_ADD_PM_WIZARD_MSITE" : "MSITE_IMPROVEMENT_TEST_ENTIRE_WIZARD_FLOW" : "MSITE_IMPROVEMENT_TEST_FULL_WIZARD_FUNNEL" : "MSITE_IMPROVEMENT_TEST_WIZARD_STATE_TO_STATE" : "MSITE_IMPROVEMENT_TEST_WIZARD_LOAD_ONE_STATE" : "MSITE_IMPROVEMENT_TEST_IAP_INIT_STATES" : "MSITE_IMPROVEMENT_TEST_THIRD_PARTY_MUTATION_CALLS_TIME";
+    }
+}

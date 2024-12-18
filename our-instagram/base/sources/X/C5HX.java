@@ -1,0 +1,340 @@
+package X;
+
+import com.instagram.api.schemas.PrivateReplyStatus;
+import com.instagram.common.typedurl.ImageUrl;
+import com.instagram.model.hashtag.HashtagImpl;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+/* renamed from: X.5HX, reason: invalid class name */
+/* loaded from: classes3.dex */
+public final class C5HX extends C0T6 {
+    public static final InterfaceC08100bW A1I = new C1QF("IgSecureUriParser").A00;
+    public PrivateReplyStatus A00;
+    public ImageUrl A01;
+    public HashtagImpl A02;
+    public Boolean A03;
+    public Boolean A04;
+    public Integer A05;
+    public String A06;
+    public final C206259Bi A07;
+    public final C206289Bl A08;
+    public final C9C9 A09;
+    public final C51755Mte A0A;
+    public final C31200Dnj A0B;
+    public final C31200Dnj A0C;
+    public final MUD A0D;
+    public final ImageUrl A0E;
+    public final ImageUrl A0F;
+    public final ImageUrl A0G;
+    public final C5JK A0H;
+    public final C121695fL A0I;
+    public final Boolean A0J;
+    public final Boolean A0K;
+    public final Boolean A0L;
+    public final Boolean A0M;
+    public final Boolean A0N;
+    public final Boolean A0O;
+    public final Boolean A0P;
+    public final Long A0Q;
+    public final Long A0R;
+    public final Long A0S;
+    public final Long A0T;
+    public final String A0U;
+    public final String A0V;
+    public final String A0W;
+    public final String A0X;
+    public final String A0Y;
+    public final String A0Z;
+    public final String A0a;
+    public final String A0b;
+    public final String A0c;
+    public final String A0d;
+    public final String A0e;
+    public final String A0f;
+    public final String A0g;
+    public final String A0h;
+    public final String A0i;
+    public final String A0j;
+    public final String A0k;
+    public final String A0l;
+    public final String A0m;
+    public final String A0n;
+    public final String A0o;
+    public final String A0p;
+    public final String A0q;
+    public final String A0r;
+    public final String A0s;
+    public final List A0t;
+    public final List A0u;
+    public final List A0v;
+    public final List A0w;
+    public final List A0x;
+    public final List A0y;
+    public final List A0z;
+    public final List A10;
+    public final List A11;
+    public final InterfaceC09390do A12;
+    public final InterfaceC09390do A13;
+    public final InterfaceC09390do A14;
+    public final InterfaceC09390do A15;
+    public final InterfaceC09390do A16;
+    public final InterfaceC09390do A17;
+    public final InterfaceC09390do A18;
+    public final InterfaceC09390do A19;
+    public final InterfaceC09390do A1A;
+    public final InterfaceC09390do A1B;
+    public final InterfaceC09390do A1C;
+    public final InterfaceC09390do A1D;
+    public final InterfaceC09390do A1E;
+    public final InterfaceC09390do A1F;
+    public final InterfaceC09390do A1G;
+    public final InterfaceC09390do A1H;
+
+    public final boolean equals(Object obj) {
+        if (this != obj) {
+            if (obj instanceof C5HX) {
+                C5HX c5hx = (C5HX) obj;
+                if (!C14360o3.A0K(this.A0i, c5hx.A0i) || !C14360o3.A0K(this.A0W, c5hx.A0W) || !C14360o3.A0K(this.A0r, c5hx.A0r) || !C14360o3.A0K(this.A0o, c5hx.A0o) || !C14360o3.A0K(this.A0j, c5hx.A0j) || !C14360o3.A0K(this.A0n, c5hx.A0n) || !C14360o3.A0K(this.A0U, c5hx.A0U) || !C14360o3.A0K(this.A0M, c5hx.A0M) || !C14360o3.A0K(this.A0F, c5hx.A0F) || !C14360o3.A0K(this.A0P, c5hx.A0P) || !C14360o3.A0K(this.A0Q, c5hx.A0Q) || !C14360o3.A0K(this.A0d, c5hx.A0d) || !C14360o3.A0K(this.A0V, c5hx.A0V) || !C14360o3.A0K(this.A0f, c5hx.A0f) || !C14360o3.A0K(this.A0l, c5hx.A0l) || !C14360o3.A0K(this.A0E, c5hx.A0E) || !C14360o3.A0K(this.A0g, c5hx.A0g) || !C14360o3.A0K(this.A0h, c5hx.A0h) || !C14360o3.A0K(this.A0G, c5hx.A0G) || !C14360o3.A0K(this.A0y, c5hx.A0y) || !C14360o3.A0K(this.A0m, c5hx.A0m) || !C14360o3.A0K(this.A0x, c5hx.A0x) || !C14360o3.A0K(this.A0u, c5hx.A0u) || !C14360o3.A0K(this.A0q, c5hx.A0q) || !C14360o3.A0K(this.A0T, c5hx.A0T) || !C14360o3.A0K(this.A10, c5hx.A10) || !C14360o3.A0K(this.A08, c5hx.A08) || !C14360o3.A0K(this.A0w, c5hx.A0w) || !C14360o3.A0K(this.A0p, c5hx.A0p) || !C14360o3.A0K(this.A0k, c5hx.A0k) || !C14360o3.A0K(this.A0A, c5hx.A0A) || !C14360o3.A0K(this.A0e, c5hx.A0e) || this.A0H != c5hx.A0H || !C14360o3.A0K(this.A0b, c5hx.A0b) || !C14360o3.A0K(this.A0J, c5hx.A0J) || !C14360o3.A0K(this.A0t, c5hx.A0t) || !C14360o3.A0K(this.A0v, c5hx.A0v) || !C14360o3.A0K(this.A0s, c5hx.A0s) || !C14360o3.A0K(this.A0a, c5hx.A0a) || !C14360o3.A0K(this.A0O, c5hx.A0O) || !C14360o3.A0K(this.A0z, c5hx.A0z) || !C14360o3.A0K(this.A0D, c5hx.A0D) || !C14360o3.A0K(this.A0c, c5hx.A0c) || !C14360o3.A0K(this.A0N, c5hx.A0N) || !C14360o3.A0K(this.A11, c5hx.A11) || !C14360o3.A0K(this.A0K, c5hx.A0K) || !C14360o3.A0K(this.A0S, c5hx.A0S) || !C14360o3.A0K(this.A0R, c5hx.A0R) || !C14360o3.A0K(this.A0X, c5hx.A0X) || !C14360o3.A0K(this.A0Z, c5hx.A0Z) || !C14360o3.A0K(this.A0Y, c5hx.A0Y) || !C14360o3.A0K(this.A0I, c5hx.A0I) || !C14360o3.A0K(this.A01, c5hx.A01) || this.A00 != c5hx.A00 || !C14360o3.A0K(this.A02, c5hx.A02) || !C14360o3.A0K(this.A05, c5hx.A05) || !C14360o3.A0K(this.A04, c5hx.A04) || !C14360o3.A0K(this.A06, c5hx.A06) || !C14360o3.A0K(this.A03, c5hx.A03) || !C14360o3.A0K(this.A07, c5hx.A07) || !C14360o3.A0K(this.A0B, c5hx.A0B) || !C14360o3.A0K(this.A0L, c5hx.A0L) || !C14360o3.A0K(this.A0C, c5hx.A0C) || !C14360o3.A0K(this.A09, c5hx.A09)) {
+                }
+            }
+            return false;
+        }
+        return true;
+    }
+
+    public final int hashCode() {
+        String str = this.A0i;
+        int hashCode = (str == null ? 0 : str.hashCode()) * 31;
+        String str2 = this.A0W;
+        int hashCode2 = (hashCode + (str2 == null ? 0 : str2.hashCode())) * 31;
+        String str3 = this.A0r;
+        int hashCode3 = (hashCode2 + (str3 == null ? 0 : str3.hashCode())) * 31;
+        String str4 = this.A0o;
+        int hashCode4 = (hashCode3 + (str4 == null ? 0 : str4.hashCode())) * 31;
+        String str5 = this.A0j;
+        int hashCode5 = (hashCode4 + (str5 == null ? 0 : str5.hashCode())) * 31;
+        String str6 = this.A0n;
+        int hashCode6 = (hashCode5 + (str6 == null ? 0 : str6.hashCode())) * 31;
+        String str7 = this.A0U;
+        int hashCode7 = (hashCode6 + (str7 == null ? 0 : str7.hashCode())) * 31;
+        Boolean bool = this.A0M;
+        int hashCode8 = (hashCode7 + (bool == null ? 0 : bool.hashCode())) * 31;
+        ImageUrl imageUrl = this.A0F;
+        int hashCode9 = (hashCode8 + (imageUrl == null ? 0 : imageUrl.hashCode())) * 31;
+        Boolean bool2 = this.A0P;
+        int hashCode10 = (hashCode9 + (bool2 == null ? 0 : bool2.hashCode())) * 31;
+        Long l = this.A0Q;
+        int hashCode11 = (hashCode10 + (l == null ? 0 : l.hashCode())) * 31;
+        String str8 = this.A0d;
+        int hashCode12 = (hashCode11 + (str8 == null ? 0 : str8.hashCode())) * 31;
+        String str9 = this.A0V;
+        int hashCode13 = (hashCode12 + (str9 == null ? 0 : str9.hashCode())) * 31;
+        String str10 = this.A0f;
+        int hashCode14 = (hashCode13 + (str10 == null ? 0 : str10.hashCode())) * 31;
+        String str11 = this.A0l;
+        int hashCode15 = (hashCode14 + (str11 == null ? 0 : str11.hashCode())) * 31;
+        ImageUrl imageUrl2 = this.A0E;
+        int hashCode16 = (hashCode15 + (imageUrl2 == null ? 0 : imageUrl2.hashCode())) * 31;
+        String str12 = this.A0g;
+        int hashCode17 = (hashCode16 + (str12 == null ? 0 : str12.hashCode())) * 31;
+        String str13 = this.A0h;
+        int hashCode18 = (hashCode17 + (str13 == null ? 0 : str13.hashCode())) * 31;
+        ImageUrl imageUrl3 = this.A0G;
+        int hashCode19 = (hashCode18 + (imageUrl3 == null ? 0 : imageUrl3.hashCode())) * 31;
+        List list = this.A0y;
+        int hashCode20 = (hashCode19 + (list == null ? 0 : list.hashCode())) * 31;
+        String str14 = this.A0m;
+        int hashCode21 = (hashCode20 + (str14 == null ? 0 : str14.hashCode())) * 31;
+        List list2 = this.A0x;
+        int hashCode22 = (hashCode21 + (list2 == null ? 0 : list2.hashCode())) * 31;
+        List list3 = this.A0u;
+        int hashCode23 = (hashCode22 + (list3 == null ? 0 : list3.hashCode())) * 31;
+        String str15 = this.A0q;
+        int hashCode24 = (hashCode23 + (str15 == null ? 0 : str15.hashCode())) * 31;
+        Long l2 = this.A0T;
+        int hashCode25 = (hashCode24 + (l2 == null ? 0 : l2.hashCode())) * 31;
+        List list4 = this.A10;
+        int hashCode26 = (hashCode25 + (list4 == null ? 0 : list4.hashCode())) * 31;
+        C206289Bl c206289Bl = this.A08;
+        int hashCode27 = (hashCode26 + (c206289Bl == null ? 0 : c206289Bl.hashCode())) * 31;
+        List list5 = this.A0w;
+        int hashCode28 = (hashCode27 + (list5 == null ? 0 : list5.hashCode())) * 31;
+        String str16 = this.A0p;
+        int hashCode29 = (hashCode28 + (str16 == null ? 0 : str16.hashCode())) * 31;
+        String str17 = this.A0k;
+        int hashCode30 = (hashCode29 + (str17 == null ? 0 : str17.hashCode())) * 31;
+        C51755Mte c51755Mte = this.A0A;
+        int hashCode31 = (hashCode30 + (c51755Mte == null ? 0 : c51755Mte.hashCode())) * 31;
+        String str18 = this.A0e;
+        int hashCode32 = (hashCode31 + (str18 == null ? 0 : str18.hashCode())) * 31;
+        C5JK c5jk = this.A0H;
+        int hashCode33 = (hashCode32 + (c5jk == null ? 0 : c5jk.hashCode())) * 31;
+        String str19 = this.A0b;
+        int hashCode34 = (hashCode33 + (str19 == null ? 0 : str19.hashCode())) * 31;
+        Boolean bool3 = this.A0J;
+        int hashCode35 = (hashCode34 + (bool3 == null ? 0 : bool3.hashCode())) * 31;
+        List list6 = this.A0t;
+        int hashCode36 = (hashCode35 + (list6 == null ? 0 : list6.hashCode())) * 31;
+        List list7 = this.A0v;
+        int hashCode37 = (hashCode36 + (list7 == null ? 0 : list7.hashCode())) * 31;
+        String str20 = this.A0s;
+        int hashCode38 = (hashCode37 + (str20 == null ? 0 : str20.hashCode())) * 31;
+        String str21 = this.A0a;
+        int hashCode39 = (hashCode38 + (str21 == null ? 0 : str21.hashCode())) * 31;
+        Boolean bool4 = this.A0O;
+        int hashCode40 = (hashCode39 + (bool4 == null ? 0 : bool4.hashCode())) * 31;
+        List list8 = this.A0z;
+        int hashCode41 = (hashCode40 + (list8 == null ? 0 : list8.hashCode())) * 31;
+        MUD mud = this.A0D;
+        int hashCode42 = (hashCode41 + (mud == null ? 0 : mud.hashCode())) * 31;
+        String str22 = this.A0c;
+        int hashCode43 = (hashCode42 + (str22 == null ? 0 : str22.hashCode())) * 31;
+        Boolean bool5 = this.A0N;
+        int hashCode44 = (hashCode43 + (bool5 == null ? 0 : bool5.hashCode())) * 31;
+        List list9 = this.A11;
+        int hashCode45 = (hashCode44 + (list9 == null ? 0 : list9.hashCode())) * 31;
+        Boolean bool6 = this.A0K;
+        int hashCode46 = (hashCode45 + (bool6 == null ? 0 : bool6.hashCode())) * 31;
+        Long l3 = this.A0S;
+        int hashCode47 = (hashCode46 + (l3 == null ? 0 : l3.hashCode())) * 31;
+        Long l4 = this.A0R;
+        int hashCode48 = (hashCode47 + (l4 == null ? 0 : l4.hashCode())) * 31;
+        String str23 = this.A0X;
+        int hashCode49 = (hashCode48 + (str23 == null ? 0 : str23.hashCode())) * 31;
+        String str24 = this.A0Z;
+        int hashCode50 = (hashCode49 + (str24 == null ? 0 : str24.hashCode())) * 31;
+        String str25 = this.A0Y;
+        int hashCode51 = (hashCode50 + (str25 == null ? 0 : str25.hashCode())) * 31;
+        C121695fL c121695fL = this.A0I;
+        int hashCode52 = (hashCode51 + (c121695fL == null ? 0 : c121695fL.hashCode())) * 31;
+        ImageUrl imageUrl4 = this.A01;
+        int hashCode53 = (hashCode52 + (imageUrl4 == null ? 0 : imageUrl4.hashCode())) * 31;
+        PrivateReplyStatus privateReplyStatus = this.A00;
+        int hashCode54 = (hashCode53 + (privateReplyStatus == null ? 0 : privateReplyStatus.hashCode())) * 31;
+        HashtagImpl hashtagImpl = this.A02;
+        int hashCode55 = (hashCode54 + (hashtagImpl == null ? 0 : hashtagImpl.hashCode())) * 31;
+        Integer num = this.A05;
+        int hashCode56 = (hashCode55 + (num == null ? 0 : num.hashCode())) * 31;
+        Boolean bool7 = this.A04;
+        int hashCode57 = (hashCode56 + (bool7 == null ? 0 : bool7.hashCode())) * 31;
+        String str26 = this.A06;
+        int hashCode58 = (hashCode57 + (str26 == null ? 0 : str26.hashCode())) * 31;
+        Boolean bool8 = this.A03;
+        int hashCode59 = (hashCode58 + (bool8 == null ? 0 : bool8.hashCode())) * 31;
+        C206259Bi c206259Bi = this.A07;
+        int hashCode60 = (hashCode59 + (c206259Bi == null ? 0 : c206259Bi.hashCode())) * 31;
+        C31200Dnj c31200Dnj = this.A0B;
+        int hashCode61 = (hashCode60 + (c31200Dnj == null ? 0 : c31200Dnj.hashCode())) * 31;
+        Boolean bool9 = this.A0L;
+        int hashCode62 = (hashCode61 + (bool9 == null ? 0 : bool9.hashCode())) * 31;
+        C31200Dnj c31200Dnj2 = this.A0C;
+        int hashCode63 = (hashCode62 + (c31200Dnj2 == null ? 0 : c31200Dnj2.hashCode())) * 31;
+        C9C9 c9c9 = this.A09;
+        return hashCode63 + (c9c9 != null ? c9c9.hashCode() : 0);
+    }
+
+    public static final Map A00(android.net.Uri uri) {
+        java.util.Set<String> queryParameterNames;
+        if (uri != null && (queryParameterNames = uri.getQueryParameterNames()) != null) {
+            ArrayList arrayList = new ArrayList();
+            for (String str : queryParameterNames) {
+                String queryParameter = uri.getQueryParameter(str);
+                if (queryParameter != null) {
+                    arrayList.add(new C09530e4(str, queryParameter));
+                }
+            }
+            return AbstractC06930Yk.A08(arrayList);
+        }
+        return AbstractC06930Yk.A0E();
+    }
+
+    public C5HX(C206259Bi c206259Bi, C206289Bl c206289Bl, C9C9 c9c9, C51755Mte c51755Mte, C31200Dnj c31200Dnj, C31200Dnj c31200Dnj2, MUD mud, PrivateReplyStatus privateReplyStatus, ImageUrl imageUrl, ImageUrl imageUrl2, ImageUrl imageUrl3, ImageUrl imageUrl4, C5JK c5jk, HashtagImpl hashtagImpl, C121695fL c121695fL, Boolean bool, Boolean bool2, Boolean bool3, Boolean bool4, Boolean bool5, Boolean bool6, Boolean bool7, Boolean bool8, Boolean bool9, Integer num, Long l, Long l2, Long l3, Long l4, String str, String str2, String str3, String str4, String str5, String str6, String str7, String str8, String str9, String str10, String str11, String str12, String str13, String str14, String str15, String str16, String str17, String str18, String str19, String str20, String str21, String str22, String str23, String str24, String str25, String str26, List list, List list2, List list3, List list4, List list5, List list6, List list7, List list8, List list9) {
+        this.A0i = str;
+        this.A0W = str2;
+        this.A0r = str3;
+        this.A0o = str4;
+        this.A0j = str5;
+        this.A0n = str6;
+        this.A0U = str7;
+        this.A0M = bool;
+        this.A0F = imageUrl;
+        this.A0P = bool2;
+        this.A0Q = l;
+        this.A0d = str8;
+        this.A0V = str9;
+        this.A0f = str10;
+        this.A0l = str11;
+        this.A0E = imageUrl2;
+        this.A0g = str12;
+        this.A0h = str13;
+        this.A0G = imageUrl3;
+        this.A0y = list;
+        this.A0m = str14;
+        this.A0x = list2;
+        this.A0u = list3;
+        this.A0q = str15;
+        this.A0T = l2;
+        this.A10 = list4;
+        this.A08 = c206289Bl;
+        this.A0w = list5;
+        this.A0p = str16;
+        this.A0k = str17;
+        this.A0A = c51755Mte;
+        this.A0e = str18;
+        this.A0H = c5jk;
+        this.A0b = str19;
+        this.A0J = bool3;
+        this.A0t = list6;
+        this.A0v = list7;
+        this.A0s = str20;
+        this.A0a = str21;
+        this.A0O = bool4;
+        this.A0z = list8;
+        this.A0D = mud;
+        this.A0c = str22;
+        this.A0N = bool5;
+        this.A11 = list9;
+        this.A0K = bool6;
+        this.A0S = l3;
+        this.A0R = l4;
+        this.A0X = str23;
+        this.A0Z = str24;
+        this.A0Y = str25;
+        this.A0I = c121695fL;
+        this.A01 = imageUrl4;
+        this.A00 = privateReplyStatus;
+        this.A02 = hashtagImpl;
+        this.A05 = num;
+        this.A04 = bool7;
+        this.A06 = str26;
+        this.A03 = bool8;
+        this.A07 = c206259Bi;
+        this.A0B = c31200Dnj;
+        this.A0L = bool9;
+        this.A0C = c31200Dnj2;
+        this.A09 = c9c9;
+        EnumC09460dv enumC09460dv = EnumC09460dv.A02;
+        this.A1F = AbstractC09440dt.A00(enumC09460dv, new C206919Dw(this, 0));
+        this.A18 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 43));
+        this.A1A = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 45));
+        this.A14 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 39));
+        this.A1D = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 48));
+        this.A1E = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 49));
+        this.A1B = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 46));
+        this.A1C = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 47));
+        this.A15 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 40));
+        this.A16 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 41));
+        this.A12 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 37));
+        this.A13 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 38));
+        this.A17 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 42));
+        this.A19 = AbstractC09440dt.A00(enumC09460dv, new C9EA(this, 44));
+        this.A1H = AbstractC09440dt.A00(enumC09460dv, new C206919Dw(this, 2));
+        this.A1G = AbstractC09440dt.A00(enumC09460dv, new C206919Dw(this, 1));
+    }
+
+    public C5HX() {
+        this(null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null);
+    }
+}

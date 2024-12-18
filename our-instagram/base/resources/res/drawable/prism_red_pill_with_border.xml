@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <stroke
+        android:width="2dp"
+        android:color="?attr/igds_color_primary_background"/>
+    <solid android:color="?attr/igds_color_icon_badge"/>
+    <corners android:radius="10dp"/>
+    <size
+        android:height="20dp"
+        android:width="20dp"/>
+</shape>

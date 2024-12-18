@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130003_name_removed">Ciutat</string>
+    <string name="res_0x7f130004_name_removed">Adreça</string>
+    <string name="res_0x7f13000b_name_removed">Tancar el navegador</string>
+    <string name="res_0x7f13000f_name_removed">Permet</string>
+    <string name="res_0x7f130010_name_removed">Bloqueja</string>
+    <string name="res_0x7f130021_name_removed">Codi de seguretat</string>
+    <string name="res_0x7f13003e_name_removed">Codi de seguretat</string>
+    <string name="res_0x7f130045_name_removed">Confirma</string>
+    <string name="res_0x7f130047_name_removed">Confirma</string>
+    <string name="res_0x7f130049_name_removed">D\'acord</string>
+    <string name="res_0x7f13004a_name_removed">D\'acord</string>
+    <string name="res_0x7f130058_name_removed">Correu electrònic</string>
+    <string name="res_0x7f13005e_name_removed">Actualitza</string>
+    <string name="res_0x7f130060_name_removed">Cognom</string>
+    <string name="res_0x7f130064_name_removed">Més opcions</string>
+    <string name="res_0x7f130065_name_removed">Nom</string>
+    <string name="res_0x7f130084_name_removed">Nom</string>
+    <string name="res_0x7f13008a_name_removed">Ho sentim, alguna cosa ha anat malament.</string>
+    <string name="res_0x7f13008c_name_removed">Caduca</string>
+    <string name="res_0x7f1300a0_name_removed">Codi postal</string>
+    <string name="res_0x7f1300f4_name_removed">Les teves ulleres estan connectades</string>
+    <string name="res_0x7f13012a_name_removed">Telèfon</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">Defineix l\'hora</string>
+</resources>

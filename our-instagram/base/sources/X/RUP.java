@@ -1,0 +1,13 @@
+package X;
+
+/* loaded from: classes10.dex */
+public final class RUP extends PxQ implements InterfaceC65280ThD {
+    public RUP() {
+        super(C58565Pxh.DEFAULT_INSTANCE);
+    }
+
+    @Override // X.T9B
+    public final /* bridge */ /* synthetic */ Object clone() {
+        return A01();
+    }
+}

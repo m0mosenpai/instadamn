@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">Штат/Облус</string>
+    <string name="res_0x7f130003_name_removed">Шаар</string>
+    <string name="res_0x7f130004_name_removed">Дарек</string>
+    <string name="res_0x7f130005_name_removed">Батир/имарат (милдеттүү эмес)</string>
+    <string name="res_0x7f13000b_name_removed">Браузерди жабуу</string>
+    <string name="res_0x7f13000c_name_removed">%1$s түзмөгүңүздүн камерасын колдонгусу келет.</string>
+    <string name="res_0x7f13000d_name_removed">%1$s сиздин түрмөгүңүздүн жайгашкан жерлерин колдонгону жатат.</string>
+    <string name="res_0x7f13000f_name_removed">Уруксат берүү</string>
+    <string name="res_0x7f130010_name_removed">Бөгөттөө</string>
+    <string name="res_0x7f130012_name_removed">Бул сайттын коопсуздук сертификаты боюнча маселелер келип чыкты</string>
+    <string name="res_0x7f130013_name_removed">Артка</string>
+    <string name="res_0x7f130014_name_removed">Коопсуздук катасы</string>
+    <string name="res_0x7f130021_name_removed">Коопсуздук коду</string>
+    <string name="res_0x7f13003e_name_removed">Коопсуздук коду</string>
+    <string name="res_0x7f130045_name_removed">Ырастоо</string>
+    <string name="res_0x7f130047_name_removed">Ырастоо</string>
+    <string name="res_0x7f130049_name_removed">ОК</string>
+    <string name="res_0x7f13004a_name_removed">ОК</string>
+    <string name="res_0x7f130058_name_removed">Электрондук почта дареги</string>
+    <string name="res_0x7f130059_name_removed">Сиз көрүп жаткан вебсайт тышкы колдонмону ачууга аракет кылып жатат. Улантууну каалайсызбы?</string>
+    <string name="res_0x7f13005a_name_removed">Артка</string>
+    <string name="res_0x7f13005b_name_removed">Улантуу</string>
+    <string name="res_0x7f13005c_name_removed">Сиз биздин колдонмодон чыгып жатасыз</string>
+    <string name="res_0x7f13005d_name_removed">Бул биз чечип жаткан техникалык көйгөйдөн улам болуп жатат окшойт. Баракчаны кайра жүктөп көрүңүз.</string>
+    <string name="res_0x7f13005e_name_removed">Жаңылоо</string>
+    <string name="res_0x7f13005f_name_removed">Баракча учурда жеткиликтүү эмес</string>
+    <string name="res_0x7f130060_name_removed">Фамилияңыз</string>
+    <string name="res_0x7f130061_name_removed">Баракча жүктөлбөй жатат.</string>
+    <string name="res_0x7f130062_name_removed">...жардамы менен ачуу</string>
+    <string name="res_0x7f130063_name_removed">%1$s ачуу</string>
+    <string name="res_0x7f130064_name_removed">Кошумча параметрлер</string>
+    <string name="res_0x7f130065_name_removed">Атыңыз</string>
+    <string name="res_0x7f13006a_name_removed">Сиз азыр толук экранда көрүп жатасыз. Чыгуу үчүн солго серпиңиз же артка баскычын басыңыз.</string>
+    <string name="res_0x7f130084_name_removed">Аты-жөнү</string>
+    <string name="res_0x7f13008a_name_removed">Кечиресиз, бир жерден ката кетти.</string>
+    <string name="res_0x7f1300a0_name_removed">Почта индекси</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">.</string>
+    <string name="res_0x7f130130_name_removed">Убакыт коюу</string>
+</resources>

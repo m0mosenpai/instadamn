@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="?attr/igds_color_primary_background"/>
+            <size
+                android:height="@dimen/direct_avatar_presence_badge_size_xl"
+                android:width="@dimen/direct_avatar_presence_badge_size_xl"/>
+        </shape>
+    </item>
+    <item
+        android:left="@dimen/abc_action_bar_elevation_material"
+        android:top="@dimen/abc_action_bar_elevation_material"
+        android:right="@dimen/abc_action_bar_elevation_material"
+        android:bottom="@dimen/abc_action_bar_elevation_material">
+        <shape android:shape="oval">
+            <solid android:color="@color/presence_indicator_color"/>
+            <size
+                android:height="@dimen/direct_avatar_presence_badge_size_xl"
+                android:width="@dimen/direct_avatar_presence_badge_size_xl"/>
+        </shape>
+    </item>
+</layer-list>

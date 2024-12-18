@@ -1,0 +1,124 @@
+package X;
+
+/* renamed from: X.Rzm, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62139Rzm {
+    public static String A00(int i) {
+        switch (i) {
+            case 1248:
+                return "WEARABLE_SETTINGS_SETTINGS_APP_PERMISSIONS_PAGE_LOAD";
+            case 1532:
+                return "WEARABLE_SETTINGS_SETTINGS_NOTIFICATIONS_PAGE_LOAD";
+            case 1605:
+                return "WEARABLE_SETTINGS_SETTINGS_GALLERY_STORAGE_PAGE_LOAD";
+            case 2086:
+                return "WEARABLE_SETTINGS_SETTINGS_STORAGE_PAGE_LOAD";
+            case 2168:
+                return "WEARABLE_SETTINGS_SETTINGS_PASSCODE_PAGE_LOAD";
+            case 2365:
+                return "WEARABLE_SETTINGS_SETTINGS_FACTORY_RESET_PAGE_LOAD";
+            case 2399:
+                return "WEARABLE_SETTINGS_SETTINGS_TALKBACK_PAGE_LOAD";
+            case 2874:
+                return "WEARABLE_SETTINGS_SETTINGS_BLUETOOTH_DISCOVER_PAGE_LOAD";
+            case 3033:
+                return "WEARABLE_SETTINGS_SETTINGS_SYSTEM_UPDATES_PAGE_LOAD";
+            case 3168:
+                return "WEARABLE_SETTINGS_SETTINGS_RTT_QUICK_REPLIES_PAGE_LOAD";
+            case 3602:
+                return "WEARABLE_SETTINGS_SETTINGS_SELF_CARE_PERMISSIONS_PAGE_LOAD";
+            case 3813:
+                return "WEARABLE_SETTINGS_SETTINGS_WEA_REMINDERS_PAGE_LOAD";
+            case 3874:
+                return "WEARABLE_SETTINGS_SETTINGS_MIRRORED_APP_NOTIFICATIONS_PAGE_LOAD";
+            case 3975:
+                return "WEARABLE_SETTINGS_SETTINGS_INPUTS_PAGE_LOAD";
+            case 4181:
+                return "WEARABLE_SETTINGS_SETTINGS_RTT_PAGE_LOAD";
+            case 4364:
+                return "WEARABLE_SETTINGS_SETTINGS_SCREEN_WAKE_PAGE_LOAD";
+            case 4452:
+                return "WEARABLE_SETTINGS_SETTINGS_BATTERY_PAGE_LOAD";
+            case 5532:
+                return "WEARABLE_SETTINGS_SETTINGS_APP_ABOUT_PAGE_LOAD";
+            case 5952:
+                return "WEARABLE_SETTINGS_SETTINGS_WIFI_PAGE_LOAD";
+            case 6931:
+                return "WEARABLE_SETTINGS_SETTINGS_PRIVACY_PAGE_LOAD";
+            case 6973:
+                return "WEARABLE_SETTINGS_SETTINGS_PERMISSIONS_PAGE_LOAD";
+            case 8123:
+                return "WEARABLE_SETTINGS_SETTINGS_CMAS_WEA_PAGE_LOAD";
+            case 8234:
+                return "WEARABLE_SETTINGS_SETTINGS_WEA_MESSAGE_DETAIL_PAGE_LOAD";
+            case 8271:
+                return "WEARABLE_SETTINGS_SETTINGS_ADD_LANGUAGE_PAGE_LOAD";
+            case 8674:
+                return "WEARABLE_SETTINGS_SETTINGS_ASSISTANT_PAGE_LOAD";
+            case 8841:
+                return "WEARABLE_SETTINGS_SETTINGS_SCREENSHOTS_PAGE_LOAD";
+            case 9301:
+                return "WEARABLE_SETTINGS_SETTINGS_ASSISTANT_SCROLL_PERF";
+            case 9566:
+                return "WEARABLE_SETTINGS_SETTINGS_CAMERA_QUALITY_PAGE_LOAD";
+            case 9925:
+                return "WEARABLE_SETTINGS_APP_START";
+            case 10167:
+                return "WEARABLE_SETTINGS_SETTINGS_TALKBACK_VOICE_PAGE_LOAD";
+            case 10259:
+                return "WEARABLE_SETTINGS_SETTINGS_DEVICE_PERSONALIZATION_PAGE_LOAD";
+            case 10591:
+                return "WEARABLE_SETTINGS_SETTINGS_ACCOUNTS_PAGE_LOAD";
+            case 10990:
+                return "WEARABLE_SETTINGS_SETTINGS_BACK_UP_PAGE_LOAD";
+            case 11188:
+                return "WEARABLE_SETTINGS_WIFI_SCAN_EVENT";
+            case 11303:
+                return "WEARABLE_SETTINGS_SETTINGS_ABOUT_PAGE_LOAD";
+            case 11395:
+                return "WEARABLE_SETTINGS_SETTINGS_SOUNDS_AND_HAPTICS_PAGE_LOAD";
+            case 11718:
+                return "WEARABLE_SETTINGS_SETTINGS_LANGUAGE_PAGE_LOAD";
+            case 12031:
+                return "WEARABLE_SETTINGS_SETTINGS_APP_SETTINGS_PAGE_LOAD";
+            case 12166:
+                return "WEARABLE_SETTINGS_SETTINGS_DICTATION_PAGE_LOAD";
+            case 12787:
+                return "WEARABLE_SETTINGS_SETTINGS_SYSTEM_PAGE_LOAD";
+            case 12825:
+                return "WEARABLE_SETTINGS_SETTINGS_ABOUT_REGULATORY_PAGE_LOAD";
+            case 12952:
+                return "WEARABLE_SETTINGS_SETTINGS_WEA_HISTORY_PAGE_LOAD";
+            case 13059:
+                return "WEARABLE_SETTINGS_SETTINGS_CAMERA_GENERAL_PAGE_LOAD";
+            case 13155:
+                return "WEARABLE_SETTINGS_SETTINGS_DISPLAY_PAGE_LOAD";
+            case 13358:
+                return "WEARABLE_SETTINGS_SETTINGS_ACCESSIBILITY_PAGE_LOAD";
+            case 13544:
+                return "WEARABLE_SETTINGS_SETTINGS_LOCATION_REQUESTS_PAGE_LOAD";
+            case 13782:
+                return "WEARABLE_SETTINGS_SETTINGS_APP_NOTIFICATIONS_PAGE_LOAD";
+            case 13797:
+                return "WEARABLE_SETTINGS_SETTINGS_APPS_PAGE_LOAD";
+            case 14047:
+                return "WEARABLE_SETTINGS_SETTINGS_TALKBACK_VOLUME_PAGE_LOAD";
+            case 14343:
+                return "WEARABLE_SETTINGS_SETTINGS_LOCATION_PERMISSIONS_PAGE_LOAD";
+            case 14864:
+                return "WEARABLE_SETTINGS_SETTINGS_CONNECTIVITY_PAGE_LOAD";
+            case 14899:
+                return "WEARABLE_SETTINGS_SETTINGS_BLUETOOTH_PAGE_LOAD";
+            case 15075:
+                return "WEARABLE_SETTINGS_SETTINGS_APP_UPDATES_PAGE_LOAD";
+            case 15300:
+                return "WEARABLE_SETTINGS_SETTINGS_USAGE_DATA_PAGE_LOAD";
+            case 15346:
+                return "WEARABLE_SETTINGS_SETTINGS_CELLULAR_PAGE_LOAD";
+            case 15476:
+                return "WEARABLE_SETTINGS_SETTINGS_PASSCODE_AUTOLOCK_PAGE_LOAD";
+            default:
+                return "UNDEFINED_QPL_EVENT";
+        }
+    }
+}

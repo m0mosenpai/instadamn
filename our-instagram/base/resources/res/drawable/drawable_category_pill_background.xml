@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:state_selected="true"
+        android:state_pressed="true"
+        android:alpha="0.7">
+        <shape>
+            <solid android:color="?attr/igds_color_pill_active_background"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    <item
+        android:state_selected="false"
+        android:state_pressed="true"
+        android:alpha="0.7">
+        <shape>
+            <solid android:color="?attr/igds_color_pill_background"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    <item
+        android:state_selected="true"
+        android:state_pressed="false">
+        <shape>
+            <solid android:color="?attr/igds_color_pill_active_background"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    <item
+        android:state_selected="false"
+        android:state_pressed="false">
+        <shape>
+            <solid android:color="?attr/igds_color_pill_background"/>
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</selector>

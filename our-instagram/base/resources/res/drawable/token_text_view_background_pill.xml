@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_focused="true">
+        <shape>
+            <gradient
+                android:startColor="@color/red_5"
+                android:endColor="@color/clips_gradient_redesign_color_2"
+                android:angle="0"/>
+            <corners android:radius="100dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape>
+            <gradient
+                android:startColor="@color/badge_color"
+                android:endColor="@color/cyan_5"
+                android:angle="0"/>
+            <corners android:radius="100dp"/>
+        </shape>
+    </item>
+</selector>

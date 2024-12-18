@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size
+                android:height="@dimen/ai_sticker_creation_suggested_prompt_pill_height"
+                android:width="@dimen/container_height"/>
+            <corners android:radius="@dimen/ab_test_media_thumbnail_preview_item_internal_padding"/>
+        </shape>
+    </item>
+    <item
+        android:height="@dimen/abc_select_dialog_padding_start_material"
+        android:width="@dimen/abc_select_dialog_padding_start_material"
+        android:drawable="@drawable/instagram_search_meta_ai_send_icon_disabled__app_bitmap_0"
+        android:left="@dimen/achievements_only_you_bottom_margin"
+        android:top="@dimen/abc_button_padding_horizontal_material"
+        android:right="@dimen/achievements_only_you_bottom_margin"
+        android:bottom="@dimen/abc_button_inset_vertical_material"/>
+</layer-list>

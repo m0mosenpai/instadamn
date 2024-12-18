@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="cutout_sticker_merchandising_assets_checkerboard_grid">R||AQABDm37ej7x|48|48|160</drawable>
+    <drawable name="empty_story_badge_elevated">r/rn.webp</drawable>
+    <drawable name="empty_story_badge_large_elevated">r/ro.webp</drawable>
+    <drawable name="ig_gif_notes_gif_notes_nux">R||AQAB6udJIW4X|496|496|160</drawable>
+    <drawable name="ig_gif_notes_gif_notes_nux_pog">R||AQAEg7GdCaC5|496|496|160</drawable>
+    <drawable name="instagram_icons_exceptions_gift_card_pano_gradient_outline_24">r/rr.webp</drawable>
+    <drawable name="qs_promo_qspromofeedintro">r/rs.xml</drawable>
+    <drawable name="qs_promo_qspromofeedoutro">r/rt.xml</drawable>
+</resources>

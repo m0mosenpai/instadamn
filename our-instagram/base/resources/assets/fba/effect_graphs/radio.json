@@ -1,0 +1,151 @@
+{
+  "graph": {
+    "sample_rate": 48000.0,
+    "frame_size": 512
+  },
+  "nodes": [
+    {
+      "name": "Core Processor Node",
+      "label": "Input",
+      "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+      "num_inputs": 1,
+      "num_outputs": 1,
+      "num_channels": 0,
+      "params": [],
+      "ports": [
+        "d2c613c09a3a42fa9defea777dceef84"
+      ],
+      "user_size": 0,
+      "state": {
+        "memory": 0
+      }
+    },
+    {
+      "name": "Bit Crusher (AudioFilterCore)",
+      "label": "Bit Crusher",
+      "uuid": "472947f683e54dcc93a8b4ce8aeae5e9",
+      "num_inputs": 1,
+      "num_outputs": 1,
+      "params": [
+        0.0,
+        50.0,
+        8000.0,
+        8.0
+      ],
+      "ports": [
+        "d2c613c09a3a42fa9defea777dceef84"
+      ],
+      "user_size": 72,
+      "state": {
+        "channels": 2
+      }
+    },
+    {
+      "name": "Parametric Equalizer 2 (AudioFilterCore)",
+      "label": "EQ New",
+      "uuid": "ca667a5ab7d645d58a11205f3d6c3987",
+      "num_inputs": 1,
+      "num_outputs": 1,
+      "params": [
+        1.0,
+        1000.0,
+        0.2000000029802322,
+        -24.0,
+        0.0,
+        200.0,
+        0.02500000037252903,
+        0.0,
+        0.0,
+        800.0,
+        0.7071067690849304,
+        0.0,
+        0.0,
+        3200.0,
+        0.7071067690849304,
+        0.0,
+        0.0,
+        12800.0,
+        0.7071067690849304,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ports": [
+        "d2c613c09a3a42fa9defea777dceef84"
+      ],
+      "user_size": 72,
+      "state": {
+        "channels": 2
+      }
+    },
+    {
+      "name": "Parametric Equalizer 2 (AudioFilterCore)",
+      "label": "EQ",
+      "uuid": "ca667a5ab7d645d58a11205f3d6c3987",
+      "num_inputs": 1,
+      "num_outputs": 1,
+      "params": [
+        6.0,
+        1000.0,
+        12.0,
+        0.0,
+        5.0,
+        1500.0,
+        0.6399999856948853,
+        0.0,
+        4.0,
+        2500.0,
+        0.6399999856948853,
+        0.0,
+        5.0,
+        1500.0,
+        0.6399999856948853,
+        0.0,
+        4.0,
+        2500.0,
+        0.6399999856948853,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "ports": [
+        "d2c613c09a3a42fa9defea777dceef84"
+      ],
+      "user_size": 72,
+      "state": {
+        "channels": 2
+      }
+    },
+    {
+      "name": "Core Processor Node",
+      "label": "Output",
+      "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+      "num_inputs": 1,
+      "num_outputs": 1,
+      "num_channels": 0,
+      "params": [],
+      "ports": [
+        "d2c613c09a3a42fa9defea777dceef84"
+      ],
+      "user_size": 0,
+      "state": {
+        "memory": 0
+      }
+    }
+  ],
+  "edges": [
+    [
+      1
+    ],
+    [
+      2
+    ],
+    [
+      3
+    ],
+    [
+      4
+    ],
+    []
+  ]
+}

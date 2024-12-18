@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/gradient_background">
+        <shape android:shape="oval">
+            <stroke
+                android:width="2dp"
+                android:color="@color/igds_icon_on_color"/>
+            <gradient
+                android:startColor="@color/igds_gradient_yellow"
+                android:endColor="@color/igds_creation_tools_purple"
+                android:angle="45"
+                android:centerColor="@color/igds_gradient_red"/>
+        </shape>
+    </item>
+    <item
+        android:id="@+id/instagram_calendar_filled"
+        android:drawable="@drawable/upcoming_event_sticker_list_item_avatar__app_bitmap_0"
+        android:left="@dimen/account_discovery_bottom_gap"
+        android:top="@dimen/account_discovery_bottom_gap"
+        android:right="@dimen/account_discovery_bottom_gap"
+        android:bottom="@dimen/account_discovery_bottom_gap"/>
+</layer-list>

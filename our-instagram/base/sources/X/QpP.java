@@ -1,0 +1,18 @@
+package X;
+
+/* loaded from: classes10.dex */
+public final class QpP extends C2JS implements C2JT {
+    @Override // X.C2JS
+    public final C4OU modelSelectionSet() {
+        C94754Oe c94754Oe = C94754Oe.A00;
+        return AbstractC167017dG.A0Y(c94754Oe, AbstractC58321PtD.A0U(c94754Oe), "profile_uri");
+    }
+
+    public QpP(int i) {
+        super(i);
+    }
+
+    public QpP() {
+        super(-1223948132);
+    }
+}

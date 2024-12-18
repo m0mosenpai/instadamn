@@ -1,0 +1,22 @@
+package com.facebook.graphql.enums;
+
+import X.AbstractC16830sb;
+import X.AbstractC31175DnJ;
+import com.facebook.catalyst.modules.netinfo.NetInfoModule;
+import java.util.HashSet;
+import java.util.Set;
+
+/* loaded from: classes6.dex */
+public final class GraphQLMarketplaceThreadviewItemBannerCtaTypeSet {
+    public static final HashSet A00;
+
+    static {
+        String[] strArr = new String[48];
+        System.arraycopy(new String[]{NetInfoModule.CONNECTION_TYPE_NONE_DEPRECATED, "RATE_BUYER", "RATE_SELLER", "REPORT_BUYER", "REPORT_PRO", "REPORT_SELLER", "REQUEST_BUYER_RATING", "REQUEST_LOCAL_DELIVERY", "REQUEST_PAYMENT", "SAVED_REPLIES", "SEE_DETAILS", "SEE_DETAILS_GROUP", "SEND_PAYMENT", "SHIPPED_MAKE_OFFER", "SHOW_SAFETY_TIPS", "SHOW_TRANSACTION_SURVEY", "TEST_DRIVE_HOME_TOUR", "TOGGLE_FOLLOW_SELLER", "UNIVERSAL_ORDER_TRACKER", "VIEW_PROFILE", "VIEW_SIMILAR_ITEMS"}, AbstractC31175DnJ.A1b(new String[]{"BUYER_INITIATED_PAYMENT", "CHANGE_AVAILABILITY", "CHANGE_AVAILABILITY_AND_RATE", "CHANGE_AVAILABILITY_AND_SHOW_SELECT_BUYER", "CHANGE_AVAILABILITY_AND_SHOW_TRANSACTION_SURVEY", "CHANGE_RATING", "CHECKOUT", "CONTINUE_ON_WHATSAPP", "CREATE_DISCOUNT", "CREATE_INVOICE", "CREATE_MEETING_PLAN", "CREATE_NEW_ITEM", "FIND_SIMILAR", "FOLLOW_SELLER", "GET_DELIVERY", "LABEL_CHAT", "MAKE_OFFER", "MARK_AS_AVAILABLE", "MARK_AS_PAID", "MARK_AS_PENDING", "MARK_AS_SHIPPED", "MARK_AS_SOLD", "MARK_AS_SOLD_GROUP", "MEETING_PLAN", "MEETING_PLAN_SAFETY_HUB", "MESSAGE_SETTINGS", "MORE_OPTIONS"}, strArr) ? 1 : 0, strArr, 27, 21);
+        A00 = AbstractC16830sb.A05(strArr);
+    }
+
+    public static final Set getSet() {
+        return A00;
+    }
+}

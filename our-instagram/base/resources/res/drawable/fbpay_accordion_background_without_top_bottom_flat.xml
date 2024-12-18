@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="0dp"
+        android:top="@dimen/annotation_cluster_name_plate_padding_top"
+        android:right="0dp"
+        android:bottom="0dp">
+        <shape>
+            <padding
+                android:top="@dimen/abc_button_inset_vertical_material"
+                android:bottom="@dimen/abc_button_inset_vertical_material"/>
+        </shape>
+    </item>
+</layer-list>

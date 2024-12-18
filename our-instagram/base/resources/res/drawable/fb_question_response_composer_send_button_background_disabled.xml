@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <solid android:color="@color/question_response_composer_send_button_pressed"/>
+    <corners
+        android:bottomLeftRadius="@dimen/abc_edit_text_inset_top_material"
+        android:bottomRightRadius="@dimen/abc_edit_text_inset_top_material"/>
+</shape>

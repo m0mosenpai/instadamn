@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="@dimen/abc_button_padding_horizontal_material"/>
+            <stroke
+                android:width="2dp"
+                android:color="?attr/igds_color_secondary_button_pressed_panavision"
+                android:dashWidth="6dp"
+                android:dashGap="6dp"/>
+            <solid android:color="@android:color/transparent"/>
+        </shape>
+    </item>
+</layer-list>

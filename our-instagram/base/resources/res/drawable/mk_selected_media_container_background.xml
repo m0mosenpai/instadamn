@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <gradient
+        android:startColor="@color/direct_widget_primary_background"
+        android:endColor="@color/mk_selected_media_container_end_gradient"
+        android:angle="0"
+        android:centerColor="@color/mk_selected_media_container_end_gradient"/>
+</shape>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <stroke
+        android:width="@dimen/ads_disclosure_footer_top_divider_height"
+        android:color="?attr/igds_color_secondary_icon"
+        android:dashWidth="@dimen/abc_control_corner_material"
+        android:dashGap="@dimen/abc_control_corner_material"/>
+    <corners android:radius="@dimen/abc_control_corner_material"/>
+</shape>

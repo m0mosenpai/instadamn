@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="oval">
+            <size
+                android:height="40dp"
+                android:width="40dp"/>
+            <solid android:color="?attr/igds_color_secondary_media_button_onblack_panavision_updated"/>
+        </shape>
+    </item>
+    <item
+        android:height="24dp"
+        android:width="24dp"
+        android:drawable="@drawable/reel_selfie_reply_button_drawable__app_bitmap_0"
+        android:left="12dp"
+        android:top="12dp"
+        android:right="12dp"
+        android:bottom="12dp"/>
+</layer-list>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_pill_active_background"/>
+            <corners android:radius="@dimen/abc_select_dialog_padding_start_material"/>
+        </shape>
+    </item>
+    <item android:state_selected="false">
+        <shape android:shape="rectangle">
+            <solid android:color="?attr/igds_color_pill_background"/>
+            <corners android:radius="@dimen/abc_select_dialog_padding_start_material"/>
+        </shape>
+    </item>
+</selector>

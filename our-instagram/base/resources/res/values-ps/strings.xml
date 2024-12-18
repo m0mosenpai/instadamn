@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">ایالت</string>
+    <string name="res_0x7f130004_name_removed">پته</string>
+    <string name="res_0x7f13000b_name_removed">براوزر بند کړئ</string>
+    <string name="res_0x7f13000c_name_removed">%1$s غواړي ستاسو د وسیلې کیمره وکاروي.</string>
+    <string name="res_0x7f13000d_name_removed">%1$s غواړي چې ستاسې د وسيلې موقعيت وکاروي.</string>
+    <string name="res_0x7f13000f_name_removed">اجازه ورکړئ</string>
+    <string name="res_0x7f130010_name_removed">بلاک کول</string>
+    <string name="res_0x7f130013_name_removed">شاته تګ</string>
+    <string name="res_0x7f130022_name_removed">د کارت شمیره</string>
+    <string name="res_0x7f13003f_name_removed">د کارت شمیره</string>
+    <string name="res_0x7f130045_name_removed">تائید</string>
+    <string name="res_0x7f130047_name_removed">تائید</string>
+    <string name="res_0x7f130049_name_removed">او کۍ</string>
+    <string name="res_0x7f13004a_name_removed">او کۍ</string>
+    <string name="res_0x7f130058_name_removed">بريښنالیک</string>
+    <string name="res_0x7f130059_name_removed">هغه ویب پاڼه چې تاسو یې ګورئ د بهرنۍ اپلیکیشن د پرانستلو هڅه کوي. ایا تاسو غواړئ چې دوام ورکړئ؟</string>
+    <string name="res_0x7f13005a_name_removed">شاته وګرځئ</string>
+    <string name="res_0x7f13005b_name_removed">ادامه ورکړئ</string>
+    <string name="res_0x7f13005c_name_removed">تاسو زموږ اپلیکیشن پریږدئ</string>
+    <string name="res_0x7f13005d_name_removed">دا ممکن د هغې تخنیکي تېروتنې له امله وي، چې موږ یې د حلولو په لټه کې یو. د دې پاڼې د بیا پرانیستلو هڅه وکړئ.</string>
+    <string name="res_0x7f13005e_name_removed">تازه یې کړئ</string>
+    <string name="res_0x7f13005f_name_removed">پاڼه اوس مهال د لاسرسي وړ نه ده</string>
+    <string name="res_0x7f130060_name_removed">وروستی نوم</string>
+    <string name="res_0x7f130061_name_removed">پاڼه نه شي لوډ کیدلی</string>
+    <string name="res_0x7f130062_name_removed">له ... سره یې پرانیزئ</string>
+    <string name="res_0x7f130063_name_removed">په %1$s کې یې پرانیزئ</string>
+    <string name="res_0x7f130064_name_removed">نور اختيارونه</string>
+    <string name="res_0x7f130065_name_removed">لومړی نوم</string>
+    <string name="res_0x7f13006a_name_removed">تاسو اوس بشپړه سکرین ګورئ. د وتلو لپاره کڼ اړخ ته کش ورکړئ یا د شاته تڼۍ ته فشار ورکړئ.</string>
+    <string name="res_0x7f130084_name_removed">نوم</string>
+    <string name="res_0x7f13008a_name_removed">بخښه غواړو څه ستونزه پیدا شوه</string>
+    <string name="res_0x7f13012a_name_removed">ټیلیفون</string>
+</resources>

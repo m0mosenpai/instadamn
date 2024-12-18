@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:height="@dimen/clips_grid_page_thumbnail_height_vertical"
+        android:width="@dimen/avatar_reel_ring_size_xxxxlarge">
+        <shape android:shape="rectangle">
+            <stroke
+                android:width="1dp"
+                android:color="?attr/igds_color_stroke"/>
+            <corners android:radius="@dimen/account_discovery_bottom_gap"/>
+        </shape>
+    </item>
+    <item
+        android:gravity="center"
+        android:id="@+id/instagram_text_page_pano_icon_drawable"
+        android:drawable="@drawable/instagram_text_pano_outline_24"/>
+</layer-list>

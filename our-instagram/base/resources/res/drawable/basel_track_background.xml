@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@color/track_background_color"
+    android:insetTop="2dp"
+    android:insetBottom="2dp"/>

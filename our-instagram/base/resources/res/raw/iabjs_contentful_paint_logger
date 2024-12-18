@@ -1,0 +1,67 @@
+/**
+ * (c) Meta Platforms, Inc. and affiliates. Confidential and proprietary.
+ */
+
+(function () {
+  var measureFirstContentfulPaint = function () {
+    try {
+      if (
+        typeof performance === 'object' &&
+        typeof PerformanceObserver === 'function'
+      ) {
+        const observer = new PerformanceObserver(entryList => {
+          for (const entry of entryList.getEntriesByName(
+            'first-contentful-paint',
+          )) {
+            const timing = window.performance.timing;
+            const firstContentfulPaintTime =
+            timing.navigationStart + Math.round(entry.startTime);
+
+            console.log(
+              'FBNavFirstContentfulPaint:' + firstContentfulPaintTime,
+              );
+            if (window.webkit && window.webkit.messageHandlers && window.webkit.messageHandlers.ContentfulPaintLogger) {
+              window.webkit.messageHandlers.ContentfulPaintLogger.postMessage({fcp: firstContentfulPaintTime});
+            }
+            observer.disconnect();
+            break;
+          }
+        });
+        observer.observe({type: 'paint', buffered: true});
+      }
+    } catch (err) {
+      console.log('navigation_timing_logger_error:' + err.message);
+    }
+  };
+
+  var measureLargestContentfulPaint = function () {
+    try {
+      if (
+        typeof performance === 'object' &&
+        typeof PerformanceObserver === 'function'
+      ) {
+        const observer = new PerformanceObserver(entryList => {
+          for (const entry of entryList.getEntries()) {
+            const timing = window.performance.timing;
+            const paintTime =
+              timing.navigationStart + Math.round(entry.startTime);
+
+            console.log(
+              'FBNavLargestContentfulPaint:' + paintTime,
+              );
+          }
+        });
+
+        window.onbeforeunload = function () {
+          observer.disconnect();
+        };
+
+        observer.observe({type: 'largest-contentful-paint', buffered: true});
+      }
+    } catch (err) {
+      console.log('navigation_timing_logger_error:' + err.message);
+    }
+  };
+  measureFirstContentfulPaint();
+  measureLargestContentfulPaint();
+})()

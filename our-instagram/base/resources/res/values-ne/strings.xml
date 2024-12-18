@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="res_0x7f130002_name_removed">राज्य</string>
+    <string name="res_0x7f130003_name_removed">शहर</string>
+    <string name="res_0x7f130004_name_removed">ठेगाना</string>
+    <string name="res_0x7f13000b_name_removed">ब्राउजर बन्द गर्नुहोस्</string>
+    <string name="res_0x7f13000d_name_removed">%1$sले तपाईंको यन्त्रको स्थान प्रयोग गर्न चाहन्छ।</string>
+    <string name="res_0x7f13000e_name_removed">सबै मिडियालाई फाइल छनोटकर्ता प्रयोग गर्न अनुमति दिनुहोस्</string>
+    <string name="res_0x7f13000f_name_removed">अनुमति दिनुहोस्</string>
+    <string name="res_0x7f130010_name_removed">ब्लक गर्नुहोस्</string>
+    <string name="res_0x7f130011_name_removed">ब्राउजर सानो बनाउनुहोस्</string>
+    <string name="res_0x7f130012_name_removed">यस साइटको सुरक्षा प्रमाणपत्रमा समस्या छ</string>
+    <string name="res_0x7f130013_name_removed">पछाडि जानुहोस्</string>
+    <string name="res_0x7f130014_name_removed">सुरक्षा त्रुटि</string>
+    <string name="res_0x7f130021_name_removed">सुरक्षा कोड</string>
+    <string name="res_0x7f130022_name_removed">कार्ड नम्बर</string>
+    <string name="res_0x7f13003d_name_removed">कार्ड विवरणहरू पुष्टि गर्नुहोस्</string>
+    <string name="res_0x7f13003e_name_removed">सुरक्षा कोड</string>
+    <string name="res_0x7f13003f_name_removed">कार्ड नम्बर</string>
+    <string name="res_0x7f130044_name_removed">कार्ड विवरणहरू पुष्टि गर्नुहोस्</string>
+    <string name="res_0x7f130045_name_removed">यकिन गर्नुहोस्</string>
+    <string name="res_0x7f130047_name_removed">यकिन गर्नुहोस्</string>
+    <string name="res_0x7f130059_name_removed">तपाईँले हेरिरहनुभएको वेबसाइट बाह्य एप खोल्ने प्रयास गर्दै छ। तपाईँ जारी राख्न चाहनुहुन्छ?</string>
+    <string name="res_0x7f13005a_name_removed">पछाडि जानुहोस्</string>
+    <string name="res_0x7f13005b_name_removed">जारी राख्नुहोस्</string>
+    <string name="res_0x7f13005c_name_removed">तपाईँ हाम्रो एप छोड्दै हुनुहुन्छ</string>
+    <string name="res_0x7f13005d_name_removed">यो हामी ठीक गर्नका लागि काम गरिरहेको प्राविधिक त्रुटिका कारण भएको हुन सक्छ। यो पेजलाई रिलोड गरेर हेर्नुहोस्।</string>
+    <string name="res_0x7f13005e_name_removed">रिफ्रेस गर्नुहोस्</string>
+    <string name="res_0x7f13005f_name_removed">पेज अहिले उपलब्ध छैन</string>
+    <string name="res_0x7f130060_name_removed">थर</string>
+    <string name="res_0x7f130061_name_removed">पृ्ष्ठ लोड हुन सक्दैन</string>
+    <string name="res_0x7f130062_name_removed">यससँग खोल्नुहोस् ...</string>
+    <string name="res_0x7f130063_name_removed">%1$s मा खोल्नुहोस्</string>
+    <string name="res_0x7f130064_name_removed">थप विकल्पहरू</string>
+    <string name="res_0x7f130065_name_removed">पहिलो नाम</string>
+    <string name="res_0x7f13006a_name_removed">तपाईँ अहिले पूरा स्क्रिन हेर्दै हुनुहुन्छ। बाहिर निस्कनका लागि बायाँ स्वाइप गर्नुहोस् वा पछाडि जानुहोस् भन्ने बटन ट्याप गर्नुहोस्।</string>
+    <string name="res_0x7f130084_name_removed">नाम</string>
+    <string name="res_0x7f13008a_name_removed">माफ गर्नुहोस्, केही गलत भयो।</string>
+    <string name="res_0x7f13008c_name_removed">म्याद सकिने मिति</string>
+    <string name="res_0x7f1300a0_name_removed">जिप कोड</string>
+    <string name="res_0x7f13012d_name_removed">:</string>
+    <string name="res_0x7f13012e_name_removed">:</string>
+    <string name="res_0x7f13012f_name_removed">।</string>
+    <string name="res_0x7f130130_name_removed">समय सेट गर्नुहोस्</string>
+</resources>

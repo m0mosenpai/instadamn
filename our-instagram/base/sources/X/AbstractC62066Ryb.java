@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Ryb, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC62066Ryb {
+    public static String A00(int i) {
+        return i != 1 ? i != 2 ? i != 3 ? i != 4 ? i != 5 ? i != 7 ? i != 10 ? i != 12 ? i != 29 ? i != 31 ? i != 15 ? i != 16 ? i != 21 ? i != 22 ? "UNDEFINED_QPL_EVENT" : "REACT_NATIVE_TTI_NEO_PROFILE_TTI" : "REACT_NATIVE_TTI_JOBS_SAVED_FOR_LATER_TTI" : "REACT_NATIVE_TTI_PRIVACY_AYI_TTI" : "REACT_NATIVE_TTI_EDIT_PROFILE_TTI" : "REACT_NATIVE_TTI_PRIVACY_SHORTCUTS_TTI" : "REACT_NATIVE_TTI_TIME_IN_APP_TTI" : "REACT_NATIVE_TTI_JOBS_COMPOSER_TTI" : "REACT_NATIVE_TTI_JOBS_JOB_OPENING_DETAIL_VIEW_TTI" : "REACT_NATIVE_TTI_JOBS_JOB_BROWSER_TTI" : "REACT_NATIVE_TTI_ADS_PAYMENTS_TTI" : "REACT_NATIVE_TTI_SIREN_ITEM_TTI" : "REACT_NATIVE_TTI_SIREN_LIST_TTI" : "REACT_NATIVE_TTI_DEFAULT_TTI" : "REACT_NATIVE_TTI_CRISIS_TTI";
+    }
+}

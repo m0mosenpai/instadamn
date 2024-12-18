@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+            <solid android:color="@color/grey_2"/>
+            <corners android:radius="@dimen/abc_action_bar_elevation_material"/>
+        </shape>
+    </item>
+</selector>

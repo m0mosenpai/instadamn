@@ -1,0 +1,9 @@
+package X;
+
+/* renamed from: X.Rvt, reason: case insensitive filesystem */
+/* loaded from: classes10.dex */
+public abstract class AbstractC61921Rvt {
+    public static String A00(int i) {
+        return i != 1409 ? i != 2821 ? i != 3480 ? i != 4498 ? i != 4981 ? i != 5386 ? i != 5427 ? i != 11147 ? i != 11847 ? i != 14710 ? "UNDEFINED_QPL_EVENT" : "FX_DDRU_DND_SUBMIT" : "FX_DDRU_DND_DELETION_LEARN_MORE_SCREEN_LOAD" : "FX_DDRU_DND_BULK_SUBMIT" : "FX_DDRU_DND_INACTIVATION_HELP_SCREEN_LOAD" : "FX_DDRU_DND_FB_ORPHAN_PROFILES_SCREEN_LOAD" : "FX_DDRU_DND_INACTIVATION_REASONS_SCREEN_LOAD" : "FX_DDRU_DND_DELETION_OR_DEACTIVATION_SCREEN_LOAD" : "FX_DDRU_DND_INACTIVATION_CONFIRMATION_SCREEN_LOAD" : "FX_DDRU_DND_REAUTH_SCREEN_LOAD" : "FX_DDRU_DND_IDENTITY_SELECTION_SCREEN_LOAD";
+    }
+}

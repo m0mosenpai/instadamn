@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:left="-2dp"
+        android:top="-2dp"
+        android:right="-2dp">
+        <shape>
+            <solid android:color="?attr/igds_color_elevated_background"/>
+            <stroke
+                android:width="@dimen/action_sheet_divider_margin_top"
+                android:color="?attr/igds_color_elevated_separator"/>
+        </shape>
+    </item>
+</layer-list>

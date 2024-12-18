@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:useLevel="false"
+    android:innerRadius="@dimen/ai_sticker_creation_suggested_prompt_pill_height"
+    android:thickness="@dimen/account_recs_header_image_margin">
+    <solid android:color="@android:color/white"/>
+</shape>

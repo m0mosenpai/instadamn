@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app-kf-network xmlns:android="http://schemas.android.com/apk/res/android" xmlns:kf="http://schemas.android.com/apk/res-auto"
+    kf:asset="civic_engagement_constituent_nux_ig_qp_ballot_box_animation_v2"
+    kf:kf_height="589"
+    kf:kf_width="589"
+    kf:set="civic_engagement_constituent_nux"
+    kf:uri="https://lookaside.facebook.com/ras/v2/?id=AQADniDlElJC"/>

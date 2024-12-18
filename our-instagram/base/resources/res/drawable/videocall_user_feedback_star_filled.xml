@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:inset="2dp">
+    <bitmap
+        android:src="@drawable/instagram_star_pano_filled_32"
+        android:tint="@color/audio_bar_action_color_enabled"/>
+</inset>

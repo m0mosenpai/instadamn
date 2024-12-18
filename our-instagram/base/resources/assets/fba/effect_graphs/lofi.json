@@ -1,0 +1,371 @@
+{
+    "graph": {
+        "sample_rate": 44100,
+        "frame_size": 256
+    },
+    "nodes": [
+        {
+            "name": "Bit Crusher (AudioFilterCore)",
+            "label": "Bitcrusher",
+            "uuid": "472947f683e54dcc93a8b4ce8aeae5e9",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                0,
+                30,
+                7110,
+                8
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Parametric Equalizer (AudioFilterCore)",
+            "label": "EQ1",
+            "uuid": "58d9e11dc5d3449d93ed8db2acbbaf8d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                0,
+                0,
+                -5.686399936676025,
+                0,
+                1800,
+                3,
+                -6,
+                0.5,
+                650,
+                1,
+                -24,
+                0.23639999330043793,
+                100,
+                2
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Parametric Equalizer (AudioFilterCore)",
+            "label": "EQ2",
+            "uuid": "58d9e11dc5d3449d93ed8db2acbbaf8d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                0,
+                0,
+                -3,
+                1,
+                1500,
+                1,
+                6.920499801635742,
+                0.9090999960899352,
+                800,
+                1,
+                -12,
+                0.7727000117301941,
+                550,
+                1
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Distortion (AudioFilterCore)",
+            "label": "Distortion",
+            "uuid": "50853ff7b9104b70a3e1edd2ff94706e",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                0,
+                -9,
+                -0.6545000076293945,
+                20
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Parametric Equalizer (AudioFilterCore)",
+            "label": "EQ3",
+            "uuid": "58d9e11dc5d3449d93ed8db2acbbaf8d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                0,
+                10.029500007629396,
+                -24,
+                0.9182000160217284,
+                7272.7275390625,
+                3,
+                3,
+                0.5,
+                1300,
+                1,
+                -6.129499912261963,
+                0.3091000020503998,
+                150,
+                1
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Low Pass Filter Node",
+            "label": "LowPass",
+            "uuid": "473c581ff5084d1c8c5a474ae9ff4a9e",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                3600,
+                0.3269999921321869,
+                0,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84",
+                "0d58fe2e75ec46d5a75ca8be0822073c"
+            ],
+            "user_size": 88,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "High Pass Filter Node",
+            "label": "HiPass",
+            "uuid": "1266b037f70d45bdba3d6c68d8b3595d",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                200,
+                1.2340999841690063,
+                0,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84",
+                "0d58fe2e75ec46d5a75ca8be0822073c"
+            ],
+            "user_size": 88,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Core Processor Node",
+            "label": "Output",
+            "uuid": "236a8194e1a74d95b9f9a7b44d25e548",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state": {
+                "memory": 0
+            }
+        },
+        {
+            "name": "Compressor (AudioFilterCore)",
+            "label": "comp",
+            "uuid": "f9aba62ab9074bf4902c84af885ca532",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                -17,
+                5,
+                200,
+                0,
+                0,
+                0,
+                6,
+                24,
+                0,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Notch Filter Node",
+            "label": "notch",
+            "uuid": "07612f843b92491f8061a055f1b95d1f",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                7909.0908203125,
+                0.5611000061035156,
+                0,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84",
+                "0d58fe2e75ec46d5a75ca8be0822073c"
+            ],
+            "user_size": 88,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Compressor (AudioFilterCore)",
+            "label": "comp2",
+            "uuid": "f9aba62ab9074bf4902c84af885ca532",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                -12,
+                5,
+                200,
+                0,
+                0,
+                0,
+                6,
+                24,
+                0,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 64,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Parametric Equalizer Node (Multichannel)",
+            "label": "EQ",
+            "uuid": "1c414ade62b7448e80be7707e2c3dbe7",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [
+                2,
+                200,
+                0.9090999960899352,
+                -30,
+                0,
+                1,
+                1000,
+                2,
+                15.51990032196045,
+                0,
+                1,
+                500,
+                1.90339994430542,
+                -8,
+                0,
+                1,
+                4000,
+                0,
+                0,
+                1,
+                1,
+                16000,
+                0,
+                0,
+                1,
+                0,
+                0
+            ],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84",
+                "0d58fe2e75ec46d5a75ca8be0822073c"
+            ],
+            "user_size": 640,
+            "state": {
+                "channels": 2
+            }
+        },
+        {
+            "name": "Mono To Stereo",
+            "label": "Input",
+            "uuid": "fc61039bc3ef4cbeb4dc462b93909d76",
+            "num_inputs": 1,
+            "num_outputs": 1,
+            "params": [],
+            "ports": [
+                "d2c613c09a3a42fa9defea777dceef84"
+            ],
+            "user_size": 0,
+            "state": {
+                "channels": 2
+            }
+        }
+    ],
+    "edges": [
+        [
+            1
+        ],
+        [
+            2
+        ],
+        [
+            3
+        ],
+        [
+            4
+        ],
+        [
+            5
+        ],
+        [
+            6
+        ],
+        [
+            9
+        ],
+        [],
+        [
+            0
+        ],
+        [
+            10
+        ],
+        [
+            11
+        ],
+        [
+            7
+        ],
+        [
+            8
+        ]
+    ]
+}
