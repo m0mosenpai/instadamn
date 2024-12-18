@@ -1,8 +1,6 @@
 # instagram-re
 
-(extremely basic instructions, to be improved...)
-
-# Rooting
+## Rooting
 
 [Reference](https://xdaforums.com/t/guide-december-6-2023-root-pixel-5-unlock-bootloader-pass-safetynet-both-slots-bootable-more.4187609/)
 1. Unlock the Bootloader (System -> Advanced -> Developer Settings -> Enable OEM Unlock and USB Debugging)
@@ -28,7 +26,7 @@
 21. Go back -> Tap Profile Icon -> Settings -> General Menu -> Developer Options -> Check Integrity
 22. If it shows "Basic Integrity" or "Device Integrity", then all is good!
 
-# Set-up
+## Set-up
 
 1. On client computer, install `adb` and Frida CLI tools
 2. Connect client computer to phone. Ensure phone `USB Debugging` is on
@@ -39,17 +37,13 @@
 4. Check if frida connection is successful:
     - On client (outside of adb shell):`frida-ps -U`
     - Open Chrome on device and run: `frida-trace -U -i open -N com.android.chrome`
-
-
 ---
 ---
 
 &nbsp;
 
-# Static Analysis
-
-## Decompiling/Deobfuscating the apk
-
+## Static Analysis
+### Decompiling/Deobfuscating the apk
 
 jadx base-354_2_0_47_100.apk (latest version 11-29)
 
@@ -111,7 +105,6 @@ Detects jailbroken-ness in the exact same way that (A) does.
 If any of the conditions occur, it adds the KV pair {"jail_broken": "yes"/"no"} to the C0FA object, which is a glorified hashmap of errors to the best of my knowledge. When conditions 2 or 3 occur, it logs the error at `AbstractC22400md.A00().DEs(...)`  
 I believe this feeds
 
-
 #### (C) Class `C67222Tdh` (actual name = `X.Tdh`)
 
 Lines 132-146 289-290, in class constructor
@@ -144,9 +137,6 @@ Line 92. I believe this sets up some kind of dev environment. It checks for `'te
 > We should try to instrument the above classes, as well as the classes in `com.instagram.security.attestation.playintegrity` to see if they're called when we use the application. We could also try to dump `android.os.Build.TAGS` and `android.os.Build.TYPE`.
 >
 > #### If so, does this change any of the activity?
->
-> No idea. This probably is going off-topic
-> 
 
 &nbsp;
 
@@ -156,7 +146,6 @@ Line 92. I believe this sets up some kind of dev environment. It checks for `'te
 
 ## Concept Scores
 
-
 This [Miro Board](https://miro.com/app/board/uXjVL-l3MYQ=/?share_link_id=480922910927) has a diagram of one set of classes that seems to both have to do with the MediaScanner classes and the SceneUnderstandingModel that dumps some concept scores into a SQLite Database.
 The classes we should instrument and dump here are:
 - `X.Mrz` (in src code, `C54969Mrz`)
@@ -165,7 +154,6 @@ The classes we should instrument and dump here are:
     - "SceneUnderstandingScanner" which actually processes everything
 - `X.Njn` (`C56920Njn`)
     - Similar to above, except "VideoSceneUnderstandingScanner"
-
 
 #### Classes that contain the string 'concept' somewhere:
 
@@ -192,12 +180,6 @@ The classes we should instrument and dump here are:
 - `X.ENM` 
     - some massive, crazy video processing code processing concepts and concept scores. ** Similar to X.4Ov, high priority to instrument**
 
-
-> [!NOTE]
-> It seems like there's a difference between the SceneUnderstanding (SU) model and the SceneRecognizer (SR) model?
->
-
-
 #### Classes that contain 'xray' somewhere
 
 - `com.facebook.cameracore.ardelivery.model.VersionedCapability` // this is used everywhere so think about commenting this out
@@ -218,7 +200,6 @@ The classes we should instrument and dump here are:
 - `X.GOH` // ^
 
 
-
 #### Other Relevant Classes???
 - `X.AIR`
     - 'AiInputBitmap' class equivalent to Jack's X.EAY symbol
@@ -226,7 +207,6 @@ The classes we should instrument and dump here are:
     - glorified vector that has a curious hashmap (could this store our scores???) as member A00. Used in many of the above
 - `SegmentAnythingOnDeviceProcessorV2`
     - this is some sort of clip processing module (uses/calls an ML model too?) that Jack's symbols utilize
-
 
 ---
 ---
@@ -249,7 +229,5 @@ frida -U -n com.instagram.android -s dump_functions.js
 # BONUS: instrument functions that might contain root detection
 frida -U -n com.instagram.android -s dump_root_detection_functions.js
 ```
-
-note> I haven't tested it and it may need editing
 
 
