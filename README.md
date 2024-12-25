@@ -1,4 +1,5 @@
 # instadamn
+Work done as part of a Research Project @UW-Madison
 
 ## Rooting
 
@@ -224,10 +225,9 @@ method name, timestamp, the arguments passed to the method, and the return value
 
 ```
 frida -U -n com.instagram.android -s dump_functions.js
-
-
-# BONUS: instrument functions that might contain root detection
 frida -U -n com.instagram.android -s dump_root_detection_functions.js
 ```
-
+# Collaborators
+- [Julia](https://github.com/julianonn)
+- [Aiswarya](https://github.com/Aiswarya-Kumar99)
 
